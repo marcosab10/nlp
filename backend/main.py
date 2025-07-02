@@ -109,7 +109,7 @@ async def chat_handler(input: ChatInput):
     # 7. Geração de Resposta com OpenAI
     try:
         completion = client.chat.completions.create(
-            model="gpt-4o",
+            model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": prompt},
                 {"role": "user", "content": user_message}
