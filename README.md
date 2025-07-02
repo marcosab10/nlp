@@ -83,28 +83,31 @@ curl -X POST http://localhost:8000/chat \
   -d '{"session_id": "cliente001", "message": "Quero saber meu saldo"}'
 
 # Gerar índice FAISS a partir do conteúdo .txt
-python rag/index.py
+python backend/rag/build_index.py
 
 ```
 
-O objetivo era:
+### 🎯 Objetivos do Projeto
 
-    Desenvolver um Assistente Inteligente Bancáriocapaz de:
-	1.Receber e processarconsultas em linguagem natural dos clientes
-	2.Analisar o contexto emocionalda interação (frustração, urgência, satisfação)
-	3.Consultar a base de conhecimentobancária existente (produtos, regulamentações, FAQ)
-	4.Gerar respostas personalizadasque demonstrem compreensão tanto técnica quanto emocional
-	5.Escalar automaticamentepara atendimento humano quando necessário      
+Desenvolver um **Assistente Inteligente Bancário** capaz de:
 
-	Componentes técnicos esperados
-	•Pipeline de NLP Clássico:
-	•Pré-processamento e normalização de textoAnálisede sentimentos e detecção de intenções
-	•Extração de entidades financeiras (valores, contas, produtos)
-	Arquitetura RAG (Retrieval-AugmentedGeneration):
-	•Sistema de busca semântica na base de conhecimento
-	•Ranking e seleção de informações relevantes
-	•Geração contextualizada de respostas
-	AgentificaçãoInteligente:
-	•Orquestração de múltiplos modelos especializados
-	•Sistema de decisão para escalação
-	•Memória conversacional e contexto de sessão
+1.  **Receber e processar** consultas em linguagem natural dos clientes.
+2.  **Analisar o contexto emocional** da interação (frustração, urgência, satisfação).
+3.  **Consultar a base de conhecimento** bancária existente (produtos, regulamentações, FAQ).
+4.  **Gerar respostas personalizadas** que demonstrem compreensão tanto técnica quanto emocional.
+5.  **Escalar automaticamente** para atendimento humano quando necessário.
+
+### 🛠️ Componentes Técnicos Esperados
+
+*   **Pipeline de NLP Clássico:**
+    *   Pré-processamento e normalização de texto.
+    *   Análise de sentimentos e detecção de intenções.
+    *   Extração de entidades financeiras (valores, contas, produtos).
+*   **Arquitetura RAG (Retrieval-Augmented Generation):**
+    *   Sistema de busca semântica na base de conhecimento.
+    *   Ranking e seleção de informações relevantes.
+    *   Geração contextualizada de respostas.
+*   **Agentificação Inteligente:**
+    *   Orquestração de múltiplos modelos especializados.
+    *   Sistema de decisão para escalação.
+    *   Memória conversacional e contexto de sessão.
