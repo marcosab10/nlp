@@ -90,6 +90,45 @@ python backend/rag/build_index.py
 
 ```
 
+### 🐳 Executando com Docker
+
+Com o Docker instalado, você pode construir e executar a aplicação em um container.
+
+**1. Construa a Imagem Docker:**
+
+O comando a seguir irá construir a imagem a partir do `Dockerfile`. Ele instalará as dependências, baixará o modelo spaCy e criará o índice FAISS.
+
+```bash
+docker build -t assistente-bancario .
+```
+
+**2. Execute o Container:**
+
+Após a construção da imagem, execute o container. Não se esqueça de passar sua `OPENAI_API_KEY` como uma variável de ambiente.
+
+```bash
+docker run -d -p 8000:8000 --name assistente-bancario-container -e OPENAI_API_KEY="sua_chave_aqui" assistente-bancario
+```
+
+- `-d`: Executa o container em modo "detached" (em segundo plano).
+- `-p 8000:8000`: Mapeia a porta 8000 do seu host para a porta 8000 do container.
+- `--name`: Dá um nome amigável ao container.
+- `-e OPENAI_API_KEY`: Passa a chave da API da OpenAI para o ambiente do container.
+
+**3. Teste o Endpoint:**
+
+Agora você pode acessar a aplicação em `http://localhost:8000` ou testar o endpoint `/chat` com o `curl`:
+
+```bash
+curl -X POST http://localhost:8000/chat \
+  -H "Content-Type: application/json" \
+  -d '{"session_id": "cliente001", "message": "Quero saber meu saldo"}'
+```
+
+**4. Acesse o Frontend:**
+
+Abra seu navegador e acesse `http://localhost:8000` para interagir com o chat.
+
 ### 🎯 Objetivos do Projeto
 
 Desenvolver um **Assistente Inteligente Bancário** capaz de:
