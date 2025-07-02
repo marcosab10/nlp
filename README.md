@@ -20,6 +20,7 @@ Solução de atendimento ao cliente com NLP + RAG + LLM para compreensão de lin
 
 ## 📁 Estrutura do Projeto
 
+```txt
 backend/
 ├── main.py
 ├── agent/
@@ -37,6 +38,8 @@ backend/
 ├── docs/
 │ └── base_conhecimento.txt
 ├── nlp/intents.json
+
+```
     
 
 ## 📦 Instalação
