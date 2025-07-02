@@ -1,0 +1,26 @@
+[
+  {
+    "name": "consultar_saldo",
+    "examples": [
+      "Qual meu saldo?",
+      "Quanto tenho na conta?",
+      "Mostrar saldo da minha conta"
+    ]
+  },
+  {
+    "name": "consultar_fatura",
+    "examples": [
+      "Qual o valor da minha fatura?",
+      "Fatura do meu cartão",
+      "Me mostra a fatura do mês"
+    ]
+  },
+  {
+    "name": "abrir_conta",
+    "examples": [
+      "Quero abrir uma conta",
+      "Como faço para abrir uma conta?",
+      "Abrir conta corrente"
+    ]
+  }
+]

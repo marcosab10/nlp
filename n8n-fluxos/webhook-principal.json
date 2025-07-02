@@ -1,0 +1,77 @@
+
+---
+
+## 🔁 3. Fluxo N8N que chama o `/chat`
+
+Você pode importar o JSON abaixo diretamente no N8N:
+
+### 📄 `n8n-fluxos/assistente-inteligente-webhook.json`
+
+```json
+{
+  "nodes": [
+    {
+      "parameters": {
+        "path": "assistente-inteligente",
+        "options": {}
+      },
+      "id": "webhook_node",
+      "name": "Webhook Cliente",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [250, 300]
+    },
+    {
+      "parameters": {
+        "requestMethod": "POST",
+        "url": "http://localhost:8000/chat",
+        "jsonParameters": true,
+        "options": {},
+        "bodyParametersJson": "{\n  \"session_id\": \"={{$json[\"session_id\"]}}\",\n  \"message\": \"={{$json[\"message\"]}}\"\n}"
+      },
+      "id": "http_node",
+      "name": "Chamar Assistente",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 1,
+      "position": [550, 300]
+    },
+    {
+      "parameters": {
+        "functionCode": "return [{ json: { message: $json.resposta } }];"
+      },
+      "id": "format_node",
+      "name": "Formatar Resposta",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [800, 300]
+    }
+  ],
+  "connections": {
+    "Webhook Cliente": {
+      "main": [
+        [
+          {
+            "node": "Chamar Assistente",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Chamar Assistente": {
+      "main": [
+        [
+          {
+            "node": "Formatar Resposta",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {},
+  "name": "Assistente Bancário",
+  "tags": []
+}

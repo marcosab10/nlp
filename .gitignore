@@ -1,0 +1,24 @@
+# Ambiente Virtual
+venv/
+/venv/
+*.venv
+.venv
+
+# Arquivos de Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de ambiente
+.env
+
+# Arquivos do FAISS (gerados)
+backend/rag/faiss_index
+backend/rag/passages.pkl
+
+# Diretório do VSCode (configurações do editor)
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db

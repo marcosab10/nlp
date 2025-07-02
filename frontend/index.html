@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assistente Bancário</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f7f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        #chat-container {
+            width: 450px;
+            height: 650px;
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            background-color: #fff;
+            overflow: hidden;
+        }
+        #chat-header {
+            background: linear-gradient(90deg, #007bff, #0056b3);
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+        #chat-window {
+            flex-grow: 1;
+            padding: 20px;
+            overflow-y: auto;
+            border-top: 1px solid #e0e0e0;
+            border-bottom: 1px solid #e0e0e0;
+            background-color: #f9f9f9;
+        }
+        .message {
+            margin-bottom: 15px;
+            display: flex;
+            flex-direction: column;
+        }
+        .message .content {
+            padding: 12px 18px;
+            border-radius: 20px;
+            max-width: 80%;
+            line-height: 1.5;
+        }
+        .user-message .content {
+            background-color: #007bff;
+            color: white;
+            border-bottom-right-radius: 5px;
+        }
+        .user-message {
+            align-items: flex-end;
+        }
+        .bot-message .content {
+            background-color: #e9ecef;
+            color: #333;
+            border-bottom-left-radius: 5px;
+        }
+        .bot-message {
+            align-items: flex-start;
+        }
+        .typing-indicator {
+            display: none;
+            padding: 12px 18px;
+            background-color: #e9ecef;
+            border-radius: 20px;
+            font-style: italic;
+            color: #666;
+        }
+        #chat-form {
+            display: flex;
+            padding: 15px;
+            background-color: #fff;
+        }
+        #message-input {
+            flex-grow: 1;
+            border: 1px solid #ccc;
+            border-radius: 20px;
+            padding: 10px 15px;
+            font-size: 1em;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+        #message-input:focus {
+            border-color: #007bff;
+        }
+        #send-button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 45px;
+            height: 45px;
+            margin-left: 10px;
+            cursor: pointer;
+            font-size: 1.5em;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: background-color 0.3s;
+        }
+        #send-button:hover {
+            background-color: #0056b3;
+        }
+        .debug-info {
+            font-size: 0.8em;
+            color: #888;
+            margin-top: 5px;
+            background-color: #f0f0f0;
+            padding: 5px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="chat-container">
+    <div id="chat-header">Assistente Bancário Inteligente</div>
+    <div id="chat-window">
+        <div class="message bot-message">
+            <div class="content">Olá! Como posso te ajudar hoje?</div>
+        </div>
+    </div>
+    <form id="chat-form">
+        <input type="text" id="message-input" placeholder="Digite sua mensagem..." autocomplete="off" required>
+        <button id="send-button" type="submit">➤</button>
+    </form>
+</div>
+
+<script>
+    const chatForm = document.getElementById('chat-form');
+    const messageInput = document.getElementById('message-input');
+    const chatWindow = document.getElementById('chat-window');
+    const sessionId = 'web-session-' + Date.now() + Math.random().toString(36).substring(2, 15);
+
+    chatForm.addEventListener('submit', async (event) => {
+        event.preventDefault();
+        const userMessage = messageInput.value.trim();
+        if (!userMessage) return;
+
+        addMessageToWindow('user', userMessage);
+        messageInput.value = '';
+        showTypingIndicator(true);
+
+        try {
+            const response = await fetch('http://localhost:8000/chat', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    session_id: sessionId,
+                    message: userMessage,
+                }),
+            });
+
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+
+            const data = await response.json();
+            showTypingIndicator(false);
+            addMessageToWindow('bot', data.response, data);
+
+        } catch (error) {
+            showTypingIndicator(false);
+            const errorMessage = 'Desculpe, não consegui me conectar ao servidor. Verifique se o backend está rodando e tente novamente.';
+            addMessageToWindow('bot', errorMessage);
+            console.error('Fetch error:', error);
+        }
+    });
+
+    function addMessageToWindow(sender, message, debugData = null) {
+        const messageWrapper = document.createElement('div');
+        messageWrapper.className = `message ${sender}-message`;
+
+        const messageElement = document.createElement('div');
+        messageElement.className = 'content';
+        messageElement.textContent = message;
+        
+        messageWrapper.appendChild(messageElement);
+
+        if (debugData && sender === 'bot') {
+            const debugElement = document.createElement('div');
+            debugElement.className = 'debug-info';
+            debugElement.innerHTML = `
+                <strong>Intenção:</strong> ${debugData.intent.intent} (${(debugData.intent.confidence * 100).toFixed(1)}%)<br>
+                <strong>Emoção:</strong> ${debugData.emotion.emotions[0].label}
+            `;
+            messageWrapper.appendChild(debugElement);
+        }
+
+        chatWindow.appendChild(messageWrapper);
+        chatWindow.scrollTop = chatWindow.scrollHeight;
+    }
+
+    function showTypingIndicator(show) {
+        let indicator = document.getElementById('typing-indicator');
+        if (show) {
+            if (!indicator) {
+                indicator = document.createElement('div');
+                indicator.id = 'typing-indicator';
+                indicator.className = 'message bot-message';
+                const content = document.createElement('div');
+                content.className = 'content';
+                content.textContent = 'Digitando...';
+                indicator.appendChild(content);
+                chatWindow.appendChild(indicator);
+                chatWindow.scrollTop = chatWindow.scrollHeight;
+            }
+        } else {
+            if (indicator) {
+                indicator.remove();
+            }
+        }
+    }
+</script>
+
+</body>
+</html>
