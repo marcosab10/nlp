@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Roboto+Mono:wght@400;700&display=swap');
+
+/*
+Cyberpunk Theme - Professional Redesign
+Colors: Deep space blue, neon cyan, magenta accents, and off-white for text.
+*/
+
+@keyframes subtle-flicker {
+  0%, 100% { opacity: 1; text-shadow: 0 0 5px #00ffff, 0 0 8px #00ffff; }
+  50% { opacity: 0.8; text-shadow: 0 0 5px #ff00ff, 0 0 8px #ff00ff; }
+}
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: #0c0c1f; /* Deep space blue */
+    color: #e0e0e0; /* Off-white for readability */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-size: 16px; /* Base font-size for consistency */
+}
+
+#chat-container {
+    width: 800px; /* Defina uma largura máxima */
+    height: 600px; /* Defina uma altura máxima */
+    max-width: 95%; /* Garante que não ultrapasse a largura da tela */
+    background: rgba(16, 16, 48, 0.85); /* Dark blue, semi-transparent */
+    border: 1px solid #ff00ff; /* Sharp magenta border */
+    border-radius: 0;
+    box-shadow: 0 0 20px rgba(255, 0, 255, 0.5);
+    backdrop-filter: blur(3px); /* Subtle glassmorphism */
+    display: flex;
+    flex-direction: column;
+}
+
+#chat-header {
+    font-family: 'Orbitron', sans-serif; /* Futuristic font for titles */
+    background: #101030;
+    color: #00ffff;
+    border-bottom: 1px solid #00ffff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 0 0 4px #00ffff;
+    animation: none; /* Removed distracting flicker from header text */
+    padding: 15px 20px;
+    font-size: 1.1em;
+    display: flex; /* Enable flexbox for alignment */
+    flex-direction: column; /* Stack title and selectors vertically */
+    align-items: flex-start; /* Align items to the start (left) */
+    gap: 10px; /* Add vertical space between title and selectors */
+}
+
+/* Theme Selectors */
+#selectors-container {
+    display: flex;
+    gap: 20px;
+    align-items: center; /* Align items vertically */
+}
+
+.selector-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.selector-wrapper label {
+    font-size: 0.9em;
+    color: #ff00ff; /* Magenta label */
+    text-transform: uppercase;
+}
+
+select {
+    background-color: #101030;
+    color: #00ffff;
+    border: 1px solid #ff00ff;
+    border-radius: 0;
+    font-family: 'Roboto Mono', monospace;
+    padding: 8px 12px;
+    font-size: 0.9em;
+    cursor: pointer; /* Add pointer cursor on hover */
+}
+
+#message-input {
+    background-color: #101030;
+    color: #00ffff;
+    border: 1px solid #ff00ff;
+    border-radius: 0;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1em;
+    padding: 12px;
+    flex-grow: 1; /* Make input field grow */
+    border-right: none; /* Remove border between input and button */
+}
+
+select:focus, #message-input:focus {
+    outline: none;
+    box-shadow: 0 0 8px #ff00ff;
+    background-color: rgba(0,0,0,0.5);
+}
+
+#chat-window {
+    flex-grow: 1; /* Allow window to fill available space */
+    overflow-y: auto; /* Enable vertical scrolling */
+    padding: 20px;
+    background-color: transparent;
+    /* Subtle grid background for a high-tech feel */
+    background-image: 
+        linear-gradient(rgba(0, 255, 255, 0.07) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 255, 255, 0.07) 1px, transparent 1px);
+    background-size: 25px 25px;
+}
+
+.message .content {
+    background-color: rgba(10, 10, 42, 0.9);
+    border: 1px solid #00ffff;
+    border-radius: 4px;
+    box-shadow: none;
+    color: #e0e0e0;
+}
+
+.user-message .content {
+    background-color: rgba(42, 10, 42, 0.9);
+    border-color: #ff00ff;
+}
+
+.debug-info {
+    color: #ff00ff;
+    opacity: 0.8;
+    font-size: 0.8em; /* Slightly larger for readability */
+}
+
+#chat-form {
+    background-color: #101030;
+    border-top: 1px solid #00ffff;
+    display: flex; /* Use flexbox for input and button */
+}
+
+#message-input::placeholder {
+    color: #ff00ff;
+    opacity: 0.6;
+}
+
+#send-button {
+    background-color: transparent;
+    color: #00ffff;
+    border: 1px solid #00ffff;
+    border-radius: 0;
+    transition: all 0.3s ease;
+    border-left: none;
+}
+
+#send-button:hover {
+    background-color: #00ffff;
+    color: #101030;
+    box-shadow: 0 0 15px #00ffff;
+    transform: scale(1.1);
+}
+
+.typing-indicator .content::after {
+    content: '▋'; /* Solid block cursor */
+    animation: subtle-flicker 1.2s infinite;
+    font-size: 1.2em;
+    color: #00ffff;
+}
