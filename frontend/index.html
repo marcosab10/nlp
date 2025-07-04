@@ -28,10 +28,25 @@
         #chat-header {
             background: linear-gradient(90deg, #007bff, #0056b3);
             color: white;
-            padding: 20px;
+            padding: 15px 20px;
             text-align: center;
             font-size: 1.2em;
             font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        #theme-selector {
+            background-color: #0056b3;
+            color: white;
+            border: 1px solid #007bff;
+            border-radius: 5px;
+            padding: 5px 8px;
+            font-size: 0.8em;
+            cursor: pointer;
+        }
+        #theme-selector:focus {
+            outline: none;
         }
         #chat-window {
             flex-grow: 1;
@@ -124,7 +139,10 @@
 <body>
 
 <div id="chat-container">
-    <div id="chat-header">Assistente Bancário Inteligente</div>
+    <div id="chat-header">
+        <span id="header-title">Assistente Inteligente</span>
+        <select id="theme-selector"></select>
+    </div>
     <div id="chat-window">
         <div class="message bot-message">
             <div class="content">Olá! Como posso te ajudar hoje?</div>
@@ -140,7 +158,41 @@
     const chatForm = document.getElementById('chat-form');
     const messageInput = document.getElementById('message-input');
     const chatWindow = document.getElementById('chat-window');
+    const themeSelector = document.getElementById('theme-selector');
+    const headerTitle = document.getElementById('header-title');
     const sessionId = 'web-session-' + Date.now() + Math.random().toString(36).substring(2, 15);
+
+    // Carregar temas ao iniciar
+    document.addEventListener('DOMContentLoaded', async () => {
+        try {
+            const response = await fetch('http://localhost:8000/themes');
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            const data = await response.json();
+            populateThemeSelector(data.themes);
+            updateChatHeader(); // Atualiza o header com o tema inicial
+        } catch (error) {
+            console.error('Failed to load themes:', error);
+            addMessageToWindow('bot', 'Erro ao carregar os temas. Usando tema padrão.');
+        }
+    });
+
+    function populateThemeSelector(themes) {
+        themes.forEach(theme => {
+            const option = document.createElement('option');
+            option.value = theme;
+            option.textContent = theme.charAt(0).toUpperCase() + theme.slice(1); // Capitalize
+            themeSelector.appendChild(option);
+        });
+    }
+
+    function updateChatHeader() {
+        const selectedTheme = themeSelector.options[themeSelector.selectedIndex].text;
+        headerTitle.textContent = `Assistente de ${selectedTheme}`;
+    }
+
+    themeSelector.addEventListener('change', updateChatHeader);
 
     chatForm.addEventListener('submit', async (event) => {
         event.preventDefault();
@@ -152,6 +204,7 @@
         showTypingIndicator(true);
 
         try {
+            const selectedTheme = themeSelector.value;
             const response = await fetch('http://localhost:8000/chat', {
                 method: 'POST',
                 headers: {
@@ -160,6 +213,7 @@
                 body: JSON.stringify({
                     session_id: sessionId,
                     message: userMessage,
+                    theme: selectedTheme,
                 }),
             });
 

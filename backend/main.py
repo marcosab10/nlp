@@ -79,6 +79,12 @@ app.add_middleware(
     allow_headers=["*"],  # Permite todos os cabeçalhos
 )
 
+@app.get("/themes")
+async def get_themes():
+    """Lista os temas disponíveis na pasta themes."""
+    themes = [d for d in os.listdir(THEMES_BASE_PATH) if os.path.isdir(os.path.join(THEMES_BASE_PATH, d))]
+    return {"themes": themes}
+
 # Componentes não dependentes de tema
 emotion_analyzer = EmotionAnalyzer()
 ner_extractor = FinanceEntityExtractor() # Pode ser específico do tema no futuro
@@ -138,12 +144,12 @@ async def chat_handler(input: ChatInput):
     )
     
     # 8. Decisão de escalonamento
-    if decider.should_escalate(intent, emotion, context):
+    if decider.should_escalate(session_id, intent, emotion):
         response_text = "Sinto muito, não consigo resolver seu problema. Vou te transferir para um atendente humano."
     else:
         # 9. Geração de resposta com LLM
         response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": prompt},
                 {"role": "user", "content": user_message}

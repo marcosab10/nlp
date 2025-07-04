@@ -4,6 +4,7 @@ Solução de assistente conversacional com NLP + RAG + LLM, agora com suporte a 
 
 ## 🚀 Funcionalidades
 
+- **Interface Web Interativa:** Frontend com seletor de temas para uma experiência de usuário mais amigável.
 - **Suporte Dinâmico a Múltiplos Temas:** Configure diferentes "personalidades" para o agente, cada uma com sua própria base de conhecimento, intenções e prompt de sistema.
 - Compreensão de linguagem natural com detecção de intenções (específica por tema).
 - Análise de sentimentos e emoções do cliente.
@@ -90,15 +91,26 @@ Este comando irá ler os arquivos em `themes/*/knowledge/` e criar um índice FA
 
 **5. Inicie o Servidor:**
 
+Navegue até o diretório do backend e inicie o servidor Uvicorn.
+
 ```bash
-uvicorn backend.main:app --reload
+cd backend
+uvicorn main:app --reload
 ```
 
 A API estará disponível em `http://localhost:8000`.
 
-## ⚙️ Como Usar a API
+**6. Use a Interface Web:**
 
-O endpoint `/chat` agora aceita um campo `theme` para selecionar o assistente desejado.
+Após iniciar o servidor, abra o arquivo `frontend/index.html` diretamente no seu navegador.
+
+A interface carregará os temas disponíveis em um menu suspenso, permitindo que você converse com o assistente de sua escolha.
+
+## ⚙️ Testando a API (Opcional)
+
+A forma principal de interagir com o assistente é através da interface web. No entanto, você pode testar o endpoint `/chat` diretamente usando ferramentas como `curl`.
+
+O endpoint `/chat` aceita um campo `theme` para selecionar o assistente desejado.
 
 **Exemplo de requisição para o tema "banking":**
 
@@ -137,4 +149,4 @@ curl -X POST http://localhost:8000/chat \
     ```bash
     python build_all_themes.py
     ```
-4.  **Pronto!** Agora você pode fazer requisições à API usando `"theme": "legal"`.
+4.  **Pronto!** Reinicie o servidor e abra o `frontend/index.html`. O novo tema aparecerá automaticamente no seletor.
