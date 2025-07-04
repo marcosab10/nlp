@@ -1,155 +1,152 @@
-# 🤖 Assistente Inteligente Bancário
+# 🤖 Assistente Inteligente Multitemático
 
-Solução de atendimento ao cliente com NLP + RAG + LLM para compreensão de linguagem natural, emoção, contexto e respostas automáticas inteligentes.
+Solução de assistente conversacional com NLP + RAG + LLM, agora com suporte a múltiplos domínios (temas). O sistema carrega dinamicamente a base de conhecimento, intenções e personalidade do agente, permitindo atuar como um assistente bancário, um analista literário, ou qualquer outro tema configurado.
 
 ## 🚀 Funcionalidades
 
-- Compreensão de linguagem natural com detecção de intenções
-- Análise de sentimentos e emoções do cliente
-- Extração de entidades financeiras
-- Busca semântica com RAG (FAISS + SBERT)
-- Geração de respostas personalizadas com OpenAI GPT-4o
-- Escalonamento automático para atendimento humano
+- **Interface Web Interativa:** Frontend com seletor de temas para uma experiência de usuário mais amigável.
+- **Suporte Dinâmico a Múltiplos Temas:** Configure diferentes "personalidades" para o agente, cada uma com sua própria base de conhecimento, intenções e prompt de sistema.
+- Compreensão de linguagem natural com detecção de intenções (específica por tema).
+- Análise de sentimentos e emoções do cliente.
+- Extração de entidades (atualmente focado em finanças, mas pode ser estendido).
+- Busca semântica com RAG (FAISS + SBERT) na base de conhecimento do tema.
+- Geração de respostas personalizadas com OpenAI.
+- Escalonamento automático para atendimento humano.
 
 ## 🧱 Arquitetura
 
 - Backend: FastAPI + Python
-- LLM: OpenAI GPT-4o
+- LLM: OpenAI (gpt-3.5-turbo, gpt-4, etc.)
 - Busca Semântica: FAISS + SentenceTransformers
 - Orquestração: N8N (via HTTP Webhook)
 
 ## 📁 Estrutura do Projeto
 
+A nova estrutura é baseada em temas, permitindo a fácil adição de novos domínios.
+
 ```txt
-backend/
-├── main.py
-├── agent/
-│ ├── memory.py
-│ └── decision.py
-├── nlp/
-│ ├── intent_detector.py
-│ ├── sentiment_emotion.py
-│ ├── ner_extractor.py
-├── rag/
-│ ├── index.py
-│ └── search.py
-├── utils/
-│ └── preprocessing.py
-├── docs/
-│ └── base_conhecimento.txt
-├── nlp/intents.json
-
+assistente-bancario/
+├── backend/
+│   ├── main.py
+│   ├── agent/
+│   ├── nlp/
+│   ├── rag/
+│   └── utils/
+├── themes/
+│   ├── banking/
+│   │   ├── knowledge/
+│   │   │   └── *.txt, *.pdf
+│   │   ├── intents.json
+│   │   └── prompt.txt
+│   └── literature/
+│       ├── knowledge/
+│       │   └── *.txt, *.pdf
+│       ├── intents.json
+│       └── prompt.txt
+├── build_all_themes.py
+├── requirements.txt
+└── README.md
 ```
-    
 
-## 📦 Instalação
+## 📦 Instalação e Execução
+
+**1. Clone o repositório e instale as dependências:**
 
 ```bash
 git clone https://github.com/seu-usuario/assistente-bancario.git
 cd assistente-bancario
 python -m venv venv
-source venv/Scripts/activate
+# No Windows
+venv\Scripts\activate
+# No Linux/macOS
+# source venv/bin/activate
 pip install -r requirements.txt
-
 ```
 
-```bash
+**2. Baixe o modelo de linguagem para spaCy:**
 
+Este modelo é usado para tarefas de NLP como a extração de entidades.
+
+```bash
 python -m spacy download pt_core_news_sm
-
 ```
 
-Esse comando serve para baixar e instalar um modelo de linguagem pré-treinado para a biblioteca `spaCy`. Vamos quebrar o comando:
+**3. Configure sua chave da API da OpenAI:**
 
-*   `python -m spacy`: Executa a interface de linha de comando do `spaCy`.
-*   `download`: É o comando para baixar um modelo.
-*   `pt_core_news_sm`: É o nome do modelo:
-    *   `pt`: Refere-se ao idioma Português.
-    *   `core`: É um modelo de propósito geral (vocabulário, sintaxe, entidades, etc.).
-    *   `news`: Indica que foi treinado em textos de notícias.
-    *   `sm`: Significa "small" (pequeno), indicando o tamanho do modelo.
+Crie um arquivo chamado `.env` na raiz do projeto e adicione sua chave:
 
-Em resumo, o comando instala um modelo de português para que o `spaCy` possa realizar tarefas de Processamento de Linguagem Natural (NLP), como a extração de entidades que é feita no arquivo `ner_extractor.py`.
+```
+OPENAI_API_KEY="sk-..."
+```
 
+**4. Construa os Índices de Conhecimento:**
 
+Antes de rodar a aplicação, você precisa gerar os índices de busca para cada tema. O script `build_all_themes.py` automatiza isso.
 
 ```bash
+python build_all_themes.py
+```
 
-OPENAI_API_KEY=sk-xxxx
+Este comando irá ler os arquivos em `themes/*/knowledge/` e criar um índice FAISS (`faiss_index.pkl`) e um arquivo de passagens (`passages.pkl`) dentro de cada diretório de tema.
 
+**5. Inicie o Servidor:**
 
-source venv/Scripts/activate
+Navegue até o diretório do backend e inicie o servidor Uvicorn.
+
+```bash
+cd backend
 uvicorn main:app --reload
-
-curl -X POST http://localhost:8000/chat \
-  -H "Content-Type: application/json" \
-  -d '{"session_id": "cliente001", "message": "Quero saber meu saldo"}'
-
-# Gerar índice FAISS a partir do conteúdo .txt
-python backend/rag/build_index.py
-
 ```
 
-### 🐳 Executando com Docker
+A API estará disponível em `http://localhost:8000`.
 
-Com o Docker instalado, você pode construir e executar a aplicação em um container.
+**6. Use a Interface Web:**
 
-**1. Construa a Imagem Docker:**
+Após iniciar o servidor, abra o arquivo `frontend/index.html` diretamente no seu navegador.
 
-O comando a seguir irá construir a imagem a partir do `Dockerfile`. Ele instalará as dependências, baixará o modelo spaCy e criará o índice FAISS.
+A interface carregará os temas disponíveis em um menu suspenso, permitindo que você converse com o assistente de sua escolha.
 
-```bash
-docker build -t assistente-bancario .
-```
+## ⚙️ Testando a API (Opcional)
 
-**2. Execute o Container:**
+A forma principal de interagir com o assistente é através da interface web. No entanto, você pode testar o endpoint `/chat` diretamente usando ferramentas como `curl`.
 
-Após a construção da imagem, execute o container. Não se esqueça de passar sua `OPENAI_API_KEY` como uma variável de ambiente.
+O endpoint `/chat` aceita um campo `theme` para selecionar o assistente desejado.
 
-```bash
-docker run -d -p 8000:8000 --name assistente-bancario-container -e OPENAI_API_KEY="sua_chave_aqui" assistente-bancario
-```
-
-- `-d`: Executa o container em modo "detached" (em segundo plano).
-- `-p 8000:8000`: Mapeia a porta 8000 do seu host para a porta 8000 do container.
-- `--name`: Dá um nome amigável ao container.
-- `-e OPENAI_API_KEY`: Passa a chave da API da OpenAI para o ambiente do container.
-
-**3. Teste o Endpoint:**
-
-Agora você pode acessar a aplicação em `http://localhost:8000` ou testar o endpoint `/chat` com o `curl`:
+**Exemplo de requisição para o tema "banking":**
 
 ```bash
 curl -X POST http://localhost:8000/chat \
   -H "Content-Type: application/json" \
-  -d '{"session_id": "cliente001", "message": "Quero saber meu saldo"}'
+  -d '{
+        "session_id": "cliente001",
+        "message": "Quero saber sobre o cartão de crédito",
+        "theme": "banking"
+      }'
 ```
 
-**4. Acesse o Frontend:**
+**Exemplo de requisição para o tema "literature":**
 
-Abra seu navegador e acesse `http://localhost:8000` para interagir com o chat.
+```bash
+curl -X POST http://localhost:8000/chat \
+  -H "Content-Type: application/json" \
+  -d '{
+        "session_id": "leitor001",
+        "message": "Qual o tema principal de Dom Casmurro?",
+        "theme": "literature"
+      }'
+```
 
-### 🎯 Objetivos do Projeto
+> Se o campo `theme` não for enviado, o sistema usará `"banking"` como padrão.
 
-Desenvolver um **Assistente Inteligente Bancário** capaz de:
+## ✨ Como Adicionar um Novo Tema
 
-1.  **Receber e processar** consultas em linguagem natural dos clientes.
-2.  **Analisar o contexto emocional** da interação (frustração, urgência, satisfação).
-3.  **Consultar a base de conhecimento** bancária existente (produtos, regulamentações, FAQ).
-4.  **Gerar respostas personalizadas** que demonstrem compreensão tanto técnica quanto emocional.
-5.  **Escalar automaticamente** para atendimento humano quando necessário.
-
-### 🛠️ Componentes Técnicos Esperados
-
-*   **Pipeline de NLP Clássico:**
-    *   Pré-processamento e normalização de texto.
-    *   Análise de sentimentos e detecção de intenções.
-    *   Extração de entidades financeiras (valores, contas, produtos).
-*   **Arquitetura RAG (Retrieval-Augmented Generation):**
-    *   Sistema de busca semântica na base de conhecimento.
-    *   Ranking e seleção de informações relevantes.
-    *   Geração contextualizada de respostas.
-*   **Agentificação Inteligente:**
-    *   Orquestração de múltiplos modelos especializados.
-    *   Sistema de decisão para escalação.
-    *   Memória conversacional e contexto de sessão.
+1.  **Crie a Estrutura:** Adicione uma nova pasta dentro de `themes/`. Por exemplo, `themes/legal/`.
+2.  **Adicione os Arquivos:** Dentro da nova pasta (`legal/`), crie:
+    *   Uma pasta `knowledge/` contendo os arquivos de base de conhecimento (`.txt`, `.pdf`).
+    *   Um arquivo `intents.json` com as intenções e exemplos para o novo domínio.
+    *   Um arquivo `prompt.txt` com o prompt de sistema que define a personalidade e as instruções do novo agente. Use os placeholders como `{context}`, `{history_text}`, etc., conforme necessário.
+3.  **Construa o Índice:** Execute novamente o script para criar o índice do novo tema.
+    ```bash
+    python build_all_themes.py
+    ```
+4.  **Pronto!** Reinicie o servidor e abra o `frontend/index.html`. O novo tema aparecerá automaticamente no seletor.

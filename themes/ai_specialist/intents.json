@@ -1,0 +1,42 @@
+[
+  {
+    "name": "definir_conceito",
+    "examples": [
+      "O que é um LLM?",
+      "Me explique o que é deep learning.",
+      "O que significa NLP?",
+      "Defina o que é uma rede neural convolucional.",
+      "Qual a ideia por trás de machine learning?"
+    ]
+  },
+  {
+    "name": "comparar_tecnicas",
+    "examples": [
+      "Qual a diferença entre machine learning e deep learning?",
+      "CNN vs RNN, quando usar cada uma?",
+      "Qual a principal distinção entre IA generativa e IA tradicional?",
+      "Compare os modelos de embedding Word2Vec e GloVe.",
+      "O que diferencia a modelagem clássica dos modelos de deep learning?"
+    ]
+  },
+  {
+    "name": "explicar_aplicacao",
+    "examples": [
+      "Como o NLP é usado em chatbots?",
+      "Me dê um exemplo de aplicação de CNNs em visão computacional.",
+      "Onde os LLMs são mais utilizados hoje em dia?",
+      "Para que serve a análise de sentimentos?",
+      "Como a IA pode ser usada para prever o mercado de ações?"
+    ]
+  },
+  {
+    "name": "detalhar_arquitetura",
+    "examples": [
+      "Como funciona a arquitetura Transformer?",
+      "Quais são as camadas de uma rede neural convolucional?",
+      "Explique o mecanismo de atenção em modelos de linguagem.",
+      "Como é a estrutura de um autoencoder?",
+      "Quais os componentes de uma rede GAN?"
+    ]
+  }
+]

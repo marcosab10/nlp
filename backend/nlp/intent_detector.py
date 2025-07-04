@@ -1,13 +1,20 @@
 # intent_detector.py
+import os
 from sentence_transformers import SentenceTransformer, util
 import json
 import torch
 
 class IntentDetector:
-    def __init__(self, model_name='sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2'):
+    def __init__(self, intents_path: str, model_name='sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2'):
+        """Inicializa o detector de intenções para um arquivo de intenções específico."""
         self.model = SentenceTransformer(model_name)
-        with open('nlp/intents.json', 'r', encoding='utf-8') as f:
+        
+        if not os.path.exists(intents_path):
+            raise FileNotFoundError(f"Arquivo de intenções não encontrado em '{intents_path}'.")
+
+        with open(intents_path, 'r', encoding='utf-8') as f:
             self.intents = json.load(f)
+            
         self.intent_embeddings = {
             intent["name"]: self.model.encode(intent["examples"], convert_to_tensor=True)
             for intent in self.intents

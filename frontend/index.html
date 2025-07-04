@@ -3,128 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assistente Bancário</title>
+    <title>Assistente Inteligente Multitemático</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f4f7f9;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-        #chat-container {
-            width: 450px;
-            height: 650px;
-            border-radius: 15px;
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
-            display: flex;
-            flex-direction: column;
-            background-color: #fff;
-            overflow: hidden;
-        }
-        #chat-header {
-            background: linear-gradient(90deg, #007bff, #0056b3);
-            color: white;
-            padding: 20px;
-            text-align: center;
-            font-size: 1.2em;
-            font-weight: bold;
-        }
-        #chat-window {
-            flex-grow: 1;
-            padding: 20px;
-            overflow-y: auto;
-            border-top: 1px solid #e0e0e0;
-            border-bottom: 1px solid #e0e0e0;
-            background-color: #f9f9f9;
-        }
-        .message {
-            margin-bottom: 15px;
-            display: flex;
-            flex-direction: column;
-        }
-        .message .content {
-            padding: 12px 18px;
-            border-radius: 20px;
-            max-width: 80%;
-            line-height: 1.5;
-        }
-        .user-message .content {
-            background-color: #007bff;
-            color: white;
-            border-bottom-right-radius: 5px;
-        }
-        .user-message {
-            align-items: flex-end;
-        }
-        .bot-message .content {
-            background-color: #e9ecef;
-            color: #333;
-            border-bottom-left-radius: 5px;
-        }
-        .bot-message {
-            align-items: flex-start;
-        }
-        .typing-indicator {
-            display: none;
-            padding: 12px 18px;
-            background-color: #e9ecef;
-            border-radius: 20px;
-            font-style: italic;
-            color: #666;
-        }
-        #chat-form {
-            display: flex;
-            padding: 15px;
-            background-color: #fff;
-        }
-        #message-input {
-            flex-grow: 1;
-            border: 1px solid #ccc;
-            border-radius: 20px;
-            padding: 10px 15px;
-            font-size: 1em;
-            outline: none;
-            transition: border-color 0.3s;
-        }
-        #message-input:focus {
-            border-color: #007bff;
-        }
-        #send-button {
-            background-color: #007bff;
-            color: white;
-            border: none;
-            border-radius: 50%;
-            width: 45px;
-            height: 45px;
-            margin-left: 10px;
-            cursor: pointer;
-            font-size: 1.5em;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            transition: background-color 0.3s;
-        }
-        #send-button:hover {
-            background-color: #0056b3;
-        }
-        .debug-info {
-            font-size: 0.8em;
-            color: #888;
-            margin-top: 5px;
-            background-color: #f0f0f0;
-            padding: 5px;
-            border-radius: 5px;
-        }
-    </style>
+    <link id="theme-stylesheet" rel="stylesheet" href="css/default.css">
 </head>
 <body>
 
 <div id="chat-container">
-    <div id="chat-header">Assistente Bancário Inteligente</div>
+    <div id="chat-header">
+        <div id="header-title-container">
+            <span id="header-title">Assistente Inteligente</span>
+        </div>
+        <div id="selectors-container">
+            <div class="selector-wrapper">
+                <label for="theme-selector">Tema:</label>
+                <select id="theme-selector"></select>
+            </div>
+            <div class="selector-wrapper">
+                <label for="visual-theme-selector">Estilo:</label>
+                <select id="visual-theme-selector">
+                    <option value="default">Padrão</option>
+                    <option value="matrix">Matrix</option>
+                    <option value="terminator">Terminator</option>
+                </select>
+            </div>
+        </div>
+    </div>
     <div id="chat-window">
         <div class="message bot-message">
             <div class="content">Olá! Como posso te ajudar hoje?</div>
@@ -140,18 +44,72 @@
     const chatForm = document.getElementById('chat-form');
     const messageInput = document.getElementById('message-input');
     const chatWindow = document.getElementById('chat-window');
-    const sessionId = 'web-session-' + Date.now() + Math.random().toString(36).substring(2, 15);
+    const sendButton = document.getElementById('send-button');
+    const themeSelector = document.getElementById('theme-selector');
+    const visualThemeSelector = document.getElementById('visual-theme-selector');
+    const typingIndicator = document.getElementById('typing-indicator');
+    const headerTitle = document.getElementById('header-title');
+
+    let sessionId = generateSessionId();
+
+    // Carregar temas ao iniciar
+    document.addEventListener('DOMContentLoaded', async () => {
+        try {
+            const response = await fetch('http://localhost:8000/themes');
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            const data = await response.json();
+            populateThemeSelector(data.themes);
+            updateChatHeader(); // Atualiza o header com o tema inicial
+        } catch (error) {
+            console.error('Failed to load themes:', error);
+            addMessage('bot', 'Erro ao carregar os temas. Usando tema padrão.');
+        }
+    });
+
+    function populateThemeSelector(themes) {
+        themes.forEach(theme => {
+            const option = document.createElement('option');
+            option.value = theme;
+            option.textContent = theme.charAt(0).toUpperCase() + theme.slice(1); // Capitalize
+            themeSelector.appendChild(option);
+        });
+    }
+
+    function resetChat() {
+        chatWindow.innerHTML = ''; // Limpa a janela de chat
+        const selectedThemeText = themeSelector.options[themeSelector.selectedIndex].text;
+        addMessage('bot', `Olá! Sou o assistente de ${selectedThemeText}. Como posso ajudar?`);
+        sessionId = generateSessionId(); // Gera um novo ID de sessão
+    }
+
+    function updateChatHeader() {
+        const selectedTheme = themeSelector.options[themeSelector.selectedIndex].text;
+        headerTitle.textContent = `Assistente de ${selectedTheme}`;
+    }
+
+    themeSelector.addEventListener('change', () => {
+        updateChatHeader();
+        resetChat();
+    });
+
+    visualThemeSelector.addEventListener('change', () => {
+        const selectedTheme = visualThemeSelector.value;
+        document.getElementById('theme-stylesheet').setAttribute('href', `css/${selectedTheme}.css`);
+    });
 
     chatForm.addEventListener('submit', async (event) => {
         event.preventDefault();
         const userMessage = messageInput.value.trim();
         if (!userMessage) return;
 
-        addMessageToWindow('user', userMessage);
+        addMessage('user', userMessage);
         messageInput.value = '';
         showTypingIndicator(true);
 
         try {
+            const selectedTheme = themeSelector.value;
             const response = await fetch('http://localhost:8000/chat', {
                 method: 'POST',
                 headers: {
@@ -160,6 +118,7 @@
                 body: JSON.stringify({
                     session_id: sessionId,
                     message: userMessage,
+                    theme: selectedTheme,
                 }),
             });
 
@@ -169,25 +128,29 @@
 
             const data = await response.json();
             showTypingIndicator(false);
-            addMessageToWindow('bot', data.response, data);
+            addMessage('bot', data.response, data);
 
         } catch (error) {
             showTypingIndicator(false);
             const errorMessage = 'Desculpe, não consegui me conectar ao servidor. Verifique se o backend está rodando e tente novamente.';
-            addMessageToWindow('bot', errorMessage);
+            addMessage('bot', errorMessage);
             console.error('Fetch error:', error);
         }
     });
 
-    function addMessageToWindow(sender, message, debugData = null) {
+    function generateSessionId() {
+        return 'web-session-' + Date.now() + Math.random().toString(36).substring(2, 15);
+    }
+
+    function addMessage(sender, message, debugData = null) {
         const messageElement = document.createElement('div');
-        messageElement.classList.add('message', sender === 'user' ? 'user-message' : 'bot-message');
+        messageElement.classList.add('message', sender + '-message');
 
         const contentElement = document.createElement('div');
         contentElement.classList.add('content');
 
         if (sender === 'bot') {
-            // Converte a mensagem de markdown para HTML antes de exibir
+            // Renderiza markdown para mensagens do bot
             contentElement.innerHTML = marked.parse(message);
         } else {
             contentElement.textContent = message;
@@ -198,10 +161,10 @@
         if (debugData) {
             const debugElement = document.createElement('div');
             debugElement.className = 'debug-info';
-            debugElement.innerHTML = `
-                <strong>Intenção:</strong> ${debugData.intent.intent} (${(debugData.intent.confidence * 100).toFixed(1)}%)<br>
-                <strong>Emoção:</strong> ${debugData.emotion.emotions[0].label}
-            `;
+            
+            const confidence = (debugData.intent_confidence * 100).toFixed(1);
+            debugElement.innerHTML = `↳ Intenção: <strong>${debugData.intent_name}</strong> (${confidence}%) | Emoção: <strong>${debugData.emotion_label}</strong>`;
+            
             messageElement.appendChild(debugElement);
         }
 
