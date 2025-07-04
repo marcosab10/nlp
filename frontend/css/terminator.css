@@ -1,39 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Russo+One&display=swap');
+
+/*
+Terminator Theme - Professional Redesign
+*/
+
+@keyframes scanlines {
+  0% { background-position: 0 0; }
+  100% { background-position: 0 100%; }
+}
+
+@keyframes red-glow {
+  from { text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000; }
+  to { text-shadow: 0 0 10px #ff0000, 0 0 20px #ff3b3b; }
+}
+
 /* General Body Styles */
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Aldrich', sans-serif;
     background-color: #000;
-    color: #ff0000;
+    color: #ff3b3b; /* A slightly less harsh red */
+    background-image: url('https://www.transparenttextures.com/patterns/worn-dots.png');
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
-    text-shadow: 0 0 3px #ff0000, 0 0 5px #ff0000;
 }
 
 /* Chat Container */
 #chat-container {
+    background: linear-gradient(rgba(20, 20, 20, 0.9), rgba(0, 0, 0, 0.95));
+    border: 2px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to bottom, #777, #ccc, #777);
+    box-shadow: 0 0 25px rgba(255, 59, 59, 0.5);
+    backdrop-filter: blur(1px);
     width: 800px;
     height: 600px;
     display: flex;
     flex-direction: column;
-    background-color: rgba(10, 0, 0, 0.9);
-    border: 2px solid #ff0000;
-    border-radius: 5px;
-    box-shadow: 0 0 15px #ff0000;
     overflow: hidden;
 }
 
 /* Chat Header */
 #chat-header {
-    background: linear-gradient(to bottom, #333, #111);
-    color: #ff0000;
+    font-family: 'Russo One', sans-serif;
+    background: linear-gradient(to bottom, #444, #111);
+    color: #ff3b3b;
+    border-bottom: 2px solid #ff3b3b;
+    text-shadow: 0 0 5px #ff0000;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
     padding: 10px 15px;
     text-align: left;
     font-size: 1.2em;
     font-weight: bold;
-    border-bottom: 2px solid #ff0000;
-    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
 }
 
 #header-title-container {
@@ -62,9 +87,9 @@ body {
 
 .selector-wrapper select {
     background-color: #111;
-    color: #ff0000;
-    border: 1px solid #ff0000;
-    border-radius: 3px;
+    color: #ff3b3b;
+    border: 1px solid #888;
+    border-radius: 2px;
     padding: 5px 8px;
     font-size: 0.8em;
     cursor: pointer;
@@ -72,7 +97,9 @@ body {
 }
 
 .selector-wrapper select:focus {
-    outline: 1px solid #ff0000;
+    outline: none;
+    box-shadow: 0 0 10px #ff0000;
+    border-color: #ff0000;
 }
 
 /* Chat Window */
@@ -80,7 +107,11 @@ body {
     flex-grow: 1;
     padding: 20px;
     overflow-y: auto;
-    background-color: #000;
+    background-color: transparent;
+    /* Animated scanlines */
+    background-image: linear-gradient(0deg, transparent 50%, rgba(255, 0, 0, 0.1) 50%);
+    background-size: 100% 4px;
+    animation: scanlines 0.2s linear infinite;
 }
 
 /* Messages */
@@ -91,16 +122,15 @@ body {
 }
 
 .message .content {
-    padding: 10px 15px;
-    border-radius: 5px;
-    max-width: 80%;
-    line-height: 1.6;
+    background-color: rgba(30, 0, 0, 0.7);
+    border: 1px solid #500;
+    border-radius: 3px;
+    color: #ffc0c0;
 }
 
 .user-message .content {
-    background-color: #300;
-    color: #ffaaaa;
-    border: 1px solid #ff0000;
+    background-color: rgba(80, 0, 0, 0.8);
+    border-color: #a00;
 }
 
 .user-message {
@@ -121,18 +151,18 @@ body {
 #chat-form {
     display: flex;
     padding: 15px;
-    background-color: #111;
-    border-top: 2px solid #ff0000;
+    background: linear-gradient(to top, #444, #111);
+    border-top: 2px solid #888;
 }
 
 #message-input {
     flex-grow: 1;
-    background-color: #000;
-    border: 1px solid #ff0000;
-    border-radius: 3px;
+    background-color: #111;
+    border: 1px solid #888;
+    border-radius: 2px;
     padding: 10px 15px;
     font-size: 1em;
-    color: #ff0000;
+    color: #ff3b3b;
     outline: none;
 }
 
@@ -140,32 +170,46 @@ body {
     box-shadow: 0 0 10px #ff0000;
 }
 
+#message-input::placeholder {
+    color: #ff3b3b;
+    opacity: 0.5;
+}
+
 #send-button {
-    background-color: #ff0000;
+    background-color: #ff3b3b;
     color: #000;
-    border: none;
-    border-radius: 3px;
+    border: 1px solid #ff0000;
+    border-radius: 50%;
+    font-size: 1.2em;
+    text-shadow: none;
+    transition: all 0.2s ease-in-out;
     width: 45px;
     height: 45px;
     margin-left: 10px;
     cursor: pointer;
-    font-size: 1.5em;
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: all 0.3s;
 }
 
 #send-button:hover {
     background-color: #000;
-    color: #ff0000;
-    border: 1px solid #ff0000;
+    color: #ff3b3b;
+    box-shadow: 0 0 15px #ff0000;
+    transform: rotate(360deg);
 }
 
 /* Typing Indicator */
 .typing-indicator {
     font-style: italic;
     color: #ff0000;
+}
+
+.typing-indicator .content::after {
+    content: '[TARGETING]';
+    color: #ff3b3b;
+    font-family: 'Russo One', sans-serif;
+    animation: red-glow 1.5s infinite alternate;
 }
 
 /* Debug Info */
