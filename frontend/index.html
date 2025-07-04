@@ -5,178 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Assistente Inteligente Multitemático</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(to right, #e2e2e2, #f4f7f9);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-        #chat-container {
-            width: 800px;
-            height: 600px;
-            display: flex;
-            flex-direction: column;
-            background-color: #fff;
-            border-radius: 15px;
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
-            overflow: hidden;
-        }
-        #chat-header {
-            background: linear-gradient(90deg, #007bff, #0056b3);
-            color: white;
-            padding: 15px 20px;
-            text-align: center;
-            font-size: 1.2em;
-            font-weight: bold;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            border-bottom: 1px solid #004a99;
-        }
-        #header-title-container {
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-        }
-        #theme-selector-container {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-        #theme-selector-label {
-            font-size: 0.8em;
-            font-weight: normal;
-        }
-        #theme-selector {
-            background-color: #0056b3;
-            color: white;
-            border: 1px solid #007bff;
-            border-radius: 5px;
-            padding: 5px 8px;
-            font-size: 0.8em;
-            cursor: pointer;
-        }
-        #theme-selector:focus {
-            outline: none;
-        }
-        #chat-window {
-            flex-grow: 1;
-            padding: 20px;
-            overflow-y: auto;
-            border-top: 1px solid #e0e0e0;
-            border-bottom: 1px solid #e0e0e0;
-            background-color: #f9f9f9;
-        }
-        .message {
-            margin-bottom: 15px;
-            display: flex;
-            flex-direction: column;
-        }
-        .message .content {
-            padding: 12px 18px;
-            border-radius: 20px;
-            max-width: 80%;
-            line-height: 1.5;
-        }
-        .user-message .content {
-            background-color: #007bff;
-            color: white;
-            border-bottom-right-radius: 5px;
-        }
-        .user-message {
-            align-items: flex-end;
-        }
-        .bot-message .content {
-            background-color: #e9ecef;
-            color: #333;
-            border-bottom-left-radius: 5px;
-        }
-        .bot-message .content p {
-            margin: 0;
-        }
-        .bot-message {
-            align-items: flex-start;
-        }
-
-        .debug-info {
-            font-size: 0.75em;
-            color: #666;
-            margin-top: 8px;
-            padding-left: 18px;
-            font-style: italic;
-        }
-        .typing-indicator {
-            display: none;
-            padding: 12px 18px;
-            background-color: #e9ecef;
-            border-radius: 20px;
-            font-style: italic;
-            color: #666;
-        }
-        #chat-form {
-            display: flex;
-            padding: 15px;
-            background-color: #fff;
-        }
-        #message-input {
-            flex-grow: 1;
-            border: 1px solid #ccc;
-            border-radius: 20px;
-            padding: 10px 15px;
-            font-size: 1em;
-            outline: none;
-            transition: border-color 0.3s;
-        }
-        #message-input:focus {
-            border-color: #007bff;
-        }
-        #send-button {
-            background-color: #007bff;
-            color: white;
-            border: none;
-            border-radius: 50%;
-            width: 45px;
-            height: 45px;
-            margin-left: 10px;
-            cursor: pointer;
-            font-size: 1.5em;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            transition: background-color 0.3s;
-        }
-        #send-button:hover {
-            background-color: #0056b3;
-            transform: scale(1.1);
-        }
-        .debug-info {
-            font-size: 0.8em;
-            color: #888;
-            margin-top: 5px;
-            background-color: #f0f0f0;
-            padding: 8px;
-            border-radius: 8px;
-            cursor: pointer;
-        }
-        .debug-info pre {
-            white-space: pre-wrap;
-            word-wrap: break-word;
-            font-family: 'Courier New', Courier, monospace;
-            font-size: 0.9em;
-            margin: 0;
-            padding: 5px;
-            background-color: #e9ecef;
-            border-radius: 5px;
-        }
-        .debug-content {
-            display: none;
-            margin-top: 5px;
-        }
-    </style>
+    <link id="theme-stylesheet" rel="stylesheet" href="css/default.css">
 </head>
 <body>
 
@@ -185,9 +14,19 @@
         <div id="header-title-container">
             <span id="header-title">Assistente Inteligente</span>
         </div>
-        <div id="theme-selector-container">
-            <label id="theme-selector-label" for="theme-selector">Tema:</label>
-            <select id="theme-selector"></select>
+        <div id="selectors-container">
+            <div class="selector-wrapper">
+                <label for="theme-selector">Tema:</label>
+                <select id="theme-selector"></select>
+            </div>
+            <div class="selector-wrapper">
+                <label for="visual-theme-selector">Estilo:</label>
+                <select id="visual-theme-selector">
+                    <option value="default">Padrão</option>
+                    <option value="matrix">Matrix</option>
+                    <option value="terminator">Terminator</option>
+                </select>
+            </div>
         </div>
     </div>
     <div id="chat-window">
@@ -207,6 +46,7 @@
     const chatWindow = document.getElementById('chat-window');
     const sendButton = document.getElementById('send-button');
     const themeSelector = document.getElementById('theme-selector');
+    const visualThemeSelector = document.getElementById('visual-theme-selector');
     const typingIndicator = document.getElementById('typing-indicator');
     const headerTitle = document.getElementById('header-title');
 
@@ -252,6 +92,11 @@
     themeSelector.addEventListener('change', () => {
         updateChatHeader();
         resetChat();
+    });
+
+    visualThemeSelector.addEventListener('change', () => {
+        const selectedTheme = visualThemeSelector.value;
+        document.getElementById('theme-stylesheet').setAttribute('href', `css/${selectedTheme}.css`);
     });
 
     chatForm.addEventListener('submit', async (event) => {

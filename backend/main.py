@@ -2,6 +2,7 @@
 import os
 import openai
 from fastapi import FastAPI, Request
+from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
 from typing import Dict, Any
@@ -25,6 +26,12 @@ client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # ⚙️ Inicialização
 app = FastAPI()
+
+# Servir arquivos estáticos (CSS, JS, etc.)
+# O caminho para a pasta 'frontend' é relativo à raiz do projeto
+frontend_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'frontend'))
+app.mount("/css", StaticFiles(directory=os.path.join(frontend_dir, "css")), name="css")
+
 
 # Cache para os componentes do tema
 theme_components_cache: Dict[str, Dict[str, Any]] = {}
@@ -65,7 +72,7 @@ async def read_index():
     """Serve o arquivo de frontend index.html."""
     # Constrói o caminho absoluto para o arquivo index.html
     # partindo do diretório do main.py e subindo um nível para a raiz do projeto.
-    frontend_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'frontend', 'index.html'))
+    frontend_path = os.path.join(frontend_dir, 'index.html')
     if os.path.exists(frontend_path):
         return FileResponse(frontend_path)
     return {"error": "index.html not found"}
