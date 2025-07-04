@@ -101,6 +101,14 @@
         .bot-message {
             align-items: flex-start;
         }
+
+        .debug-info {
+            font-size: 0.75em;
+            color: #666;
+            margin-top: 8px;
+            padding-left: 18px;
+            font-style: italic;
+        }
         .typing-indicator {
             display: none;
             padding: 12px 18px;
@@ -306,31 +314,13 @@
         messageElement.appendChild(contentElement);
 
         if (debugData) {
-            const debugContainer = document.createElement('div');
-            debugContainer.classList.add('debug-info');
-            debugContainer.textContent = 'Detalhes da Resposta (clique para ver)';
+            const debugElement = document.createElement('div');
+            debugElement.className = 'debug-info';
             
-            const debugContent = document.createElement('div');
-            debugContent.classList.add('debug-content');
-
-            const pre = document.createElement('pre');
-            pre.textContent = JSON.stringify({
-                intent: debugData.intent,
-                intent_score: debugData.intent_score,
-                sentiment: debugData.sentiment,
-                emotion: debugData.emotion,
-                escalate: debugData.escalate,
-                rag_source: debugData.rag_source
-            }, null, 2);
-            debugContent.appendChild(pre);
-
-            debugContainer.appendChild(debugContent);
-            messageElement.appendChild(debugContainer);
-
-            debugContainer.addEventListener('click', () => {
-                const isHidden = debugContent.style.display === 'none' || debugContent.style.display === '';
-                debugContent.style.display = isHidden ? 'block' : 'none';
-            });
+            const confidence = (debugData.intent_confidence * 100).toFixed(1);
+            debugElement.innerHTML = `↳ Intenção: <strong>${debugData.intent_name}</strong> (${confidence}%) | Emoção: <strong>${debugData.emotion_label}</strong>`;
+            
+            messageElement.appendChild(debugElement);
         }
 
         chatWindow.appendChild(messageElement);

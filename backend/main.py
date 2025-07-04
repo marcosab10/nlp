@@ -161,10 +161,11 @@ async def chat_handler(input: ChatInput):
     # 10. Armazenar resposta do assistente
     memory.add_message(session_id, "assistant", response_text)
 
+    # 11. Formata a resposta final para o frontend
     return {
         "response": response_text,
-        "intent": intent,
-        "emotion": emotion,
-        "entities": entities,
-        "context": docs
+        "intent_name": intent.get('intent', 'unknown'),
+        "intent_confidence": intent.get('confidence', 0.0),
+        "emotion_label": emotion.get('emotions', [{'label': 'unknown'}])[0].get('label', 'unknown'),
+        "rag_source": [d.get("source", "N/A") for d in docs] # Simplifica a fonte do RAG
     }
