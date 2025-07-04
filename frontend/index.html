@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assistente Poliglota</title>
+    <title>Assistente Inteligente Multitemático</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f4f7f9;
+            background: linear-gradient(to right, #e2e2e2, #f4f7f9);
             display: flex;
             justify-content: center;
             align-items: center;
@@ -16,13 +16,13 @@
             margin: 0;
         }
         #chat-container {
-            width: 450px;
-            height: 650px;
-            border-radius: 15px;
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            width: 800px;
+            height: 600px;
             display: flex;
             flex-direction: column;
             background-color: #fff;
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
             overflow: hidden;
         }
         #chat-header {
@@ -35,6 +35,21 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
+            border-bottom: 1px solid #004a99;
+        }
+        #header-title-container {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+        #theme-selector-container {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        #theme-selector-label {
+            font-size: 0.8em;
+            font-weight: normal;
         }
         #theme-selector {
             background-color: #0056b3;
@@ -79,6 +94,9 @@
             background-color: #e9ecef;
             color: #333;
             border-bottom-left-radius: 5px;
+        }
+        .bot-message .content p {
+            margin: 0;
         }
         .bot-message {
             align-items: flex-start;
@@ -125,14 +143,30 @@
         }
         #send-button:hover {
             background-color: #0056b3;
+            transform: scale(1.1);
         }
         .debug-info {
             font-size: 0.8em;
             color: #888;
             margin-top: 5px;
             background-color: #f0f0f0;
+            padding: 8px;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+        .debug-info pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 0.9em;
+            margin: 0;
             padding: 5px;
+            background-color: #e9ecef;
             border-radius: 5px;
+        }
+        .debug-content {
+            display: none;
+            margin-top: 5px;
         }
     </style>
 </head>
@@ -140,8 +174,13 @@
 
 <div id="chat-container">
     <div id="chat-header">
-        <span id="header-title">Assistente Inteligente</span>
-        <select id="theme-selector"></select>
+        <div id="header-title-container">
+            <span id="header-title">Assistente Inteligente</span>
+        </div>
+        <div id="theme-selector-container">
+            <label id="theme-selector-label" for="theme-selector">Tema:</label>
+            <select id="theme-selector"></select>
+        </div>
     </div>
     <div id="chat-window">
         <div class="message bot-message">
@@ -158,9 +197,12 @@
     const chatForm = document.getElementById('chat-form');
     const messageInput = document.getElementById('message-input');
     const chatWindow = document.getElementById('chat-window');
+    const sendButton = document.getElementById('send-button');
     const themeSelector = document.getElementById('theme-selector');
+    const typingIndicator = document.getElementById('typing-indicator');
     const headerTitle = document.getElementById('header-title');
-    let sessionId = 'web-session-' + Date.now() + Math.random().toString(36).substring(2, 15);
+
+    let sessionId = generateSessionId();
 
     // Carregar temas ao iniciar
     document.addEventListener('DOMContentLoaded', async () => {
@@ -174,7 +216,7 @@
             updateChatHeader(); // Atualiza o header com o tema inicial
         } catch (error) {
             console.error('Failed to load themes:', error);
-            addMessageToWindow('bot', 'Erro ao carregar os temas. Usando tema padrão.');
+            addMessage('bot', 'Erro ao carregar os temas. Usando tema padrão.');
         }
     });
 
@@ -190,8 +232,8 @@
     function resetChat() {
         chatWindow.innerHTML = ''; // Limpa a janela de chat
         const selectedThemeText = themeSelector.options[themeSelector.selectedIndex].text;
-        addMessageToWindow('bot', `Olá! Sou o assistente de ${selectedThemeText}. Como posso ajudar?`);
-        sessionId = 'web-session-' + Date.now() + Math.random().toString(36).substring(2, 15); // Gera um novo ID de sessão
+        addMessage('bot', `Olá! Sou o assistente de ${selectedThemeText}. Como posso ajudar?`);
+        sessionId = generateSessionId(); // Gera um novo ID de sessão
     }
 
     function updateChatHeader() {
@@ -209,7 +251,7 @@
         const userMessage = messageInput.value.trim();
         if (!userMessage) return;
 
-        addMessageToWindow('user', userMessage);
+        addMessage('user', userMessage);
         messageInput.value = '';
         showTypingIndicator(true);
 
@@ -233,25 +275,29 @@
 
             const data = await response.json();
             showTypingIndicator(false);
-            addMessageToWindow('bot', data.response, data);
+            addMessage('bot', data.response, data);
 
         } catch (error) {
             showTypingIndicator(false);
             const errorMessage = 'Desculpe, não consegui me conectar ao servidor. Verifique se o backend está rodando e tente novamente.';
-            addMessageToWindow('bot', errorMessage);
+            addMessage('bot', errorMessage);
             console.error('Fetch error:', error);
         }
     });
 
-    function addMessageToWindow(sender, message, debugData = null) {
+    function generateSessionId() {
+        return 'web-session-' + Date.now() + Math.random().toString(36).substring(2, 15);
+    }
+
+    function addMessage(sender, message, debugData = null) {
         const messageElement = document.createElement('div');
-        messageElement.classList.add('message', sender === 'user' ? 'user-message' : 'bot-message');
+        messageElement.classList.add('message', sender + '-message');
 
         const contentElement = document.createElement('div');
         contentElement.classList.add('content');
 
         if (sender === 'bot') {
-            // Converte a mensagem de markdown para HTML antes de exibir
+            // Renderiza markdown para mensagens do bot
             contentElement.innerHTML = marked.parse(message);
         } else {
             contentElement.textContent = message;
@@ -260,13 +306,31 @@
         messageElement.appendChild(contentElement);
 
         if (debugData) {
-            const debugElement = document.createElement('div');
-            debugElement.className = 'debug-info';
-            debugElement.innerHTML = `
-                <strong>Intenção:</strong> ${debugData.intent.intent} (${(debugData.intent.confidence * 100).toFixed(1)}%)<br>
-                <strong>Emoção:</strong> ${debugData.emotion.emotions[0].label}
-            `;
-            messageElement.appendChild(debugElement);
+            const debugContainer = document.createElement('div');
+            debugContainer.classList.add('debug-info');
+            debugContainer.textContent = 'Detalhes da Resposta (clique para ver)';
+            
+            const debugContent = document.createElement('div');
+            debugContent.classList.add('debug-content');
+
+            const pre = document.createElement('pre');
+            pre.textContent = JSON.stringify({
+                intent: debugData.intent,
+                intent_score: debugData.intent_score,
+                sentiment: debugData.sentiment,
+                emotion: debugData.emotion,
+                escalate: debugData.escalate,
+                rag_source: debugData.rag_source
+            }, null, 2);
+            debugContent.appendChild(pre);
+
+            debugContainer.appendChild(debugContent);
+            messageElement.appendChild(debugContainer);
+
+            debugContainer.addEventListener('click', () => {
+                const isHidden = debugContent.style.display === 'none' || debugContent.style.display === '';
+                debugContent.style.display = isHidden ? 'block' : 'none';
+            });
         }
 
         chatWindow.appendChild(messageElement);
