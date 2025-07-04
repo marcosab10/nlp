@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assistente Bancário</title>
+    <title>Assistente Poliglota</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
         body {
@@ -160,7 +160,7 @@
     const chatWindow = document.getElementById('chat-window');
     const themeSelector = document.getElementById('theme-selector');
     const headerTitle = document.getElementById('header-title');
-    const sessionId = 'web-session-' + Date.now() + Math.random().toString(36).substring(2, 15);
+    let sessionId = 'web-session-' + Date.now() + Math.random().toString(36).substring(2, 15);
 
     // Carregar temas ao iniciar
     document.addEventListener('DOMContentLoaded', async () => {
@@ -187,12 +187,22 @@
         });
     }
 
+    function resetChat() {
+        chatWindow.innerHTML = ''; // Limpa a janela de chat
+        const selectedThemeText = themeSelector.options[themeSelector.selectedIndex].text;
+        addMessageToWindow('bot', `Olá! Sou o assistente de ${selectedThemeText}. Como posso ajudar?`);
+        sessionId = 'web-session-' + Date.now() + Math.random().toString(36).substring(2, 15); // Gera um novo ID de sessão
+    }
+
     function updateChatHeader() {
         const selectedTheme = themeSelector.options[themeSelector.selectedIndex].text;
         headerTitle.textContent = `Assistente de ${selectedTheme}`;
     }
 
-    themeSelector.addEventListener('change', updateChatHeader);
+    themeSelector.addEventListener('change', () => {
+        updateChatHeader();
+        resetChat();
+    });
 
     chatForm.addEventListener('submit', async (event) => {
         event.preventDefault();
