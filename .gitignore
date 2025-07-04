@@ -12,13 +12,11 @@ __pycache__/
 # Arquivos de ambiente
 .env
 
-# Arquivos do FAISS (gerados)
-backend/rag/faiss_index
-backend/rag/passages.pkl
-
 # Diretório do VSCode (configurações do editor)
 .vscode/
 
 # Arquivos de sistema
 .DS_Store
 Thumbs.db
+faiss_index
+*.pkl
