@@ -2,46 +2,52 @@
 import os
 import faiss
 import pickle
-import glob # Importa a biblioteca glob para encontrar arquivos
+import glob
 from sentence_transformers import SentenceTransformer
 from typing import List
-from pypdf import PdfReader # Importa a biblioteca para ler PDF
+from pypdf import PdfReader
 
 class RAGIndexer:
-    def __init__(self, model_name='sentence-transformers/all-MiniLM-L6-v2',
-                 index_path='rag/faiss_index',
-                 passages_path='rag/passages.pkl'):
+    def __init__(self, theme_path: str, model_name='sentence-transformers/all-MiniLM-L6-v2'):
+        """Inicializa o indexador para um tema específico."""
         self.model = SentenceTransformer(model_name)
-        self.index_path = index_path
-        self.passages_path = passages_path
+        self.theme_path = theme_path
+        
+        # Garante que o diretório do tema exista
+        os.makedirs(self.theme_path, exist_ok=True)
+
+        # Os caminhos do índice e das passagens agora são relativos à pasta do tema
+        self.index_path = os.path.join(self.theme_path, 'faiss_index')
+        self.passages_path = os.path.join(self.theme_path, 'passages.pkl')
+        
         self.passages = []
         self.index = None
 
     def load_pdf_base(self, file_path: str, chunk_size: int = 500) -> List[str]:
-        """Lê o texto de um arquivo PDF, extrai o conteúdo e o divide em chunks."""
+        """Lê o texto de um único arquivo PDF e o divide em chunks."""
         try:
             reader = PdfReader(file_path)
             full_text = ""
             for page in reader.pages:
                 full_text += (page.extract_text() or "") + "\n"
             
-            # Normaliza espaços em branco e quebras de linha
             full_text = " ".join(full_text.strip().split())
-
             chunks = [full_text[i:i+chunk_size] for i in range(0, len(full_text), chunk_size)]
-            self.passages = chunks
-            print(f"[✔] PDF lido com sucesso. {len(chunks)} chunks criados.")
             return chunks
         except Exception as e:
-            print(f"[❌] Erro ao ler o arquivo PDF: {e}")
+            print(f"[❌] Erro ao ler o arquivo PDF '{os.path.basename(file_path)}': {e}")
             return []
 
     def load_txt_base(self, file_path: str, chunk_size: int = 500) -> List[str]:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            text = f.read()
-        chunks = [text[i:i+chunk_size] for i in range(0, len(text), chunk_size)]
-        self.passages = chunks
-        return chunks
+        """Lê o texto de um único arquivo TXT e o divide em chunks."""
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                text = f.read()
+            chunks = [text[i:i+chunk_size] for i in range(0, len(text), chunk_size)]
+            return chunks
+        except Exception as e:
+            print(f"[❌] Erro ao ler o arquivo TXT '{os.path.basename(file_path)}': {e}")
+            return []
 
     def create_index(self):
         embeddings = self.model.encode(self.passages, convert_to_numpy=True, show_progress_bar=True)
@@ -55,35 +61,37 @@ class RAGIndexer:
         with open(self.passages_path, 'wb') as f:
             pickle.dump(self.passages, f)
 
-    def build_from_pdf(self, pdf_file: str, chunk_size: int = 500):
-        """Orquestra a criação do índice a partir de um arquivo PDF."""
-        self.load_pdf_base(pdf_file, chunk_size)
-        if self.passages:
-            self.create_index()
-
-    def build_from_directory(self, dir_path: str, chunk_size: int = 500):
-        """Lê todos os arquivos PDF de um diretório, combina o texto e cria o índice."""
-        pdf_files = glob.glob(os.path.join(dir_path, "*.pdf"))
-        if not pdf_files:
-            print(f"[❌] Nenhum arquivo PDF encontrado em '{dir_path}'.")
+    def build_from_knowledge_base(self, chunk_size: int = 500):
+        """Lê todos os arquivos (.pdf, .txt) do subdiretório 'knowledge' de um tema."""
+        knowledge_path = os.path.join(self.theme_path, "knowledge")
+        if not os.path.isdir(knowledge_path):
+            print(f"[⚠️] Diretório de conhecimento não encontrado para o tema: {self.theme_path}")
             return
 
-        print(f"[ℹ️] Encontrados {len(pdf_files)} arquivos PDF para indexação.")
+        all_files = glob.glob(os.path.join(knowledge_path, "*.*"))
+        pdf_files = [f for f in all_files if f.lower().endswith('.pdf')]
+        txt_files = [f for f in all_files if f.lower().endswith('.txt')]
+
+        if not pdf_files and not txt_files:
+            print(f"[❌] Nenhum arquivo .pdf ou .txt encontrado em '{knowledge_path}'.")
+            return
+
+        print(f"[ℹ️] Indexando para o tema: '{os.path.basename(self.theme_path)}'")
         
         all_passages = []
-        for pdf_file in pdf_files:
-            print(f"  -> Lendo '{os.path.basename(pdf_file)}'...")
-            passages = self.load_pdf_base(pdf_file, chunk_size)
-            if passages:
-                all_passages.extend(passages)
+        for file_path in pdf_files:
+            print(f"  -> Lendo PDF: '{os.path.basename(file_path)}'...")
+            passages = self.load_pdf_base(file_path, chunk_size)
+            all_passages.extend(passages)
+
+        for file_path in txt_files:
+            print(f"  -> Lendo TXT: '{os.path.basename(file_path)}'...")
+            passages = self.load_txt_base(file_path, chunk_size)
+            all_passages.extend(passages)
         
         if not all_passages:
-            print("[❌] Nenhum texto pôde ser extraído dos arquivos PDF.")
+            print("[❌] Nenhum texto pôde ser extraído dos arquivos.")
             return
 
         self.passages = all_passages
-        self.create_index()
-
-    def build_from_txt(self, txt_file: str):
-        self.load_txt_base(txt_file)
         self.create_index()
