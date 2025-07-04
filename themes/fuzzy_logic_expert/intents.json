@@ -1,0 +1,42 @@
+[
+  {
+    "name": "definir_conceito_fuzzy",
+    "examples": [
+      "O que é lógica fuzzy?",
+      "Me explique o que são conjuntos fuzzy.",
+      "O que significa pertinência na lógica fuzzy?",
+      "Defina o que é uma variável linguística.",
+      "Qual a ideia por trás de um sistema de inferência fuzzy?"
+    ]
+  },
+  {
+    "name": "comparar_logica_classica_fuzzy",
+    "examples": [
+      "Qual a diferença entre lógica clássica e lógica fuzzy?",
+      "Lógica booleana vs. fuzzy, quando usar cada uma?",
+      "Qual a principal distinção entre um conjunto clássico e um conjunto fuzzy?",
+      "Compare as operações de união e interseção na lógica clássica e na fuzzy.",
+      "O que diferencia a modelagem nítida (crisp) da modelagem fuzzy?"
+    ]
+  },
+  {
+    "name": "explicar_aplicacao_fuzzy",
+    "examples": [
+      "Como a lógica fuzzy é usada em sistemas de controle?",
+      "Me dê um exemplo de aplicação de lógica fuzzy em eletrodomésticos.",
+      "Onde os sistemas de inferência fuzzy são mais utilizados hoje em dia?",
+      "Para que serve a defuzzificação?",
+      "Como a lógica fuzzy pode ser usada para tomada de decisão em finanças?"
+    ]
+  },
+  {
+    "name": "detalhar_componentes_sistema_fuzzy",
+    "examples": [
+      "Como funciona um sistema de inferência Mamdani?",
+      "Quais são as etapas de um sistema de inferência fuzzy?",
+      "Explique o processo de fuzzificação.",
+      "Como funcionam as regras 'SE-ENTÃO' na lógica fuzzy?",
+      "Quais os principais métodos de defuzzificação, como o centróide?"
+    ]
+  }
+]

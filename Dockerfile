@@ -18,18 +18,17 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Baixa o modelo de linguagem do spaCy para português
 RUN python -m spacy download pt_core_news_sm
 
-# Copia o restante do código da aplicação para o diretório de trabalho
-# Copiando as pastas 'backend' e 'docs' para dentro do /app
+# Copia o código da aplicação, o frontend e os temas para o diretório de trabalho
 COPY ./backend/ /app/backend/
-COPY ./docs/ /app/docs/
+COPY ./frontend/ /app/frontend/
+COPY ./themes/ /app/themes/
+COPY build_all_themes.py .
 
 # Define o PYTHONPATH para que os módulos sejam encontrados
 ENV PYTHONPATH=/app
 
-# Executa o script para construir o índice FAISS
-# O script está em backend/rag/build_index.py e precisa acessar ../docs/base_conhecimento.txt
-# Como copiamos backend -> /app/backend e docs -> /app/docs, o caminho relativo funciona.
-RUN python backend/rag/build_index.py
+# Executa o script para construir os índices de conhecimento para todos os temas
+RUN python build_all_themes.py
 
 # Expõe a porta em que o app estará rodando
 EXPOSE 8000

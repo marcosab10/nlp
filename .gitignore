@@ -20,3 +20,6 @@ __pycache__/
 Thumbs.db
 faiss_index
 *.pkl
+
+# Documentos da Base de Conhecimento
+*.pdf
