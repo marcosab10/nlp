@@ -1,0 +1,913 @@
+{
+  "name": "ChatBot",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "webhook",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [
+        -300,
+        390
+      ],
+      "id": "316d26a3-0db3-4a1d-a2d0-167638ec8152",
+      "name": "Webhook",
+      "webhookId": "84360156-8594-4957-8c87-6afd2c5dd916"
+    },
+    {
+      "parameters": {
+        "resource": "Chatting",
+        "operation": "Send Text",
+        "session": "={{ $('Filtrando Campos').item.json.session }}",
+        "chatId": "={{ $('Filtrando Campos').item.json.chatid }}",
+        "text": "=Olá! Sou o assistente de Banking. Como posso ajudar?",
+        "requestOptions": {}
+      },
+      "type": "n8n-nodes-waha.WAHA",
+      "typeVersion": 202411,
+      "position": [
+        1240,
+        400.5
+      ],
+      "id": "e95c9965-e17e-4ae5-b2fb-b6771bf968fe",
+      "name": "Opção 2",
+      "credentials": {
+        "wahaApi": {
+          "id": "3U0dXIm78wJSUKgi",
+          "name": "WAHA account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "Chatting",
+        "operation": "Send Text",
+        "session": "={{ $('Filtrando Campos').item.json.session }}",
+        "chatId": "={{ $('Filtrando Campos').item.json.chatid }}",
+        "text": "=Olá! Sou o assistente de Literature. Como posso ajudar?",
+        "requestOptions": {}
+      },
+      "type": "n8n-nodes-waha.WAHA",
+      "typeVersion": 202411,
+      "position": [
+        1240,
+        200.5
+      ],
+      "id": "c9559f87-acd5-4d6d-b202-d795d4f7650a",
+      "name": "Opção 1",
+      "credentials": {
+        "wahaApi": {
+          "id": "3U0dXIm78wJSUKgi",
+          "name": "WAHA account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "Chatting",
+        "operation": "Send Text",
+        "session": "={{ $('Filtrando Campos').item.json.session }}",
+        "chatId": "={{ $('Filtrando Campos').item.json.chatid }}",
+        "text": "=Encerrando o atendimento. Se precisar de algo mais, é só me chamar. Tenha um ótimo dia!",
+        "requestOptions": {}
+      },
+      "type": "n8n-nodes-waha.WAHA",
+      "typeVersion": 202411,
+      "position": [
+        1240,
+        600.5
+      ],
+      "id": "aae986ca-b052-4bc0-a614-12c44eec6f01",
+      "name": "Opção 3",
+      "credentials": {
+        "wahaApi": {
+          "id": "3U0dXIm78wJSUKgi",
+          "name": "WAHA account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "dfcb2d37-69a9-4514-8218-9530211beefe",
+              "name": "event",
+              "value": "={{ $json.body.event }}",
+              "type": "string"
+            },
+            {
+              "id": "9b6aacdf-c82f-4d4d-a6f3-4192cac0b752",
+              "name": "playload_id",
+              "value": "={{ $json.body.payload.id }}",
+              "type": "string"
+            },
+            {
+              "id": "8e2c526e-4947-4f78-b63b-9f76702cbcca",
+              "name": "session",
+              "value": "={{ $json.body.session }}",
+              "type": "string"
+            },
+            {
+              "id": "b9c7ed53-0020-4a09-b1f1-4370aa0dea72",
+              "name": "pushName",
+              "value": "={{ $json.body.payload._data.Info.PushName }}",
+              "type": "string"
+            },
+            {
+              "id": "be98d47f-88b8-4b4b-bb2b-64666da26beb",
+              "name": "chatid",
+              "value": "={{ $json.body.payload.from }}",
+              "type": "string"
+            },
+            {
+              "id": "e7880d92-f9e6-41d5-9373-64efcffb28a8",
+              "name": "messege",
+              "value": "={{ $json.body.payload.body }}",
+              "type": "string"
+            },
+            {
+              "id": "e9180237-78df-4ab9-ad2d-ca20aa176154",
+              "name": "formMe",
+              "value": "={{ $json.body.payload.fromMe }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -80,
+        390
+      ],
+      "id": "ade4834d-da7c-41d0-9449-5e460f94a5eb",
+      "name": "Filtrando Campos"
+    },
+    {
+      "parameters": {
+        "operation": "get",
+        "key": "={{ $json.chatid }}",
+        "options": {
+          "dotNotation": true
+        }
+      },
+      "type": "n8n-nodes-base.redis",
+      "typeVersion": 1,
+      "position": [
+        140,
+        390
+      ],
+      "id": "ca02218c-456e-4cbb-975a-420e3f11cbcb",
+      "name": "Buscando conversar",
+      "credentials": {
+        "redis": {
+          "id": "0TE1fpszyLC4nMyL",
+          "name": "Redis account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "0dfa768e-28e2-4591-8a91-a2fc2a3a771c",
+              "leftValue": "={{ $json.propertyName }}",
+              "rightValue": true,
+              "operator": {
+                "type": "string",
+                "operation": "empty",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        360,
+        390
+      ],
+      "id": "4fb3f602-1ff7-4093-9cef-e712c2efeef4",
+      "name": "Conversar Existe?"
+    },
+    {
+      "parameters": {
+        "resource": "Chatting",
+        "operation": "Send Text",
+        "session": "={{ $('Filtrando Campos').item.json.session }}",
+        "chatId": "={{ $('Filtrando Campos').item.json.chatid }}",
+        "text": "=Olá! Que bom te ver por aqui! 😊\nPara que eu possa te ajudar melhor, **selecione um dos tópicos** digitando o número:\n\n1. Literatura: Para dúvidas e informações sobre livros e autores \n2. Banco: Para assistência com serviços bancários e financeiros \n3. Sair: Para encerrar nosso papo por enquanto.",
+        "requestOptions": {}
+      },
+      "type": "n8n-nodes-waha.WAHA",
+      "typeVersion": 202411,
+      "position": [
+        1240,
+        -10
+      ],
+      "id": "5192038c-fa23-48f7-a08f-b5eef05c8543",
+      "name": "Mune do Chat",
+      "credentials": {
+        "wahaApi": {
+          "id": "3U0dXIm78wJSUKgi",
+          "name": "WAHA account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "set",
+        "key": "={{ $('Filtrando Campos').item.json.chatid }}",
+        "value": "={{ JSON.stringify({\n  chatid: $('Filtrando Campos').item.json.chatid,\n  session: $('Filtrando Campos').item.json.session,\n  startedAt: new Date().toISOString(),\n  state: 'aguardando_input_menu',\n  lastInteractionAt: new Date().toISOString()\n}) }}"
+      },
+      "type": "n8n-nodes-base.redis",
+      "typeVersion": 1,
+      "position": [
+        1460,
+        -10
+      ],
+      "id": "66bcf133-16cd-44c1-a57c-ea3a677e1302",
+      "name": "Salva Status 'aguardando_input_menu'",
+      "credentials": {
+        "redis": {
+          "id": "0TE1fpszyLC4nMyL",
+          "name": "Redis account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "set",
+        "key": "={{ $('Filtrando Campos').item.json.chatid }}",
+        "value": "={{ JSON.stringify({\n  chatid: $('Filtrando Campos').item.json.chatid,\n  session: $('Filtrando Campos').item.json.session,\n  startedAt: new Date().toISOString(),\n  state: 'aguardando_ia_literatura',\n  lastInteractionAt: new Date().toISOString()\n}) }}"
+      },
+      "type": "n8n-nodes-base.redis",
+      "typeVersion": 1,
+      "position": [
+        1460,
+        200.5
+      ],
+      "id": "4b1acae2-5d85-4562-9dc3-963454e1189a",
+      "name": "Salva Status 'aguardando_ia_literatura'",
+      "credentials": {
+        "redis": {
+          "id": "0TE1fpszyLC4nMyL",
+          "name": "Redis account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "set",
+        "key": "={{ $('Filtrando Campos').item.json.chatid }}",
+        "value": "={{ JSON.stringify({\n  chatid: $('Filtrando Campos').item.json.chatid,\n  session: $('Filtrando Campos').item.json.session,\n  startedAt: new Date().toISOString(),\n  state: 'aguardando_ia_banco',\n  lastInteractionAt: new Date().toISOString()\n}) }}"
+      },
+      "type": "n8n-nodes-base.redis",
+      "typeVersion": 1,
+      "position": [
+        1460,
+        400.5
+      ],
+      "id": "e386c5e5-b0be-431b-8aca-bd21c494c325",
+      "name": "Salva Status 'aguardando_ia_banco'",
+      "credentials": {
+        "redis": {
+          "id": "0TE1fpszyLC4nMyL",
+          "name": "Redis account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "delete",
+        "key": "={{ $('Filtrando Campos').item.json.chatid }}"
+      },
+      "type": "n8n-nodes-base.redis",
+      "typeVersion": 1,
+      "position": [
+        1460,
+        600.5
+      ],
+      "id": "51ca94eb-8046-4410-9cd0-b8a97d3d643c",
+      "name": "Limpa Status",
+      "credentials": {
+        "redis": {
+          "id": "0TE1fpszyLC4nMyL",
+          "name": "Redis account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "rules": {
+          "values": [
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "3e4b74ab-8362-4843-83df-6e9e97ac1955",
+                    "leftValue": "={{ $('Filtrando Campos').item.json.messege }}",
+                    "rightValue": "1",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              }
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "325bed29-4210-45c4-911b-f68c5a7dfcd2",
+                    "leftValue": "={{ $('Filtrando Campos').item.json.messege }}",
+                    "rightValue": "=2",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              }
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "53be4a92-e7d6-43fa-9502-322cedbee66a",
+                    "leftValue": "={{ $('Filtrando Campos').item.json.messege }}",
+                    "rightValue": "3",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              }
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "f676cf3c-c411-429e-b251-9bc629de39f5",
+                    "leftValue": "={{ $('Filtrando Campos').item.json.messege }}",
+                    "rightValue": "",
+                    "operator": {
+                      "type": "string",
+                      "operation": "exists",
+                      "singleValue": true
+                    }
+                  }
+                ],
+                "combinator": "and"
+              }
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 3.2,
+      "position": [
+        1020,
+        279.5
+      ],
+      "id": "922c995f-675e-41f1-bdc7-d9f8155eed8b",
+      "name": "Opção Selecionada"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "93b1b702-03b8-4703-8aa4-7623393fa8af",
+              "leftValue": "={{ JSON.parse($('Buscando conversar').item.json.propertyName).state }}",
+              "rightValue": "aguardando_input_menu",
+              "operator": {
+                "type": "string",
+                "operation": "equals",
+                "name": "filter.operator.equals"
+              }
+            },
+            {
+              "id": "220dd20c-3da3-4e9f-acb3-aed73b7f711b",
+              "leftValue": "",
+              "rightValue": "",
+              "operator": {
+                "type": "string",
+                "operation": "equals",
+                "name": "filter.operator.equals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        580,
+        500.5
+      ],
+      "id": "9b6761fc-ef3b-447f-bfe6-ede5533784ea",
+      "name": "If"
+    },
+    {
+      "parameters": {
+        "rules": {
+          "values": [
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "621c9e20-778a-44fa-b921-cddc519155da",
+                    "leftValue": "={{ $('Filtrando Campos').item.json.messege.toLowerCase() }}",
+                    "rightValue": "sair",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              }
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "53be4a92-e7d6-43fa-9502-322cedbee66a",
+                    "leftValue": "={{ JSON.parse($('Buscando conversar').item.json.propertyName).state }}",
+                    "rightValue": "aguardando_ia_literatura",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              }
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "f676cf3c-c411-429e-b251-9bc629de39f5",
+                    "leftValue": "={{ JSON.parse($('Buscando conversar').item.json.propertyName).state }}",
+                    "rightValue": "aguardando_ia_banco",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              }
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 3.2,
+      "position": [
+        1020,
+        800.5
+      ],
+      "id": "f94bb871-9269-4d0f-ae5a-c5ee74e1cee8",
+      "name": "Opção Selecionada1"
+    },
+    {
+      "parameters": {
+        "resource": "Chatting",
+        "operation": "Send Seen",
+        "session": "={{ $('Filtrando Campos').item.json.session }}",
+        "chatId": "={{ $('Filtrando Campos').item.json.chatid }}",
+        "messageId": "={{ $('Filtrando Campos').item.json.playload_id }}",
+        "requestOptions": {}
+      },
+      "type": "n8n-nodes-waha.WAHA",
+      "typeVersion": 202411,
+      "position": [
+        800,
+        300.5
+      ],
+      "id": "4db46a57-bb59-411c-bb7a-174c7ddecd38",
+      "name": "Visualizado 3",
+      "credentials": {
+        "wahaApi": {
+          "id": "3U0dXIm78wJSUKgi",
+          "name": "WAHA account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "Chatting",
+        "operation": "Send Seen",
+        "session": "={{ $('Filtrando Campos').item.json.session }}",
+        "chatId": "={{ $('Filtrando Campos').item.json.chatid }}",
+        "messageId": "={{ $('Filtrando Campos').item.json.playload_id }}",
+        "requestOptions": {}
+      },
+      "type": "n8n-nodes-waha.WAHA",
+      "typeVersion": 202411,
+      "position": [
+        1020,
+        -60
+      ],
+      "id": "28ff3c3d-7b79-4fe8-bc89-f7ee900085e4",
+      "name": "Visualizado ",
+      "credentials": {
+        "wahaApi": {
+          "id": "3U0dXIm78wJSUKgi",
+          "name": "WAHA account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "Chatting",
+        "operation": "Send Seen",
+        "session": "={{ $('Filtrando Campos').item.json.session }}",
+        "chatId": "={{ $('Filtrando Campos').item.json.chatid }}",
+        "messageId": "={{ $('Filtrando Campos').item.json.playload_id }}",
+        "requestOptions": {}
+      },
+      "type": "n8n-nodes-waha.WAHA",
+      "typeVersion": 202411,
+      "position": [
+        800,
+        800.5
+      ],
+      "id": "1b203790-af31-446b-97cb-39586d003b47",
+      "name": "Visualizado 4",
+      "credentials": {
+        "wahaApi": {
+          "id": "3U0dXIm78wJSUKgi",
+          "name": "WAHA account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://python-app:8000/chat",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"session_id\": \"{{ $('Filtrando Campos').item.json.chatid }}\",\n  \"message\": \"{{ $('Filtrando Campos').item.json.messege }}\",\n  \"theme\": \"banking\"\n}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1240,
+        800.5
+      ],
+      "id": "2a6ddac2-e290-45d4-9fae-21c1f25fdb7a",
+      "name": "Chamar AI de Literatura1"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://python-app:8000/chat",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"session_id\": \"{{ $('Filtrando Campos').item.json.chatid }}\",\n  \"message\": \"{{ $('Filtrando Campos').item.json.messege }}\",\n  \"theme\": \"banking\"\n}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1240,
+        1000.5
+      ],
+      "id": "47271f26-4724-4215-b4e6-7f26bfa5d10a",
+      "name": "Chamar AI de Banco"
+    },
+    {
+      "parameters": {
+        "resource": "Chatting",
+        "operation": "Send Text",
+        "session": "={{ $('Filtrando Campos').item.json.session }}",
+        "chatId": "={{ $('Filtrando Campos').item.json.chatid }}",
+        "text": "={{ $json.response }}",
+        "requestOptions": {}
+      },
+      "type": "n8n-nodes-waha.WAHA",
+      "typeVersion": 202411,
+      "position": [
+        1460,
+        1000.5
+      ],
+      "id": "93fd0b6f-2c64-46db-a64b-53e87cc00f45",
+      "name": "Responder com IA Banco",
+      "credentials": {
+        "wahaApi": {
+          "id": "3U0dXIm78wJSUKgi",
+          "name": "WAHA account"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "Filtrando Campos",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Opção 2": {
+      "main": [
+        [
+          {
+            "node": "Salva Status 'aguardando_ia_banco'",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Opção 1": {
+      "main": [
+        [
+          {
+            "node": "Salva Status 'aguardando_ia_literatura'",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Opção 3": {
+      "main": [
+        [
+          {
+            "node": "Limpa Status",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Filtrando Campos": {
+      "main": [
+        [
+          {
+            "node": "Buscando conversar",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Buscando conversar": {
+      "main": [
+        [
+          {
+            "node": "Conversar Existe?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Conversar Existe?": {
+      "main": [
+        [
+          {
+            "node": "Visualizado ",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "If",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Mune do Chat": {
+      "main": [
+        [
+          {
+            "node": "Salva Status 'aguardando_input_menu'",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Opção Selecionada": {
+      "main": [
+        [
+          {
+            "node": "Opção 1",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Opção 2",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Opção 3",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Mune do Chat",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If": {
+      "main": [
+        [
+          {
+            "node": "Visualizado 3",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Visualizado 4",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Visualizado 3": {
+      "main": [
+        [
+          {
+            "node": "Opção Selecionada",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Visualizado ": {
+      "main": [
+        [
+          {
+            "node": "Mune do Chat",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Visualizado 4": {
+      "main": [
+        [
+          {
+            "node": "Opção Selecionada1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Opção Selecionada1": {
+      "main": [
+        [
+          {
+            "node": "Opção 3",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Chamar AI de Literatura1",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Chamar AI de Banco",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Chamar AI de Banco": {
+      "main": [
+        [
+          {
+            "node": "Responder com IA Banco",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "6a786ceb-64b0-421a-ab17-f21b140da13a",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "2086e74bc990378fac4fdbb5eed2feb390a5c67b8d7769fff04bcc4854addd3d"
+  },
+  "id": "iWBhJUfsaGHDVdmL",
+  "tags": []
+}
