@@ -134,6 +134,8 @@ async def chat_handler(input: ChatInput):
     docs = searcher.search(clean_text, top_k=3)
     context = "\n\n".join([d["text"] for d in docs])
 
+    # print(f"Context: {context}")
+
     # 6. Memória + contexto
     history = memory.get_history(session_id)
     history_text = "\n".join([f"{m['role']}: {m['message']}" for m in history[-5:]])
@@ -169,10 +171,13 @@ async def chat_handler(input: ChatInput):
     memory.add_message(session_id, "assistant", response_text)
 
     # 11. Formata a resposta final para o frontend
-    return {
+    final_response = {
         "response": response_text,
         "intent_name": intent.get('intent', 'unknown'),
         "intent_confidence": intent.get('confidence', 0.0),
         "emotion_label": emotion.get('emotions', [{'label': 'unknown'}])[0].get('label', 'unknown'),
         "rag_source": [d.get("source", "N/A") for d in docs] # Simplifica a fonte do RAG
     }
+
+    # print(f"Final Response: {final_response}")
+    return final_response

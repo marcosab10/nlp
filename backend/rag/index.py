@@ -23,8 +23,8 @@ class RAGIndexer:
         self.passages = []
         self.index = None
 
-    def load_pdf_base(self, file_path: str, chunk_size: int = 500) -> List[str]:
-        """Lê o texto de um único arquivo PDF e o divide em chunks."""
+    def load_pdf_base(self, file_path: str, chunk_size: int = 500) -> List[dict]:
+        """Lê o texto de um único arquivo PDF e o divide em chunks com metadados."""
         try:
             reader = PdfReader(file_path)
             full_text = ""
@@ -33,24 +33,32 @@ class RAGIndexer:
             
             full_text = " ".join(full_text.strip().split())
             chunks = [full_text[i:i+chunk_size] for i in range(0, len(full_text), chunk_size)]
-            return chunks
+            
+            # Retorna uma lista de dicionários, cada um com o texto e a fonte
+            source_filename = os.path.basename(file_path)
+            return [{"text": chunk, "source": source_filename} for chunk in chunks]
         except Exception as e:
             print(f"[❌] Erro ao ler o arquivo PDF '{os.path.basename(file_path)}': {e}")
             return []
 
-    def load_txt_base(self, file_path: str, chunk_size: int = 500) -> List[str]:
-        """Lê o texto de um único arquivo TXT e o divide em chunks."""
+    def load_txt_base(self, file_path: str, chunk_size: int = 500) -> List[dict]:
+        """Lê o texto de um único arquivo TXT e o divide em chunks com metadados."""
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 text = f.read()
             chunks = [text[i:i+chunk_size] for i in range(0, len(text), chunk_size)]
-            return chunks
+            
+            # Retorna uma lista de dicionários, cada um com o texto e a fonte
+            source_filename = os.path.basename(file_path)
+            return [{"text": chunk, "source": source_filename} for chunk in chunks]
         except Exception as e:
             print(f"[❌] Erro ao ler o arquivo TXT '{os.path.basename(file_path)}': {e}")
             return []
 
     def create_index(self):
-        embeddings = self.model.encode(self.passages, convert_to_numpy=True, show_progress_bar=True)
+        # Extrai apenas o texto para a codificação
+        passage_texts = [p["text"] for p in self.passages]
+        embeddings = self.model.encode(passage_texts, convert_to_numpy=True, show_progress_bar=True)
         self.index = faiss.IndexFlatL2(embeddings.shape[1])
         self.index.add(embeddings)
         self.save_index()
