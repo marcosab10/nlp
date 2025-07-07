@@ -5,9 +5,9 @@ FROM python:3.11-slim
 WORKDIR /app
 
 # Impede o Python de gravar arquivos .pyc no disco
-ENV PYTHONDONTWRITEBYTECODE 1
+ENV PYTHONDONTWRITEBYTECODE=1
 # Garante que a saída do Python seja enviada diretamente para o terminal (sem buffer)
-ENV PYTHONUNBUFFERED 1
+ENV PYTHONUNBUFFERED=1
 
 # Copia o arquivo de dependências para o diretório de trabalho
 COPY requirements.txt .
@@ -23,9 +23,11 @@ COPY ./backend/ /app/backend/
 COPY ./frontend/ /app/frontend/
 COPY ./themes/ /app/themes/
 COPY build_all_themes.py .
+COPY .env .
 
 # Define o PYTHONPATH para que os módulos sejam encontrados
-ENV PYTHONPATH=/app
+ENV PYTHONPATH=/app:/app/backend
+
 
 # Executa o script para construir os índices de conhecimento para todos os temas
 RUN python build_all_themes.py
