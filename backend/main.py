@@ -134,7 +134,17 @@ async def chat_handler(input: ChatInput):
     docs = searcher.search(clean_text, top_k=3)
     context = "\n\n".join([d["text"] for d in docs])
 
-    # print(f"Context: {context}")
+    # Se o RAG não retornar nenhum contexto, a pergunta provavelmente está fora do escopo.
+    if not context.strip():
+        return {
+            "response": f"Como um especialista no tema '{theme}', não tenho informações sobre esse assunto. Por favor, faça perguntas dentro do meu escopo.",
+            "intent_name": "out_of_scope",
+            "intent_confidence": 1.0,
+            "emotion_label": "neutral",
+            "rag_source": []
+        }
+
+    print(f"Context: {context}")
 
     # 6. Memória + contexto
     history = memory.get_history(session_id)
