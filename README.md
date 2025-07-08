@@ -33,7 +33,7 @@ Uma solução de assistente conversacional que integra Processamento de Linguage
 A estrutura foi organizada para separar claramente o backend, o frontend, os temas dos agentes e a configuração de containerização.
 
 ```txt
-assistente-bancario/
+nlp/
 ├── backend/
 │   ├── main.py
 │   ├── agent/
