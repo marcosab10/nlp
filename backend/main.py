@@ -144,7 +144,7 @@ async def chat_handler(input: ChatInput):
             "rag_source": []
         }
 
-    print(f"Context: {context}")
+    # print(f"Context: {context}")
 
     # 6. Memória + contexto
     history = memory.get_history(session_id)
