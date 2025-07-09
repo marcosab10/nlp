@@ -2,25 +2,25 @@
   {
     "name": "consultar_saldo",
     "examples": [
-      "Qual meu saldo?",
-      "Quanto tenho na conta?",
-      "Mostrar saldo da minha conta"
+      "What is my balance?",
+      "How much do I have in my account?",
+      "Show my account balance"
     ]
   },
   {
     "name": "consultar_fatura",
     "examples": [
-      "Qual o valor da minha fatura?",
-      "Fatura do meu cartão",
-      "Me mostra a fatura do mês"
+      "What is the amount of my bill?",
+      "My credit card bill",
+      "Show me this month's statement"
     ]
   },
   {
     "name": "abrir_conta",
     "examples": [
-      "Quero abrir uma conta",
-      "Como faço para abrir uma conta?",
-      "Abrir conta corrente"
+      "I want to open an account",
+      "How do I open an account?",
+      "Open checking account"
     ]
   }
 ]

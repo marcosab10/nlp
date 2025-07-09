@@ -2,25 +2,25 @@
   {
     "name": "analisar_personagem",
     "examples": [
-      "Quem foi Capitu?",
-      "Me fale sobre a personalidade de Iracema",
-      "Qual a importância de Bentinho na história?"
+      "Who was Capitu?",
+      "Tell me about Iracema's personality",
+      "What is Bentinho's importance in the story?"
     ]
   },
   {
     "name": "resumir_obra",
     "examples": [
-      "Qual é a história de Dom Casmurro?",
-      "Faça um resumo de Iracema",
-      "Sobre o que fala o livro?"
+      "What is the story of Dom Casmurro?",
+      "Give me a summary of Iracema",
+      "What is this book about?"
     ]
   },
   {
     "name": "identificar_tema_central",
     "examples": [
-      "Qual o tema principal da obra?",
-      "O livro fala sobre ciúmes?",
-      "Qual a mensagem que o autor quis passar?"
+      "What is the main theme of the work?",
+      "Does the book talk about jealousy?",
+      "What message did the author want to convey?"
     ]
   }
 ]

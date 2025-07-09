@@ -2,41 +2,41 @@
   {
     "name": "definir_conceito_fuzzy",
     "examples": [
-      "O que é lógica fuzzy?",
-      "Me explique o que são conjuntos fuzzy.",
-      "O que significa pertinência na lógica fuzzy?",
-      "Defina o que é uma variável linguística.",
-      "Qual a ideia por trás de um sistema de inferência fuzzy?"
+      "What is fuzzy logic?",
+      "Explain to me what fuzzy sets are.",
+      "What does membership mean in fuzzy logic?",
+      "Define what a linguistic variable is.",
+      "What's the idea behind a fuzzy inference system?"
     ]
   },
   {
     "name": "comparar_logica_classica_fuzzy",
     "examples": [
-      "Qual a diferença entre lógica clássica e lógica fuzzy?",
-      "Lógica booleana vs. fuzzy, quando usar cada uma?",
-      "Qual a principal distinção entre um conjunto clássico e um conjunto fuzzy?",
-      "Compare as operações de união e interseção na lógica clássica e na fuzzy.",
-      "O que diferencia a modelagem nítida (crisp) da modelagem fuzzy?"
+      "What's the difference between classical logic and fuzzy logic?",
+      "Boolean logic vs. fuzzy, when to use each one?",
+      "What is the main distinction between a classical set and a fuzzy set?",
+      "Compare the union and intersection operations in classical logic and fuzzy logic.",
+      "What differentiates crisp modeling from fuzzy modeling?"
     ]
   },
   {
     "name": "explicar_aplicacao_fuzzy",
     "examples": [
-      "Como a lógica fuzzy é usada em sistemas de controle?",
-      "Me dê um exemplo de aplicação de lógica fuzzy em eletrodomésticos.",
-      "Onde os sistemas de inferência fuzzy são mais utilizados hoje em dia?",
-      "Para que serve a defuzzificação?",
-      "Como a lógica fuzzy pode ser usada para tomada de decisão em finanças?"
+      "How is fuzzy logic used in control systems?",
+      "Give me an example of fuzzy logic application in home appliances.",
+      "Where are fuzzy inference systems most commonly used nowadays?",
+      "What is defuzzification used for?",
+      "How can fuzzy logic be used for decision making in finance?"
     ]
   },
   {
     "name": "detalhar_componentes_sistema_fuzzy",
     "examples": [
-      "Como funciona um sistema de inferência Mamdani?",
-      "Quais são as etapas de um sistema de inferência fuzzy?",
-      "Explique o processo de fuzzificação.",
-      "Como funcionam as regras 'SE-ENTÃO' na lógica fuzzy?",
-      "Quais os principais métodos de defuzzificação, como o centróide?"
+      "How does a Mamdani inference system work?",
+      "What are the stages of a fuzzy inference system?",
+      "Explain the fuzzification process.",
+      "How do 'IF-THEN' rules work in fuzzy logic?",
+      "What are the main defuzzification methods, such as centroid?"
     ]
   }
 ]
