@@ -18,7 +18,7 @@ class EmotionAnalyzer:
         """Traduz texto de pt-BR para en-US usando OpenAI."""
         try:
             response = self.client.chat.completions.create(
-                model="gpt-3.5-turbo",
+                model="gpt-4o-mini",
                 messages=[
                     {"role": "system", "content": "You are a translator. Translate the user's input from Portuguese (Brazil) to English (US). Do not add any comments or explanations. Only provide the translation."},
                     {"role": "user", "content": text}
