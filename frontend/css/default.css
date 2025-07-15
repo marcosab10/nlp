@@ -6,16 +6,20 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    overflow: hidden; /* Evita barras de rolagem na página */
 }
 #chat-container {
-    width: 800px;
-    height: 600px;
+    width: 1200px;
+    height: 900px;
+    max-width: 90vw; /* Limita a largura a 90% da largura da viewport */
+    max-height: 90vh; /* Limita a altura a 90% da altura da viewport */
     display: flex;
     flex-direction: column;
     background-color: #fff;
     border-radius: 15px;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
     overflow: hidden;
+    transform: scale(1); /* Garante escala 1:1 */
 }
 #chat-header {
     background: linear-gradient(90deg, #007bff, #0056b3);

@@ -25,6 +25,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    overflow: hidden; /* Evita barras de rolagem */
 }
 
 /* Chat Container */
@@ -35,11 +36,14 @@ body {
     border-image-source: linear-gradient(to bottom, #777, #ccc, #777);
     box-shadow: 0 0 25px rgba(255, 59, 59, 0.5);
     backdrop-filter: blur(1px);
-    width: 800px;
-    height: 600px;
+    width: 1200px;
+    height: 900px;
+    max-width: 90vw; /* Limita a largura a 90% da largura da viewport */
+    max-height: 90vh; /* Limita a altura a 90% da altura da viewport */
     display: flex;
     flex-direction: column;
     overflow: hidden;
+    transform: scale(1); /* Garante escala 1:1 */
 }
 
 /* Chat Header */
