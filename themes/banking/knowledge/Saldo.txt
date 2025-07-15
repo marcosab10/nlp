@@ -1,0 +1,2000 @@
+Usuário: Qual é o meu saldo disponível? #1
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #1
+Usuário: Tenho limite para empréstimo pessoal? #2
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #2
+Usuário: Meu cheque especial foi alterado? #3
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #3
+Usuário: Quanto tenho de crédito pré-aprovado? #4
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #4
+Usuário: Posso aumentar meu limite de crédito? #5
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #5
+Usuário: Qual é o meu saldo disponível? #6
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #6
+Usuário: Tenho limite para empréstimo pessoal? #7
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #7
+Usuário: Meu cheque especial foi alterado? #8
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #8
+Usuário: Quanto tenho de crédito pré-aprovado? #9
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #9
+Usuário: Posso aumentar meu limite de crédito? #10
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #10
+Usuário: Qual é o meu saldo disponível? #11
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #11
+Usuário: Tenho limite para empréstimo pessoal? #12
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #12
+Usuário: Meu cheque especial foi alterado? #13
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #13
+Usuário: Quanto tenho de crédito pré-aprovado? #14
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #14
+Usuário: Posso aumentar meu limite de crédito? #15
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #15
+Usuário: Qual é o meu saldo disponível? #16
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #16
+Usuário: Tenho limite para empréstimo pessoal? #17
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #17
+Usuário: Meu cheque especial foi alterado? #18
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #18
+Usuário: Quanto tenho de crédito pré-aprovado? #19
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #19
+Usuário: Posso aumentar meu limite de crédito? #20
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #20
+Usuário: Qual é o meu saldo disponível? #21
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #21
+Usuário: Tenho limite para empréstimo pessoal? #22
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #22
+Usuário: Meu cheque especial foi alterado? #23
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #23
+Usuário: Quanto tenho de crédito pré-aprovado? #24
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #24
+Usuário: Posso aumentar meu limite de crédito? #25
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #25
+Usuário: Qual é o meu saldo disponível? #26
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #26
+Usuário: Tenho limite para empréstimo pessoal? #27
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #27
+Usuário: Meu cheque especial foi alterado? #28
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #28
+Usuário: Quanto tenho de crédito pré-aprovado? #29
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #29
+Usuário: Posso aumentar meu limite de crédito? #30
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #30
+Usuário: Qual é o meu saldo disponível? #31
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #31
+Usuário: Tenho limite para empréstimo pessoal? #32
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #32
+Usuário: Meu cheque especial foi alterado? #33
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #33
+Usuário: Quanto tenho de crédito pré-aprovado? #34
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #34
+Usuário: Posso aumentar meu limite de crédito? #35
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #35
+Usuário: Qual é o meu saldo disponível? #36
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #36
+Usuário: Tenho limite para empréstimo pessoal? #37
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #37
+Usuário: Meu cheque especial foi alterado? #38
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #38
+Usuário: Quanto tenho de crédito pré-aprovado? #39
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #39
+Usuário: Posso aumentar meu limite de crédito? #40
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #40
+Usuário: Qual é o meu saldo disponível? #41
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #41
+Usuário: Tenho limite para empréstimo pessoal? #42
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #42
+Usuário: Meu cheque especial foi alterado? #43
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #43
+Usuário: Quanto tenho de crédito pré-aprovado? #44
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #44
+Usuário: Posso aumentar meu limite de crédito? #45
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #45
+Usuário: Qual é o meu saldo disponível? #46
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #46
+Usuário: Tenho limite para empréstimo pessoal? #47
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #47
+Usuário: Meu cheque especial foi alterado? #48
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #48
+Usuário: Quanto tenho de crédito pré-aprovado? #49
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #49
+Usuário: Posso aumentar meu limite de crédito? #50
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #50
+Usuário: Qual é o meu saldo disponível? #51
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #51
+Usuário: Tenho limite para empréstimo pessoal? #52
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #52
+Usuário: Meu cheque especial foi alterado? #53
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #53
+Usuário: Quanto tenho de crédito pré-aprovado? #54
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #54
+Usuário: Posso aumentar meu limite de crédito? #55
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #55
+Usuário: Qual é o meu saldo disponível? #56
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #56
+Usuário: Tenho limite para empréstimo pessoal? #57
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #57
+Usuário: Meu cheque especial foi alterado? #58
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #58
+Usuário: Quanto tenho de crédito pré-aprovado? #59
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #59
+Usuário: Posso aumentar meu limite de crédito? #60
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #60
+Usuário: Qual é o meu saldo disponível? #61
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #61
+Usuário: Tenho limite para empréstimo pessoal? #62
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #62
+Usuário: Meu cheque especial foi alterado? #63
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #63
+Usuário: Quanto tenho de crédito pré-aprovado? #64
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #64
+Usuário: Posso aumentar meu limite de crédito? #65
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #65
+Usuário: Qual é o meu saldo disponível? #66
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #66
+Usuário: Tenho limite para empréstimo pessoal? #67
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #67
+Usuário: Meu cheque especial foi alterado? #68
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #68
+Usuário: Quanto tenho de crédito pré-aprovado? #69
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #69
+Usuário: Posso aumentar meu limite de crédito? #70
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #70
+Usuário: Qual é o meu saldo disponível? #71
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #71
+Usuário: Tenho limite para empréstimo pessoal? #72
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #72
+Usuário: Meu cheque especial foi alterado? #73
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #73
+Usuário: Quanto tenho de crédito pré-aprovado? #74
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #74
+Usuário: Posso aumentar meu limite de crédito? #75
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #75
+Usuário: Qual é o meu saldo disponível? #76
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #76
+Usuário: Tenho limite para empréstimo pessoal? #77
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #77
+Usuário: Meu cheque especial foi alterado? #78
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #78
+Usuário: Quanto tenho de crédito pré-aprovado? #79
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #79
+Usuário: Posso aumentar meu limite de crédito? #80
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #80
+Usuário: Qual é o meu saldo disponível? #81
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #81
+Usuário: Tenho limite para empréstimo pessoal? #82
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #82
+Usuário: Meu cheque especial foi alterado? #83
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #83
+Usuário: Quanto tenho de crédito pré-aprovado? #84
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #84
+Usuário: Posso aumentar meu limite de crédito? #85
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #85
+Usuário: Qual é o meu saldo disponível? #86
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #86
+Usuário: Tenho limite para empréstimo pessoal? #87
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #87
+Usuário: Meu cheque especial foi alterado? #88
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #88
+Usuário: Quanto tenho de crédito pré-aprovado? #89
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #89
+Usuário: Posso aumentar meu limite de crédito? #90
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #90
+Usuário: Qual é o meu saldo disponível? #91
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #91
+Usuário: Tenho limite para empréstimo pessoal? #92
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #92
+Usuário: Meu cheque especial foi alterado? #93
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #93
+Usuário: Quanto tenho de crédito pré-aprovado? #94
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #94
+Usuário: Posso aumentar meu limite de crédito? #95
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #95
+Usuário: Qual é o meu saldo disponível? #96
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #96
+Usuário: Tenho limite para empréstimo pessoal? #97
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #97
+Usuário: Meu cheque especial foi alterado? #98
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #98
+Usuário: Quanto tenho de crédito pré-aprovado? #99
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #99
+Usuário: Posso aumentar meu limite de crédito? #100
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #100
+Usuário: Qual é o meu saldo disponível? #101
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #101
+Usuário: Tenho limite para empréstimo pessoal? #102
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #102
+Usuário: Meu cheque especial foi alterado? #103
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #103
+Usuário: Quanto tenho de crédito pré-aprovado? #104
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #104
+Usuário: Posso aumentar meu limite de crédito? #105
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #105
+Usuário: Qual é o meu saldo disponível? #106
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #106
+Usuário: Tenho limite para empréstimo pessoal? #107
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #107
+Usuário: Meu cheque especial foi alterado? #108
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #108
+Usuário: Quanto tenho de crédito pré-aprovado? #109
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #109
+Usuário: Posso aumentar meu limite de crédito? #110
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #110
+Usuário: Qual é o meu saldo disponível? #111
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #111
+Usuário: Tenho limite para empréstimo pessoal? #112
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #112
+Usuário: Meu cheque especial foi alterado? #113
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #113
+Usuário: Quanto tenho de crédito pré-aprovado? #114
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #114
+Usuário: Posso aumentar meu limite de crédito? #115
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #115
+Usuário: Qual é o meu saldo disponível? #116
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #116
+Usuário: Tenho limite para empréstimo pessoal? #117
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #117
+Usuário: Meu cheque especial foi alterado? #118
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #118
+Usuário: Quanto tenho de crédito pré-aprovado? #119
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #119
+Usuário: Posso aumentar meu limite de crédito? #120
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #120
+Usuário: Qual é o meu saldo disponível? #121
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #121
+Usuário: Tenho limite para empréstimo pessoal? #122
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #122
+Usuário: Meu cheque especial foi alterado? #123
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #123
+Usuário: Quanto tenho de crédito pré-aprovado? #124
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #124
+Usuário: Posso aumentar meu limite de crédito? #125
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #125
+Usuário: Qual é o meu saldo disponível? #126
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #126
+Usuário: Tenho limite para empréstimo pessoal? #127
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #127
+Usuário: Meu cheque especial foi alterado? #128
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #128
+Usuário: Quanto tenho de crédito pré-aprovado? #129
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #129
+Usuário: Posso aumentar meu limite de crédito? #130
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #130
+Usuário: Qual é o meu saldo disponível? #131
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #131
+Usuário: Tenho limite para empréstimo pessoal? #132
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #132
+Usuário: Meu cheque especial foi alterado? #133
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #133
+Usuário: Quanto tenho de crédito pré-aprovado? #134
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #134
+Usuário: Posso aumentar meu limite de crédito? #135
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #135
+Usuário: Qual é o meu saldo disponível? #136
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #136
+Usuário: Tenho limite para empréstimo pessoal? #137
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #137
+Usuário: Meu cheque especial foi alterado? #138
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #138
+Usuário: Quanto tenho de crédito pré-aprovado? #139
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #139
+Usuário: Posso aumentar meu limite de crédito? #140
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #140
+Usuário: Qual é o meu saldo disponível? #141
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #141
+Usuário: Tenho limite para empréstimo pessoal? #142
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #142
+Usuário: Meu cheque especial foi alterado? #143
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #143
+Usuário: Quanto tenho de crédito pré-aprovado? #144
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #144
+Usuário: Posso aumentar meu limite de crédito? #145
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #145
+Usuário: Qual é o meu saldo disponível? #146
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #146
+Usuário: Tenho limite para empréstimo pessoal? #147
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #147
+Usuário: Meu cheque especial foi alterado? #148
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #148
+Usuário: Quanto tenho de crédito pré-aprovado? #149
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #149
+Usuário: Posso aumentar meu limite de crédito? #150
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #150
+Usuário: Qual é o meu saldo disponível? #151
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #151
+Usuário: Tenho limite para empréstimo pessoal? #152
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #152
+Usuário: Meu cheque especial foi alterado? #153
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #153
+Usuário: Quanto tenho de crédito pré-aprovado? #154
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #154
+Usuário: Posso aumentar meu limite de crédito? #155
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #155
+Usuário: Qual é o meu saldo disponível? #156
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #156
+Usuário: Tenho limite para empréstimo pessoal? #157
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #157
+Usuário: Meu cheque especial foi alterado? #158
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #158
+Usuário: Quanto tenho de crédito pré-aprovado? #159
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #159
+Usuário: Posso aumentar meu limite de crédito? #160
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #160
+Usuário: Qual é o meu saldo disponível? #161
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #161
+Usuário: Tenho limite para empréstimo pessoal? #162
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #162
+Usuário: Meu cheque especial foi alterado? #163
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #163
+Usuário: Quanto tenho de crédito pré-aprovado? #164
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #164
+Usuário: Posso aumentar meu limite de crédito? #165
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #165
+Usuário: Qual é o meu saldo disponível? #166
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #166
+Usuário: Tenho limite para empréstimo pessoal? #167
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #167
+Usuário: Meu cheque especial foi alterado? #168
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #168
+Usuário: Quanto tenho de crédito pré-aprovado? #169
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #169
+Usuário: Posso aumentar meu limite de crédito? #170
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #170
+Usuário: Qual é o meu saldo disponível? #171
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #171
+Usuário: Tenho limite para empréstimo pessoal? #172
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #172
+Usuário: Meu cheque especial foi alterado? #173
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #173
+Usuário: Quanto tenho de crédito pré-aprovado? #174
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #174
+Usuário: Posso aumentar meu limite de crédito? #175
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #175
+Usuário: Qual é o meu saldo disponível? #176
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #176
+Usuário: Tenho limite para empréstimo pessoal? #177
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #177
+Usuário: Meu cheque especial foi alterado? #178
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #178
+Usuário: Quanto tenho de crédito pré-aprovado? #179
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #179
+Usuário: Posso aumentar meu limite de crédito? #180
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #180
+Usuário: Qual é o meu saldo disponível? #181
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #181
+Usuário: Tenho limite para empréstimo pessoal? #182
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #182
+Usuário: Meu cheque especial foi alterado? #183
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #183
+Usuário: Quanto tenho de crédito pré-aprovado? #184
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #184
+Usuário: Posso aumentar meu limite de crédito? #185
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #185
+Usuário: Qual é o meu saldo disponível? #186
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #186
+Usuário: Tenho limite para empréstimo pessoal? #187
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #187
+Usuário: Meu cheque especial foi alterado? #188
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #188
+Usuário: Quanto tenho de crédito pré-aprovado? #189
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #189
+Usuário: Posso aumentar meu limite de crédito? #190
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #190
+Usuário: Qual é o meu saldo disponível? #191
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #191
+Usuário: Tenho limite para empréstimo pessoal? #192
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #192
+Usuário: Meu cheque especial foi alterado? #193
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #193
+Usuário: Quanto tenho de crédito pré-aprovado? #194
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #194
+Usuário: Posso aumentar meu limite de crédito? #195
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #195
+Usuário: Qual é o meu saldo disponível? #196
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #196
+Usuário: Tenho limite para empréstimo pessoal? #197
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #197
+Usuário: Meu cheque especial foi alterado? #198
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #198
+Usuário: Quanto tenho de crédito pré-aprovado? #199
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #199
+Usuário: Posso aumentar meu limite de crédito? #200
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #200
+Usuário: Qual é o meu saldo disponível? #201
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #201
+Usuário: Tenho limite para empréstimo pessoal? #202
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #202
+Usuário: Meu cheque especial foi alterado? #203
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #203
+Usuário: Quanto tenho de crédito pré-aprovado? #204
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #204
+Usuário: Posso aumentar meu limite de crédito? #205
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #205
+Usuário: Qual é o meu saldo disponível? #206
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #206
+Usuário: Tenho limite para empréstimo pessoal? #207
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #207
+Usuário: Meu cheque especial foi alterado? #208
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #208
+Usuário: Quanto tenho de crédito pré-aprovado? #209
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #209
+Usuário: Posso aumentar meu limite de crédito? #210
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #210
+Usuário: Qual é o meu saldo disponível? #211
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #211
+Usuário: Tenho limite para empréstimo pessoal? #212
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #212
+Usuário: Meu cheque especial foi alterado? #213
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #213
+Usuário: Quanto tenho de crédito pré-aprovado? #214
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #214
+Usuário: Posso aumentar meu limite de crédito? #215
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #215
+Usuário: Qual é o meu saldo disponível? #216
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #216
+Usuário: Tenho limite para empréstimo pessoal? #217
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #217
+Usuário: Meu cheque especial foi alterado? #218
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #218
+Usuário: Quanto tenho de crédito pré-aprovado? #219
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #219
+Usuário: Posso aumentar meu limite de crédito? #220
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #220
+Usuário: Qual é o meu saldo disponível? #221
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #221
+Usuário: Tenho limite para empréstimo pessoal? #222
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #222
+Usuário: Meu cheque especial foi alterado? #223
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #223
+Usuário: Quanto tenho de crédito pré-aprovado? #224
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #224
+Usuário: Posso aumentar meu limite de crédito? #225
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #225
+Usuário: Qual é o meu saldo disponível? #226
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #226
+Usuário: Tenho limite para empréstimo pessoal? #227
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #227
+Usuário: Meu cheque especial foi alterado? #228
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #228
+Usuário: Quanto tenho de crédito pré-aprovado? #229
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #229
+Usuário: Posso aumentar meu limite de crédito? #230
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #230
+Usuário: Qual é o meu saldo disponível? #231
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #231
+Usuário: Tenho limite para empréstimo pessoal? #232
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #232
+Usuário: Meu cheque especial foi alterado? #233
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #233
+Usuário: Quanto tenho de crédito pré-aprovado? #234
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #234
+Usuário: Posso aumentar meu limite de crédito? #235
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #235
+Usuário: Qual é o meu saldo disponível? #236
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #236
+Usuário: Tenho limite para empréstimo pessoal? #237
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #237
+Usuário: Meu cheque especial foi alterado? #238
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #238
+Usuário: Quanto tenho de crédito pré-aprovado? #239
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #239
+Usuário: Posso aumentar meu limite de crédito? #240
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #240
+Usuário: Qual é o meu saldo disponível? #241
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #241
+Usuário: Tenho limite para empréstimo pessoal? #242
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #242
+Usuário: Meu cheque especial foi alterado? #243
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #243
+Usuário: Quanto tenho de crédito pré-aprovado? #244
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #244
+Usuário: Posso aumentar meu limite de crédito? #245
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #245
+Usuário: Qual é o meu saldo disponível? #246
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #246
+Usuário: Tenho limite para empréstimo pessoal? #247
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #247
+Usuário: Meu cheque especial foi alterado? #248
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #248
+Usuário: Quanto tenho de crédito pré-aprovado? #249
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #249
+Usuário: Posso aumentar meu limite de crédito? #250
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #250
+Usuário: Qual é o meu saldo disponível? #251
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #251
+Usuário: Tenho limite para empréstimo pessoal? #252
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #252
+Usuário: Meu cheque especial foi alterado? #253
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #253
+Usuário: Quanto tenho de crédito pré-aprovado? #254
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #254
+Usuário: Posso aumentar meu limite de crédito? #255
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #255
+Usuário: Qual é o meu saldo disponível? #256
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #256
+Usuário: Tenho limite para empréstimo pessoal? #257
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #257
+Usuário: Meu cheque especial foi alterado? #258
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #258
+Usuário: Quanto tenho de crédito pré-aprovado? #259
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #259
+Usuário: Posso aumentar meu limite de crédito? #260
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #260
+Usuário: Qual é o meu saldo disponível? #261
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #261
+Usuário: Tenho limite para empréstimo pessoal? #262
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #262
+Usuário: Meu cheque especial foi alterado? #263
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #263
+Usuário: Quanto tenho de crédito pré-aprovado? #264
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #264
+Usuário: Posso aumentar meu limite de crédito? #265
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #265
+Usuário: Qual é o meu saldo disponível? #266
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #266
+Usuário: Tenho limite para empréstimo pessoal? #267
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #267
+Usuário: Meu cheque especial foi alterado? #268
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #268
+Usuário: Quanto tenho de crédito pré-aprovado? #269
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #269
+Usuário: Posso aumentar meu limite de crédito? #270
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #270
+Usuário: Qual é o meu saldo disponível? #271
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #271
+Usuário: Tenho limite para empréstimo pessoal? #272
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #272
+Usuário: Meu cheque especial foi alterado? #273
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #273
+Usuário: Quanto tenho de crédito pré-aprovado? #274
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #274
+Usuário: Posso aumentar meu limite de crédito? #275
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #275
+Usuário: Qual é o meu saldo disponível? #276
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #276
+Usuário: Tenho limite para empréstimo pessoal? #277
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #277
+Usuário: Meu cheque especial foi alterado? #278
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #278
+Usuário: Quanto tenho de crédito pré-aprovado? #279
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #279
+Usuário: Posso aumentar meu limite de crédito? #280
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #280
+Usuário: Qual é o meu saldo disponível? #281
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #281
+Usuário: Tenho limite para empréstimo pessoal? #282
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #282
+Usuário: Meu cheque especial foi alterado? #283
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #283
+Usuário: Quanto tenho de crédito pré-aprovado? #284
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #284
+Usuário: Posso aumentar meu limite de crédito? #285
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #285
+Usuário: Qual é o meu saldo disponível? #286
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #286
+Usuário: Tenho limite para empréstimo pessoal? #287
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #287
+Usuário: Meu cheque especial foi alterado? #288
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #288
+Usuário: Quanto tenho de crédito pré-aprovado? #289
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #289
+Usuário: Posso aumentar meu limite de crédito? #290
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #290
+Usuário: Qual é o meu saldo disponível? #291
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #291
+Usuário: Tenho limite para empréstimo pessoal? #292
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #292
+Usuário: Meu cheque especial foi alterado? #293
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #293
+Usuário: Quanto tenho de crédito pré-aprovado? #294
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #294
+Usuário: Posso aumentar meu limite de crédito? #295
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #295
+Usuário: Qual é o meu saldo disponível? #296
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #296
+Usuário: Tenho limite para empréstimo pessoal? #297
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #297
+Usuário: Meu cheque especial foi alterado? #298
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #298
+Usuário: Quanto tenho de crédito pré-aprovado? #299
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #299
+Usuário: Posso aumentar meu limite de crédito? #300
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #300
+Usuário: Qual é o meu saldo disponível? #301
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #301
+Usuário: Tenho limite para empréstimo pessoal? #302
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #302
+Usuário: Meu cheque especial foi alterado? #303
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #303
+Usuário: Quanto tenho de crédito pré-aprovado? #304
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #304
+Usuário: Posso aumentar meu limite de crédito? #305
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #305
+Usuário: Qual é o meu saldo disponível? #306
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #306
+Usuário: Tenho limite para empréstimo pessoal? #307
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #307
+Usuário: Meu cheque especial foi alterado? #308
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #308
+Usuário: Quanto tenho de crédito pré-aprovado? #309
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #309
+Usuário: Posso aumentar meu limite de crédito? #310
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #310
+Usuário: Qual é o meu saldo disponível? #311
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #311
+Usuário: Tenho limite para empréstimo pessoal? #312
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #312
+Usuário: Meu cheque especial foi alterado? #313
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #313
+Usuário: Quanto tenho de crédito pré-aprovado? #314
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #314
+Usuário: Posso aumentar meu limite de crédito? #315
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #315
+Usuário: Qual é o meu saldo disponível? #316
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #316
+Usuário: Tenho limite para empréstimo pessoal? #317
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #317
+Usuário: Meu cheque especial foi alterado? #318
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #318
+Usuário: Quanto tenho de crédito pré-aprovado? #319
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #319
+Usuário: Posso aumentar meu limite de crédito? #320
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #320
+Usuário: Qual é o meu saldo disponível? #321
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #321
+Usuário: Tenho limite para empréstimo pessoal? #322
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #322
+Usuário: Meu cheque especial foi alterado? #323
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #323
+Usuário: Quanto tenho de crédito pré-aprovado? #324
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #324
+Usuário: Posso aumentar meu limite de crédito? #325
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #325
+Usuário: Qual é o meu saldo disponível? #326
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #326
+Usuário: Tenho limite para empréstimo pessoal? #327
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #327
+Usuário: Meu cheque especial foi alterado? #328
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #328
+Usuário: Quanto tenho de crédito pré-aprovado? #329
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #329
+Usuário: Posso aumentar meu limite de crédito? #330
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #330
+Usuário: Qual é o meu saldo disponível? #331
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #331
+Usuário: Tenho limite para empréstimo pessoal? #332
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #332
+Usuário: Meu cheque especial foi alterado? #333
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #333
+Usuário: Quanto tenho de crédito pré-aprovado? #334
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #334
+Usuário: Posso aumentar meu limite de crédito? #335
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #335
+Usuário: Qual é o meu saldo disponível? #336
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #336
+Usuário: Tenho limite para empréstimo pessoal? #337
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #337
+Usuário: Meu cheque especial foi alterado? #338
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #338
+Usuário: Quanto tenho de crédito pré-aprovado? #339
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #339
+Usuário: Posso aumentar meu limite de crédito? #340
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #340
+Usuário: Qual é o meu saldo disponível? #341
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #341
+Usuário: Tenho limite para empréstimo pessoal? #342
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #342
+Usuário: Meu cheque especial foi alterado? #343
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #343
+Usuário: Quanto tenho de crédito pré-aprovado? #344
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #344
+Usuário: Posso aumentar meu limite de crédito? #345
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #345
+Usuário: Qual é o meu saldo disponível? #346
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #346
+Usuário: Tenho limite para empréstimo pessoal? #347
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #347
+Usuário: Meu cheque especial foi alterado? #348
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #348
+Usuário: Quanto tenho de crédito pré-aprovado? #349
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #349
+Usuário: Posso aumentar meu limite de crédito? #350
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #350
+Usuário: Qual é o meu saldo disponível? #351
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #351
+Usuário: Tenho limite para empréstimo pessoal? #352
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #352
+Usuário: Meu cheque especial foi alterado? #353
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #353
+Usuário: Quanto tenho de crédito pré-aprovado? #354
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #354
+Usuário: Posso aumentar meu limite de crédito? #355
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #355
+Usuário: Qual é o meu saldo disponível? #356
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #356
+Usuário: Tenho limite para empréstimo pessoal? #357
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #357
+Usuário: Meu cheque especial foi alterado? #358
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #358
+Usuário: Quanto tenho de crédito pré-aprovado? #359
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #359
+Usuário: Posso aumentar meu limite de crédito? #360
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #360
+Usuário: Qual é o meu saldo disponível? #361
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #361
+Usuário: Tenho limite para empréstimo pessoal? #362
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #362
+Usuário: Meu cheque especial foi alterado? #363
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #363
+Usuário: Quanto tenho de crédito pré-aprovado? #364
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #364
+Usuário: Posso aumentar meu limite de crédito? #365
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #365
+Usuário: Qual é o meu saldo disponível? #366
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #366
+Usuário: Tenho limite para empréstimo pessoal? #367
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #367
+Usuário: Meu cheque especial foi alterado? #368
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #368
+Usuário: Quanto tenho de crédito pré-aprovado? #369
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #369
+Usuário: Posso aumentar meu limite de crédito? #370
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #370
+Usuário: Qual é o meu saldo disponível? #371
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #371
+Usuário: Tenho limite para empréstimo pessoal? #372
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #372
+Usuário: Meu cheque especial foi alterado? #373
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #373
+Usuário: Quanto tenho de crédito pré-aprovado? #374
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #374
+Usuário: Posso aumentar meu limite de crédito? #375
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #375
+Usuário: Qual é o meu saldo disponível? #376
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #376
+Usuário: Tenho limite para empréstimo pessoal? #377
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #377
+Usuário: Meu cheque especial foi alterado? #378
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #378
+Usuário: Quanto tenho de crédito pré-aprovado? #379
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #379
+Usuário: Posso aumentar meu limite de crédito? #380
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #380
+Usuário: Qual é o meu saldo disponível? #381
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #381
+Usuário: Tenho limite para empréstimo pessoal? #382
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #382
+Usuário: Meu cheque especial foi alterado? #383
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #383
+Usuário: Quanto tenho de crédito pré-aprovado? #384
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #384
+Usuário: Posso aumentar meu limite de crédito? #385
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #385
+Usuário: Qual é o meu saldo disponível? #386
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #386
+Usuário: Tenho limite para empréstimo pessoal? #387
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #387
+Usuário: Meu cheque especial foi alterado? #388
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #388
+Usuário: Quanto tenho de crédito pré-aprovado? #389
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #389
+Usuário: Posso aumentar meu limite de crédito? #390
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #390
+Usuário: Qual é o meu saldo disponível? #391
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #391
+Usuário: Tenho limite para empréstimo pessoal? #392
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #392
+Usuário: Meu cheque especial foi alterado? #393
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #393
+Usuário: Quanto tenho de crédito pré-aprovado? #394
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #394
+Usuário: Posso aumentar meu limite de crédito? #395
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #395
+Usuário: Qual é o meu saldo disponível? #396
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #396
+Usuário: Tenho limite para empréstimo pessoal? #397
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #397
+Usuário: Meu cheque especial foi alterado? #398
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #398
+Usuário: Quanto tenho de crédito pré-aprovado? #399
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #399
+Usuário: Posso aumentar meu limite de crédito? #400
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #400
+Usuário: Qual é o meu saldo disponível? #401
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #401
+Usuário: Tenho limite para empréstimo pessoal? #402
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #402
+Usuário: Meu cheque especial foi alterado? #403
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #403
+Usuário: Quanto tenho de crédito pré-aprovado? #404
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #404
+Usuário: Posso aumentar meu limite de crédito? #405
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #405
+Usuário: Qual é o meu saldo disponível? #406
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #406
+Usuário: Tenho limite para empréstimo pessoal? #407
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #407
+Usuário: Meu cheque especial foi alterado? #408
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #408
+Usuário: Quanto tenho de crédito pré-aprovado? #409
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #409
+Usuário: Posso aumentar meu limite de crédito? #410
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #410
+Usuário: Qual é o meu saldo disponível? #411
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #411
+Usuário: Tenho limite para empréstimo pessoal? #412
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #412
+Usuário: Meu cheque especial foi alterado? #413
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #413
+Usuário: Quanto tenho de crédito pré-aprovado? #414
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #414
+Usuário: Posso aumentar meu limite de crédito? #415
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #415
+Usuário: Qual é o meu saldo disponível? #416
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #416
+Usuário: Tenho limite para empréstimo pessoal? #417
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #417
+Usuário: Meu cheque especial foi alterado? #418
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #418
+Usuário: Quanto tenho de crédito pré-aprovado? #419
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #419
+Usuário: Posso aumentar meu limite de crédito? #420
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #420
+Usuário: Qual é o meu saldo disponível? #421
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #421
+Usuário: Tenho limite para empréstimo pessoal? #422
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #422
+Usuário: Meu cheque especial foi alterado? #423
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #423
+Usuário: Quanto tenho de crédito pré-aprovado? #424
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #424
+Usuário: Posso aumentar meu limite de crédito? #425
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #425
+Usuário: Qual é o meu saldo disponível? #426
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #426
+Usuário: Tenho limite para empréstimo pessoal? #427
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #427
+Usuário: Meu cheque especial foi alterado? #428
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #428
+Usuário: Quanto tenho de crédito pré-aprovado? #429
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #429
+Usuário: Posso aumentar meu limite de crédito? #430
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #430
+Usuário: Qual é o meu saldo disponível? #431
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #431
+Usuário: Tenho limite para empréstimo pessoal? #432
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #432
+Usuário: Meu cheque especial foi alterado? #433
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #433
+Usuário: Quanto tenho de crédito pré-aprovado? #434
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #434
+Usuário: Posso aumentar meu limite de crédito? #435
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #435
+Usuário: Qual é o meu saldo disponível? #436
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #436
+Usuário: Tenho limite para empréstimo pessoal? #437
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #437
+Usuário: Meu cheque especial foi alterado? #438
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #438
+Usuário: Quanto tenho de crédito pré-aprovado? #439
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #439
+Usuário: Posso aumentar meu limite de crédito? #440
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #440
+Usuário: Qual é o meu saldo disponível? #441
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #441
+Usuário: Tenho limite para empréstimo pessoal? #442
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #442
+Usuário: Meu cheque especial foi alterado? #443
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #443
+Usuário: Quanto tenho de crédito pré-aprovado? #444
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #444
+Usuário: Posso aumentar meu limite de crédito? #445
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #445
+Usuário: Qual é o meu saldo disponível? #446
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #446
+Usuário: Tenho limite para empréstimo pessoal? #447
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #447
+Usuário: Meu cheque especial foi alterado? #448
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #448
+Usuário: Quanto tenho de crédito pré-aprovado? #449
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #449
+Usuário: Posso aumentar meu limite de crédito? #450
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #450
+Usuário: Qual é o meu saldo disponível? #451
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #451
+Usuário: Tenho limite para empréstimo pessoal? #452
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #452
+Usuário: Meu cheque especial foi alterado? #453
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #453
+Usuário: Quanto tenho de crédito pré-aprovado? #454
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #454
+Usuário: Posso aumentar meu limite de crédito? #455
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #455
+Usuário: Qual é o meu saldo disponível? #456
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #456
+Usuário: Tenho limite para empréstimo pessoal? #457
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #457
+Usuário: Meu cheque especial foi alterado? #458
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #458
+Usuário: Quanto tenho de crédito pré-aprovado? #459
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #459
+Usuário: Posso aumentar meu limite de crédito? #460
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #460
+Usuário: Qual é o meu saldo disponível? #461
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #461
+Usuário: Tenho limite para empréstimo pessoal? #462
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #462
+Usuário: Meu cheque especial foi alterado? #463
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #463
+Usuário: Quanto tenho de crédito pré-aprovado? #464
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #464
+Usuário: Posso aumentar meu limite de crédito? #465
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #465
+Usuário: Qual é o meu saldo disponível? #466
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #466
+Usuário: Tenho limite para empréstimo pessoal? #467
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #467
+Usuário: Meu cheque especial foi alterado? #468
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #468
+Usuário: Quanto tenho de crédito pré-aprovado? #469
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #469
+Usuário: Posso aumentar meu limite de crédito? #470
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #470
+Usuário: Qual é o meu saldo disponível? #471
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #471
+Usuário: Tenho limite para empréstimo pessoal? #472
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #472
+Usuário: Meu cheque especial foi alterado? #473
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #473
+Usuário: Quanto tenho de crédito pré-aprovado? #474
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #474
+Usuário: Posso aumentar meu limite de crédito? #475
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #475
+Usuário: Qual é o meu saldo disponível? #476
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #476
+Usuário: Tenho limite para empréstimo pessoal? #477
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #477
+Usuário: Meu cheque especial foi alterado? #478
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #478
+Usuário: Quanto tenho de crédito pré-aprovado? #479
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #479
+Usuário: Posso aumentar meu limite de crédito? #480
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #480
+Usuário: Qual é o meu saldo disponível? #481
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #481
+Usuário: Tenho limite para empréstimo pessoal? #482
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #482
+Usuário: Meu cheque especial foi alterado? #483
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #483
+Usuário: Quanto tenho de crédito pré-aprovado? #484
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #484
+Usuário: Posso aumentar meu limite de crédito? #485
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #485
+Usuário: Qual é o meu saldo disponível? #486
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #486
+Usuário: Tenho limite para empréstimo pessoal? #487
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #487
+Usuário: Meu cheque especial foi alterado? #488
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #488
+Usuário: Quanto tenho de crédito pré-aprovado? #489
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #489
+Usuário: Posso aumentar meu limite de crédito? #490
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #490
+Usuário: Qual é o meu saldo disponível? #491
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #491
+Usuário: Tenho limite para empréstimo pessoal? #492
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #492
+Usuário: Meu cheque especial foi alterado? #493
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #493
+Usuário: Quanto tenho de crédito pré-aprovado? #494
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #494
+Usuário: Posso aumentar meu limite de crédito? #495
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #495
+Usuário: Qual é o meu saldo disponível? #496
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #496
+Usuário: Tenho limite para empréstimo pessoal? #497
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #497
+Usuário: Meu cheque especial foi alterado? #498
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #498
+Usuário: Quanto tenho de crédito pré-aprovado? #499
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #499
+Usuário: Posso aumentar meu limite de crédito? #500
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #500
+Usuário: Qual é o meu saldo disponível? #501
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #501
+Usuário: Tenho limite para empréstimo pessoal? #502
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #502
+Usuário: Meu cheque especial foi alterado? #503
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #503
+Usuário: Quanto tenho de crédito pré-aprovado? #504
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #504
+Usuário: Posso aumentar meu limite de crédito? #505
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #505
+Usuário: Qual é o meu saldo disponível? #506
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #506
+Usuário: Tenho limite para empréstimo pessoal? #507
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #507
+Usuário: Meu cheque especial foi alterado? #508
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #508
+Usuário: Quanto tenho de crédito pré-aprovado? #509
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #509
+Usuário: Posso aumentar meu limite de crédito? #510
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #510
+Usuário: Qual é o meu saldo disponível? #511
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #511
+Usuário: Tenho limite para empréstimo pessoal? #512
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #512
+Usuário: Meu cheque especial foi alterado? #513
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #513
+Usuário: Quanto tenho de crédito pré-aprovado? #514
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #514
+Usuário: Posso aumentar meu limite de crédito? #515
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #515
+Usuário: Qual é o meu saldo disponível? #516
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #516
+Usuário: Tenho limite para empréstimo pessoal? #517
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #517
+Usuário: Meu cheque especial foi alterado? #518
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #518
+Usuário: Quanto tenho de crédito pré-aprovado? #519
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #519
+Usuário: Posso aumentar meu limite de crédito? #520
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #520
+Usuário: Qual é o meu saldo disponível? #521
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #521
+Usuário: Tenho limite para empréstimo pessoal? #522
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #522
+Usuário: Meu cheque especial foi alterado? #523
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #523
+Usuário: Quanto tenho de crédito pré-aprovado? #524
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #524
+Usuário: Posso aumentar meu limite de crédito? #525
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #525
+Usuário: Qual é o meu saldo disponível? #526
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #526
+Usuário: Tenho limite para empréstimo pessoal? #527
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #527
+Usuário: Meu cheque especial foi alterado? #528
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #528
+Usuário: Quanto tenho de crédito pré-aprovado? #529
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #529
+Usuário: Posso aumentar meu limite de crédito? #530
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #530
+Usuário: Qual é o meu saldo disponível? #531
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #531
+Usuário: Tenho limite para empréstimo pessoal? #532
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #532
+Usuário: Meu cheque especial foi alterado? #533
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #533
+Usuário: Quanto tenho de crédito pré-aprovado? #534
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #534
+Usuário: Posso aumentar meu limite de crédito? #535
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #535
+Usuário: Qual é o meu saldo disponível? #536
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #536
+Usuário: Tenho limite para empréstimo pessoal? #537
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #537
+Usuário: Meu cheque especial foi alterado? #538
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #538
+Usuário: Quanto tenho de crédito pré-aprovado? #539
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #539
+Usuário: Posso aumentar meu limite de crédito? #540
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #540
+Usuário: Qual é o meu saldo disponível? #541
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #541
+Usuário: Tenho limite para empréstimo pessoal? #542
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #542
+Usuário: Meu cheque especial foi alterado? #543
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #543
+Usuário: Quanto tenho de crédito pré-aprovado? #544
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #544
+Usuário: Posso aumentar meu limite de crédito? #545
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #545
+Usuário: Qual é o meu saldo disponível? #546
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #546
+Usuário: Tenho limite para empréstimo pessoal? #547
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #547
+Usuário: Meu cheque especial foi alterado? #548
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #548
+Usuário: Quanto tenho de crédito pré-aprovado? #549
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #549
+Usuário: Posso aumentar meu limite de crédito? #550
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #550
+Usuário: Qual é o meu saldo disponível? #551
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #551
+Usuário: Tenho limite para empréstimo pessoal? #552
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #552
+Usuário: Meu cheque especial foi alterado? #553
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #553
+Usuário: Quanto tenho de crédito pré-aprovado? #554
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #554
+Usuário: Posso aumentar meu limite de crédito? #555
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #555
+Usuário: Qual é o meu saldo disponível? #556
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #556
+Usuário: Tenho limite para empréstimo pessoal? #557
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #557
+Usuário: Meu cheque especial foi alterado? #558
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #558
+Usuário: Quanto tenho de crédito pré-aprovado? #559
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #559
+Usuário: Posso aumentar meu limite de crédito? #560
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #560
+Usuário: Qual é o meu saldo disponível? #561
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #561
+Usuário: Tenho limite para empréstimo pessoal? #562
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #562
+Usuário: Meu cheque especial foi alterado? #563
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #563
+Usuário: Quanto tenho de crédito pré-aprovado? #564
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #564
+Usuário: Posso aumentar meu limite de crédito? #565
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #565
+Usuário: Qual é o meu saldo disponível? #566
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #566
+Usuário: Tenho limite para empréstimo pessoal? #567
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #567
+Usuário: Meu cheque especial foi alterado? #568
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #568
+Usuário: Quanto tenho de crédito pré-aprovado? #569
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #569
+Usuário: Posso aumentar meu limite de crédito? #570
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #570
+Usuário: Qual é o meu saldo disponível? #571
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #571
+Usuário: Tenho limite para empréstimo pessoal? #572
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #572
+Usuário: Meu cheque especial foi alterado? #573
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #573
+Usuário: Quanto tenho de crédito pré-aprovado? #574
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #574
+Usuário: Posso aumentar meu limite de crédito? #575
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #575
+Usuário: Qual é o meu saldo disponível? #576
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #576
+Usuário: Tenho limite para empréstimo pessoal? #577
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #577
+Usuário: Meu cheque especial foi alterado? #578
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #578
+Usuário: Quanto tenho de crédito pré-aprovado? #579
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #579
+Usuário: Posso aumentar meu limite de crédito? #580
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #580
+Usuário: Qual é o meu saldo disponível? #581
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #581
+Usuário: Tenho limite para empréstimo pessoal? #582
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #582
+Usuário: Meu cheque especial foi alterado? #583
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #583
+Usuário: Quanto tenho de crédito pré-aprovado? #584
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #584
+Usuário: Posso aumentar meu limite de crédito? #585
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #585
+Usuário: Qual é o meu saldo disponível? #586
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #586
+Usuário: Tenho limite para empréstimo pessoal? #587
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #587
+Usuário: Meu cheque especial foi alterado? #588
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #588
+Usuário: Quanto tenho de crédito pré-aprovado? #589
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #589
+Usuário: Posso aumentar meu limite de crédito? #590
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #590
+Usuário: Qual é o meu saldo disponível? #591
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #591
+Usuário: Tenho limite para empréstimo pessoal? #592
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #592
+Usuário: Meu cheque especial foi alterado? #593
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #593
+Usuário: Quanto tenho de crédito pré-aprovado? #594
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #594
+Usuário: Posso aumentar meu limite de crédito? #595
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #595
+Usuário: Qual é o meu saldo disponível? #596
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #596
+Usuário: Tenho limite para empréstimo pessoal? #597
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #597
+Usuário: Meu cheque especial foi alterado? #598
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #598
+Usuário: Quanto tenho de crédito pré-aprovado? #599
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #599
+Usuário: Posso aumentar meu limite de crédito? #600
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #600
+Usuário: Qual é o meu saldo disponível? #601
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #601
+Usuário: Tenho limite para empréstimo pessoal? #602
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #602
+Usuário: Meu cheque especial foi alterado? #603
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #603
+Usuário: Quanto tenho de crédito pré-aprovado? #604
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #604
+Usuário: Posso aumentar meu limite de crédito? #605
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #605
+Usuário: Qual é o meu saldo disponível? #606
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #606
+Usuário: Tenho limite para empréstimo pessoal? #607
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #607
+Usuário: Meu cheque especial foi alterado? #608
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #608
+Usuário: Quanto tenho de crédito pré-aprovado? #609
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #609
+Usuário: Posso aumentar meu limite de crédito? #610
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #610
+Usuário: Qual é o meu saldo disponível? #611
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #611
+Usuário: Tenho limite para empréstimo pessoal? #612
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #612
+Usuário: Meu cheque especial foi alterado? #613
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #613
+Usuário: Quanto tenho de crédito pré-aprovado? #614
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #614
+Usuário: Posso aumentar meu limite de crédito? #615
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #615
+Usuário: Qual é o meu saldo disponível? #616
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #616
+Usuário: Tenho limite para empréstimo pessoal? #617
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #617
+Usuário: Meu cheque especial foi alterado? #618
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #618
+Usuário: Quanto tenho de crédito pré-aprovado? #619
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #619
+Usuário: Posso aumentar meu limite de crédito? #620
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #620
+Usuário: Qual é o meu saldo disponível? #621
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #621
+Usuário: Tenho limite para empréstimo pessoal? #622
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #622
+Usuário: Meu cheque especial foi alterado? #623
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #623
+Usuário: Quanto tenho de crédito pré-aprovado? #624
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #624
+Usuário: Posso aumentar meu limite de crédito? #625
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #625
+Usuário: Qual é o meu saldo disponível? #626
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #626
+Usuário: Tenho limite para empréstimo pessoal? #627
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #627
+Usuário: Meu cheque especial foi alterado? #628
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #628
+Usuário: Quanto tenho de crédito pré-aprovado? #629
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #629
+Usuário: Posso aumentar meu limite de crédito? #630
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #630
+Usuário: Qual é o meu saldo disponível? #631
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #631
+Usuário: Tenho limite para empréstimo pessoal? #632
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #632
+Usuário: Meu cheque especial foi alterado? #633
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #633
+Usuário: Quanto tenho de crédito pré-aprovado? #634
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #634
+Usuário: Posso aumentar meu limite de crédito? #635
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #635
+Usuário: Qual é o meu saldo disponível? #636
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #636
+Usuário: Tenho limite para empréstimo pessoal? #637
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #637
+Usuário: Meu cheque especial foi alterado? #638
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #638
+Usuário: Quanto tenho de crédito pré-aprovado? #639
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #639
+Usuário: Posso aumentar meu limite de crédito? #640
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #640
+Usuário: Qual é o meu saldo disponível? #641
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #641
+Usuário: Tenho limite para empréstimo pessoal? #642
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #642
+Usuário: Meu cheque especial foi alterado? #643
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #643
+Usuário: Quanto tenho de crédito pré-aprovado? #644
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #644
+Usuário: Posso aumentar meu limite de crédito? #645
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #645
+Usuário: Qual é o meu saldo disponível? #646
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #646
+Usuário: Tenho limite para empréstimo pessoal? #647
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #647
+Usuário: Meu cheque especial foi alterado? #648
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #648
+Usuário: Quanto tenho de crédito pré-aprovado? #649
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #649
+Usuário: Posso aumentar meu limite de crédito? #650
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #650
+Usuário: Qual é o meu saldo disponível? #651
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #651
+Usuário: Tenho limite para empréstimo pessoal? #652
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #652
+Usuário: Meu cheque especial foi alterado? #653
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #653
+Usuário: Quanto tenho de crédito pré-aprovado? #654
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #654
+Usuário: Posso aumentar meu limite de crédito? #655
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #655
+Usuário: Qual é o meu saldo disponível? #656
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #656
+Usuário: Tenho limite para empréstimo pessoal? #657
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #657
+Usuário: Meu cheque especial foi alterado? #658
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #658
+Usuário: Quanto tenho de crédito pré-aprovado? #659
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #659
+Usuário: Posso aumentar meu limite de crédito? #660
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #660
+Usuário: Qual é o meu saldo disponível? #661
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #661
+Usuário: Tenho limite para empréstimo pessoal? #662
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #662
+Usuário: Meu cheque especial foi alterado? #663
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #663
+Usuário: Quanto tenho de crédito pré-aprovado? #664
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #664
+Usuário: Posso aumentar meu limite de crédito? #665
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #665
+Usuário: Qual é o meu saldo disponível? #666
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #666
+Usuário: Tenho limite para empréstimo pessoal? #667
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #667
+Usuário: Meu cheque especial foi alterado? #668
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #668
+Usuário: Quanto tenho de crédito pré-aprovado? #669
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #669
+Usuário: Posso aumentar meu limite de crédito? #670
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #670
+Usuário: Qual é o meu saldo disponível? #671
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #671
+Usuário: Tenho limite para empréstimo pessoal? #672
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #672
+Usuário: Meu cheque especial foi alterado? #673
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #673
+Usuário: Quanto tenho de crédito pré-aprovado? #674
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #674
+Usuário: Posso aumentar meu limite de crédito? #675
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #675
+Usuário: Qual é o meu saldo disponível? #676
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #676
+Usuário: Tenho limite para empréstimo pessoal? #677
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #677
+Usuário: Meu cheque especial foi alterado? #678
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #678
+Usuário: Quanto tenho de crédito pré-aprovado? #679
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #679
+Usuário: Posso aumentar meu limite de crédito? #680
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #680
+Usuário: Qual é o meu saldo disponível? #681
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #681
+Usuário: Tenho limite para empréstimo pessoal? #682
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #682
+Usuário: Meu cheque especial foi alterado? #683
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #683
+Usuário: Quanto tenho de crédito pré-aprovado? #684
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #684
+Usuário: Posso aumentar meu limite de crédito? #685
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #685
+Usuário: Qual é o meu saldo disponível? #686
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #686
+Usuário: Tenho limite para empréstimo pessoal? #687
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #687
+Usuário: Meu cheque especial foi alterado? #688
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #688
+Usuário: Quanto tenho de crédito pré-aprovado? #689
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #689
+Usuário: Posso aumentar meu limite de crédito? #690
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #690
+Usuário: Qual é o meu saldo disponível? #691
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #691
+Usuário: Tenho limite para empréstimo pessoal? #692
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #692
+Usuário: Meu cheque especial foi alterado? #693
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #693
+Usuário: Quanto tenho de crédito pré-aprovado? #694
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #694
+Usuário: Posso aumentar meu limite de crédito? #695
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #695
+Usuário: Qual é o meu saldo disponível? #696
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #696
+Usuário: Tenho limite para empréstimo pessoal? #697
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #697
+Usuário: Meu cheque especial foi alterado? #698
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #698
+Usuário: Quanto tenho de crédito pré-aprovado? #699
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #699
+Usuário: Posso aumentar meu limite de crédito? #700
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #700
+Usuário: Qual é o meu saldo disponível? #701
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #701
+Usuário: Tenho limite para empréstimo pessoal? #702
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #702
+Usuário: Meu cheque especial foi alterado? #703
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #703
+Usuário: Quanto tenho de crédito pré-aprovado? #704
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #704
+Usuário: Posso aumentar meu limite de crédito? #705
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #705
+Usuário: Qual é o meu saldo disponível? #706
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #706
+Usuário: Tenho limite para empréstimo pessoal? #707
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #707
+Usuário: Meu cheque especial foi alterado? #708
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #708
+Usuário: Quanto tenho de crédito pré-aprovado? #709
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #709
+Usuário: Posso aumentar meu limite de crédito? #710
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #710
+Usuário: Qual é o meu saldo disponível? #711
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #711
+Usuário: Tenho limite para empréstimo pessoal? #712
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #712
+Usuário: Meu cheque especial foi alterado? #713
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #713
+Usuário: Quanto tenho de crédito pré-aprovado? #714
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #714
+Usuário: Posso aumentar meu limite de crédito? #715
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #715
+Usuário: Qual é o meu saldo disponível? #716
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #716
+Usuário: Tenho limite para empréstimo pessoal? #717
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #717
+Usuário: Meu cheque especial foi alterado? #718
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #718
+Usuário: Quanto tenho de crédito pré-aprovado? #719
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #719
+Usuário: Posso aumentar meu limite de crédito? #720
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #720
+Usuário: Qual é o meu saldo disponível? #721
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #721
+Usuário: Tenho limite para empréstimo pessoal? #722
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #722
+Usuário: Meu cheque especial foi alterado? #723
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #723
+Usuário: Quanto tenho de crédito pré-aprovado? #724
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #724
+Usuário: Posso aumentar meu limite de crédito? #725
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #725
+Usuário: Qual é o meu saldo disponível? #726
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #726
+Usuário: Tenho limite para empréstimo pessoal? #727
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #727
+Usuário: Meu cheque especial foi alterado? #728
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #728
+Usuário: Quanto tenho de crédito pré-aprovado? #729
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #729
+Usuário: Posso aumentar meu limite de crédito? #730
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #730
+Usuário: Qual é o meu saldo disponível? #731
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #731
+Usuário: Tenho limite para empréstimo pessoal? #732
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #732
+Usuário: Meu cheque especial foi alterado? #733
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #733
+Usuário: Quanto tenho de crédito pré-aprovado? #734
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #734
+Usuário: Posso aumentar meu limite de crédito? #735
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #735
+Usuário: Qual é o meu saldo disponível? #736
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #736
+Usuário: Tenho limite para empréstimo pessoal? #737
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #737
+Usuário: Meu cheque especial foi alterado? #738
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #738
+Usuário: Quanto tenho de crédito pré-aprovado? #739
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #739
+Usuário: Posso aumentar meu limite de crédito? #740
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #740
+Usuário: Qual é o meu saldo disponível? #741
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #741
+Usuário: Tenho limite para empréstimo pessoal? #742
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #742
+Usuário: Meu cheque especial foi alterado? #743
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #743
+Usuário: Quanto tenho de crédito pré-aprovado? #744
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #744
+Usuário: Posso aumentar meu limite de crédito? #745
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #745
+Usuário: Qual é o meu saldo disponível? #746
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #746
+Usuário: Tenho limite para empréstimo pessoal? #747
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #747
+Usuário: Meu cheque especial foi alterado? #748
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #748
+Usuário: Quanto tenho de crédito pré-aprovado? #749
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #749
+Usuário: Posso aumentar meu limite de crédito? #750
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #750
+Usuário: Qual é o meu saldo disponível? #751
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #751
+Usuário: Tenho limite para empréstimo pessoal? #752
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #752
+Usuário: Meu cheque especial foi alterado? #753
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #753
+Usuário: Quanto tenho de crédito pré-aprovado? #754
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #754
+Usuário: Posso aumentar meu limite de crédito? #755
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #755
+Usuário: Qual é o meu saldo disponível? #756
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #756
+Usuário: Tenho limite para empréstimo pessoal? #757
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #757
+Usuário: Meu cheque especial foi alterado? #758
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #758
+Usuário: Quanto tenho de crédito pré-aprovado? #759
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #759
+Usuário: Posso aumentar meu limite de crédito? #760
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #760
+Usuário: Qual é o meu saldo disponível? #761
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #761
+Usuário: Tenho limite para empréstimo pessoal? #762
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #762
+Usuário: Meu cheque especial foi alterado? #763
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #763
+Usuário: Quanto tenho de crédito pré-aprovado? #764
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #764
+Usuário: Posso aumentar meu limite de crédito? #765
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #765
+Usuário: Qual é o meu saldo disponível? #766
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #766
+Usuário: Tenho limite para empréstimo pessoal? #767
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #767
+Usuário: Meu cheque especial foi alterado? #768
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #768
+Usuário: Quanto tenho de crédito pré-aprovado? #769
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #769
+Usuário: Posso aumentar meu limite de crédito? #770
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #770
+Usuário: Qual é o meu saldo disponível? #771
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #771
+Usuário: Tenho limite para empréstimo pessoal? #772
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #772
+Usuário: Meu cheque especial foi alterado? #773
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #773
+Usuário: Quanto tenho de crédito pré-aprovado? #774
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #774
+Usuário: Posso aumentar meu limite de crédito? #775
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #775
+Usuário: Qual é o meu saldo disponível? #776
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #776
+Usuário: Tenho limite para empréstimo pessoal? #777
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #777
+Usuário: Meu cheque especial foi alterado? #778
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #778
+Usuário: Quanto tenho de crédito pré-aprovado? #779
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #779
+Usuário: Posso aumentar meu limite de crédito? #780
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #780
+Usuário: Qual é o meu saldo disponível? #781
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #781
+Usuário: Tenho limite para empréstimo pessoal? #782
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #782
+Usuário: Meu cheque especial foi alterado? #783
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #783
+Usuário: Quanto tenho de crédito pré-aprovado? #784
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #784
+Usuário: Posso aumentar meu limite de crédito? #785
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #785
+Usuário: Qual é o meu saldo disponível? #786
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #786
+Usuário: Tenho limite para empréstimo pessoal? #787
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #787
+Usuário: Meu cheque especial foi alterado? #788
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #788
+Usuário: Quanto tenho de crédito pré-aprovado? #789
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #789
+Usuário: Posso aumentar meu limite de crédito? #790
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #790
+Usuário: Qual é o meu saldo disponível? #791
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #791
+Usuário: Tenho limite para empréstimo pessoal? #792
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #792
+Usuário: Meu cheque especial foi alterado? #793
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #793
+Usuário: Quanto tenho de crédito pré-aprovado? #794
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #794
+Usuário: Posso aumentar meu limite de crédito? #795
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #795
+Usuário: Qual é o meu saldo disponível? #796
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #796
+Usuário: Tenho limite para empréstimo pessoal? #797
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #797
+Usuário: Meu cheque especial foi alterado? #798
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #798
+Usuário: Quanto tenho de crédito pré-aprovado? #799
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #799
+Usuário: Posso aumentar meu limite de crédito? #800
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #800
+Usuário: Qual é o meu saldo disponível? #801
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #801
+Usuário: Tenho limite para empréstimo pessoal? #802
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #802
+Usuário: Meu cheque especial foi alterado? #803
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #803
+Usuário: Quanto tenho de crédito pré-aprovado? #804
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #804
+Usuário: Posso aumentar meu limite de crédito? #805
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #805
+Usuário: Qual é o meu saldo disponível? #806
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #806
+Usuário: Tenho limite para empréstimo pessoal? #807
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #807
+Usuário: Meu cheque especial foi alterado? #808
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #808
+Usuário: Quanto tenho de crédito pré-aprovado? #809
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #809
+Usuário: Posso aumentar meu limite de crédito? #810
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #810
+Usuário: Qual é o meu saldo disponível? #811
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #811
+Usuário: Tenho limite para empréstimo pessoal? #812
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #812
+Usuário: Meu cheque especial foi alterado? #813
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #813
+Usuário: Quanto tenho de crédito pré-aprovado? #814
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #814
+Usuário: Posso aumentar meu limite de crédito? #815
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #815
+Usuário: Qual é o meu saldo disponível? #816
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #816
+Usuário: Tenho limite para empréstimo pessoal? #817
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #817
+Usuário: Meu cheque especial foi alterado? #818
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #818
+Usuário: Quanto tenho de crédito pré-aprovado? #819
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #819
+Usuário: Posso aumentar meu limite de crédito? #820
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #820
+Usuário: Qual é o meu saldo disponível? #821
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #821
+Usuário: Tenho limite para empréstimo pessoal? #822
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #822
+Usuário: Meu cheque especial foi alterado? #823
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #823
+Usuário: Quanto tenho de crédito pré-aprovado? #824
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #824
+Usuário: Posso aumentar meu limite de crédito? #825
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #825
+Usuário: Qual é o meu saldo disponível? #826
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #826
+Usuário: Tenho limite para empréstimo pessoal? #827
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #827
+Usuário: Meu cheque especial foi alterado? #828
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #828
+Usuário: Quanto tenho de crédito pré-aprovado? #829
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #829
+Usuário: Posso aumentar meu limite de crédito? #830
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #830
+Usuário: Qual é o meu saldo disponível? #831
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #831
+Usuário: Tenho limite para empréstimo pessoal? #832
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #832
+Usuário: Meu cheque especial foi alterado? #833
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #833
+Usuário: Quanto tenho de crédito pré-aprovado? #834
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #834
+Usuário: Posso aumentar meu limite de crédito? #835
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #835
+Usuário: Qual é o meu saldo disponível? #836
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #836
+Usuário: Tenho limite para empréstimo pessoal? #837
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #837
+Usuário: Meu cheque especial foi alterado? #838
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #838
+Usuário: Quanto tenho de crédito pré-aprovado? #839
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #839
+Usuário: Posso aumentar meu limite de crédito? #840
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #840
+Usuário: Qual é o meu saldo disponível? #841
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #841
+Usuário: Tenho limite para empréstimo pessoal? #842
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #842
+Usuário: Meu cheque especial foi alterado? #843
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #843
+Usuário: Quanto tenho de crédito pré-aprovado? #844
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #844
+Usuário: Posso aumentar meu limite de crédito? #845
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #845
+Usuário: Qual é o meu saldo disponível? #846
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #846
+Usuário: Tenho limite para empréstimo pessoal? #847
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #847
+Usuário: Meu cheque especial foi alterado? #848
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #848
+Usuário: Quanto tenho de crédito pré-aprovado? #849
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #849
+Usuário: Posso aumentar meu limite de crédito? #850
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #850
+Usuário: Qual é o meu saldo disponível? #851
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #851
+Usuário: Tenho limite para empréstimo pessoal? #852
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #852
+Usuário: Meu cheque especial foi alterado? #853
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #853
+Usuário: Quanto tenho de crédito pré-aprovado? #854
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #854
+Usuário: Posso aumentar meu limite de crédito? #855
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #855
+Usuário: Qual é o meu saldo disponível? #856
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #856
+Usuário: Tenho limite para empréstimo pessoal? #857
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #857
+Usuário: Meu cheque especial foi alterado? #858
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #858
+Usuário: Quanto tenho de crédito pré-aprovado? #859
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #859
+Usuário: Posso aumentar meu limite de crédito? #860
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #860
+Usuário: Qual é o meu saldo disponível? #861
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #861
+Usuário: Tenho limite para empréstimo pessoal? #862
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #862
+Usuário: Meu cheque especial foi alterado? #863
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #863
+Usuário: Quanto tenho de crédito pré-aprovado? #864
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #864
+Usuário: Posso aumentar meu limite de crédito? #865
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #865
+Usuário: Qual é o meu saldo disponível? #866
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #866
+Usuário: Tenho limite para empréstimo pessoal? #867
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #867
+Usuário: Meu cheque especial foi alterado? #868
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #868
+Usuário: Quanto tenho de crédito pré-aprovado? #869
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #869
+Usuário: Posso aumentar meu limite de crédito? #870
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #870
+Usuário: Qual é o meu saldo disponível? #871
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #871
+Usuário: Tenho limite para empréstimo pessoal? #872
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #872
+Usuário: Meu cheque especial foi alterado? #873
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #873
+Usuário: Quanto tenho de crédito pré-aprovado? #874
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #874
+Usuário: Posso aumentar meu limite de crédito? #875
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #875
+Usuário: Qual é o meu saldo disponível? #876
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #876
+Usuário: Tenho limite para empréstimo pessoal? #877
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #877
+Usuário: Meu cheque especial foi alterado? #878
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #878
+Usuário: Quanto tenho de crédito pré-aprovado? #879
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #879
+Usuário: Posso aumentar meu limite de crédito? #880
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #880
+Usuário: Qual é o meu saldo disponível? #881
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #881
+Usuário: Tenho limite para empréstimo pessoal? #882
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #882
+Usuário: Meu cheque especial foi alterado? #883
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #883
+Usuário: Quanto tenho de crédito pré-aprovado? #884
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #884
+Usuário: Posso aumentar meu limite de crédito? #885
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #885
+Usuário: Qual é o meu saldo disponível? #886
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #886
+Usuário: Tenho limite para empréstimo pessoal? #887
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #887
+Usuário: Meu cheque especial foi alterado? #888
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #888
+Usuário: Quanto tenho de crédito pré-aprovado? #889
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #889
+Usuário: Posso aumentar meu limite de crédito? #890
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #890
+Usuário: Qual é o meu saldo disponível? #891
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #891
+Usuário: Tenho limite para empréstimo pessoal? #892
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #892
+Usuário: Meu cheque especial foi alterado? #893
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #893
+Usuário: Quanto tenho de crédito pré-aprovado? #894
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #894
+Usuário: Posso aumentar meu limite de crédito? #895
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #895
+Usuário: Qual é o meu saldo disponível? #896
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #896
+Usuário: Tenho limite para empréstimo pessoal? #897
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #897
+Usuário: Meu cheque especial foi alterado? #898
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #898
+Usuário: Quanto tenho de crédito pré-aprovado? #899
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #899
+Usuário: Posso aumentar meu limite de crédito? #900
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #900
+Usuário: Qual é o meu saldo disponível? #901
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #901
+Usuário: Tenho limite para empréstimo pessoal? #902
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #902
+Usuário: Meu cheque especial foi alterado? #903
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #903
+Usuário: Quanto tenho de crédito pré-aprovado? #904
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #904
+Usuário: Posso aumentar meu limite de crédito? #905
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #905
+Usuário: Qual é o meu saldo disponível? #906
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #906
+Usuário: Tenho limite para empréstimo pessoal? #907
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #907
+Usuário: Meu cheque especial foi alterado? #908
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #908
+Usuário: Quanto tenho de crédito pré-aprovado? #909
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #909
+Usuário: Posso aumentar meu limite de crédito? #910
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #910
+Usuário: Qual é o meu saldo disponível? #911
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #911
+Usuário: Tenho limite para empréstimo pessoal? #912
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #912
+Usuário: Meu cheque especial foi alterado? #913
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #913
+Usuário: Quanto tenho de crédito pré-aprovado? #914
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #914
+Usuário: Posso aumentar meu limite de crédito? #915
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #915
+Usuário: Qual é o meu saldo disponível? #916
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #916
+Usuário: Tenho limite para empréstimo pessoal? #917
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #917
+Usuário: Meu cheque especial foi alterado? #918
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #918
+Usuário: Quanto tenho de crédito pré-aprovado? #919
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #919
+Usuário: Posso aumentar meu limite de crédito? #920
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #920
+Usuário: Qual é o meu saldo disponível? #921
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #921
+Usuário: Tenho limite para empréstimo pessoal? #922
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #922
+Usuário: Meu cheque especial foi alterado? #923
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #923
+Usuário: Quanto tenho de crédito pré-aprovado? #924
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #924
+Usuário: Posso aumentar meu limite de crédito? #925
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #925
+Usuário: Qual é o meu saldo disponível? #926
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #926
+Usuário: Tenho limite para empréstimo pessoal? #927
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #927
+Usuário: Meu cheque especial foi alterado? #928
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #928
+Usuário: Quanto tenho de crédito pré-aprovado? #929
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #929
+Usuário: Posso aumentar meu limite de crédito? #930
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #930
+Usuário: Qual é o meu saldo disponível? #931
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #931
+Usuário: Tenho limite para empréstimo pessoal? #932
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #932
+Usuário: Meu cheque especial foi alterado? #933
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #933
+Usuário: Quanto tenho de crédito pré-aprovado? #934
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #934
+Usuário: Posso aumentar meu limite de crédito? #935
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #935
+Usuário: Qual é o meu saldo disponível? #936
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #936
+Usuário: Tenho limite para empréstimo pessoal? #937
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #937
+Usuário: Meu cheque especial foi alterado? #938
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #938
+Usuário: Quanto tenho de crédito pré-aprovado? #939
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #939
+Usuário: Posso aumentar meu limite de crédito? #940
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #940
+Usuário: Qual é o meu saldo disponível? #941
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #941
+Usuário: Tenho limite para empréstimo pessoal? #942
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #942
+Usuário: Meu cheque especial foi alterado? #943
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #943
+Usuário: Quanto tenho de crédito pré-aprovado? #944
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #944
+Usuário: Posso aumentar meu limite de crédito? #945
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #945
+Usuário: Qual é o meu saldo disponível? #946
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #946
+Usuário: Tenho limite para empréstimo pessoal? #947
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #947
+Usuário: Meu cheque especial foi alterado? #948
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #948
+Usuário: Quanto tenho de crédito pré-aprovado? #949
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #949
+Usuário: Posso aumentar meu limite de crédito? #950
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #950
+Usuário: Qual é o meu saldo disponível? #951
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #951
+Usuário: Tenho limite para empréstimo pessoal? #952
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #952
+Usuário: Meu cheque especial foi alterado? #953
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #953
+Usuário: Quanto tenho de crédito pré-aprovado? #954
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #954
+Usuário: Posso aumentar meu limite de crédito? #955
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #955
+Usuário: Qual é o meu saldo disponível? #956
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #956
+Usuário: Tenho limite para empréstimo pessoal? #957
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #957
+Usuário: Meu cheque especial foi alterado? #958
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #958
+Usuário: Quanto tenho de crédito pré-aprovado? #959
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #959
+Usuário: Posso aumentar meu limite de crédito? #960
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #960
+Usuário: Qual é o meu saldo disponível? #961
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #961
+Usuário: Tenho limite para empréstimo pessoal? #962
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #962
+Usuário: Meu cheque especial foi alterado? #963
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #963
+Usuário: Quanto tenho de crédito pré-aprovado? #964
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #964
+Usuário: Posso aumentar meu limite de crédito? #965
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #965
+Usuário: Qual é o meu saldo disponível? #966
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #966
+Usuário: Tenho limite para empréstimo pessoal? #967
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #967
+Usuário: Meu cheque especial foi alterado? #968
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #968
+Usuário: Quanto tenho de crédito pré-aprovado? #969
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #969
+Usuário: Posso aumentar meu limite de crédito? #970
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #970
+Usuário: Qual é o meu saldo disponível? #971
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #971
+Usuário: Tenho limite para empréstimo pessoal? #972
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #972
+Usuário: Meu cheque especial foi alterado? #973
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #973
+Usuário: Quanto tenho de crédito pré-aprovado? #974
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #974
+Usuário: Posso aumentar meu limite de crédito? #975
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #975
+Usuário: Qual é o meu saldo disponível? #976
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #976
+Usuário: Tenho limite para empréstimo pessoal? #977
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #977
+Usuário: Meu cheque especial foi alterado? #978
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #978
+Usuário: Quanto tenho de crédito pré-aprovado? #979
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #979
+Usuário: Posso aumentar meu limite de crédito? #980
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #980
+Usuário: Qual é o meu saldo disponível? #981
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #981
+Usuário: Tenho limite para empréstimo pessoal? #982
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #982
+Usuário: Meu cheque especial foi alterado? #983
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #983
+Usuário: Quanto tenho de crédito pré-aprovado? #984
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #984
+Usuário: Posso aumentar meu limite de crédito? #985
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #985
+Usuário: Qual é o meu saldo disponível? #986
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #986
+Usuário: Tenho limite para empréstimo pessoal? #987
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #987
+Usuário: Meu cheque especial foi alterado? #988
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #988
+Usuário: Quanto tenho de crédito pré-aprovado? #989
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #989
+Usuário: Posso aumentar meu limite de crédito? #990
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #990
+Usuário: Qual é o meu saldo disponível? #991
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #991
+Usuário: Tenho limite para empréstimo pessoal? #992
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #992
+Usuário: Meu cheque especial foi alterado? #993
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #993
+Usuário: Quanto tenho de crédito pré-aprovado? #994
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #994
+Usuário: Posso aumentar meu limite de crédito? #995
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #995
+Usuário: Qual é o meu saldo disponível? #996
+Assistente: Resposta simulada para: Qual é o meu saldo disponível? #996
+Usuário: Tenho limite para empréstimo pessoal? #997
+Assistente: Resposta simulada para: Tenho limite para empréstimo pessoal? #997
+Usuário: Meu cheque especial foi alterado? #998
+Assistente: Resposta simulada para: Meu cheque especial foi alterado? #998
+Usuário: Quanto tenho de crédito pré-aprovado? #999
+Assistente: Resposta simulada para: Quanto tenho de crédito pré-aprovado? #999
+Usuário: Posso aumentar meu limite de crédito? #1000
+Assistente: Resposta simulada para: Posso aumentar meu limite de crédito? #1000

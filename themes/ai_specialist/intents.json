@@ -2,41 +2,41 @@
   {
     "name": "definir_conceito",
     "examples": [
-      "What is an LLM?",
-      "Explain to me what deep learning is.",
-      "What does NLP stand for?",
-      "Define what a convolutional neural network is.",
-      "What is the idea behind machine learning?"
+      "O que é um LLM?",
+      "Explique para mim o que é aprendizado profundo.",
+      "O que significa PLN?",
+      "Defina o que é uma rede neural convolucional.",
+      "Qual é a ideia por trás do aprendizado de máquina?"
     ]
   },
   {
     "name": "comparar_tecnicas",
     "examples": [
-      "What's the difference between machine learning and deep learning?",
-      "CNN vs RNN, when to use each one?",
-      "What is the main distinction between generative AI and traditional AI?",
-      "Compare the Word2Vec and GloVe embedding models.",
-      "What differentiates classical modeling from deep learning models?"
+      "Qual é a diferença entre aprendizado de máquina e aprendizado profundo?",
+      "CNN vs RNN, quando usar cada um?",
+      "Qual é a principal distinção entre IA generativa e IA tradicional?",
+      "Compare os modelos de embedding Word2Vec e GloVe.",
+      "O que diferencia a modelagem clássica dos modelos de aprendizado profundo?"
     ]
   },
   {
     "name": "explicar_aplicacao",
     "examples": [
-      "How is NLP used in chatbots?",
-      "Give me an example of CNN application in computer vision.",
-      "Where are LLMs most commonly used nowadays?",
-      "What is sentiment analysis used for?",
-      "How can AI be used to predict the stock market?"
+      "Como o PLN é usado em chatbots?",
+      "Dê-me um exemplo de aplicação de CNN em visão computacional.",
+      "Onde os LLMs são mais comumente usados atualmente?",
+      "Para que serve a análise de sentimentos?",
+      "Como a IA pode ser usada para prever o mercado de ações?"
     ]
   },
   {
     "name": "detalhar_arquitetura",
     "examples": [
-      "How does the Transformer architecture work?",
-      "What are the layers of a convolutional neural network?",
-      "Explain the attention mechanism in language models.",
-      "What is the structure of an autoencoder?",
-      "What are the components of a GAN network?"
+      "Como funciona a arquitetura Transformer?",
+      "Quais são as camadas de uma rede neural convolucional?",
+      "Explique o mecanismo de atenção em modelos de linguagem.",
+      "Qual é a estrutura de um autoencoder?",
+      "Quais são os componentes de uma rede GAN?"
     ]
   }
 ]

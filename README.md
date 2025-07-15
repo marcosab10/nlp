@@ -114,6 +114,8 @@ OPENAI_API_KEY="sk-..."
 Antes de rodar a aplicação, gere os índices de busca para cada tema de agente. Este script irá processar os arquivos em `themes/*/knowledge/` e criar um índice FAISS (`faiss_index`) e um arquivo de passagens (`passages.pkl`) em cada diretório de tema.
 
 ```bash
+source activate_env.sh
+
 python build_all_themes.py
 ```
 
@@ -124,7 +126,7 @@ Execute o servidor a partir da raiz do projeto. O Uvicorn irá servir tanto a AP
 ```bash
 cd backend
 
-uvicorn main:app --reload
+python -m uvicorn main:app --reload
 ```
 
 **6. Acesse a Aplicação:**

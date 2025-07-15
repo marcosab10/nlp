@@ -1,0 +1,2000 @@
+Usuário: Quais faturas estão em aberto? #1
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #1
+Usuário: Meu boleto foi pago? #2
+Assistente: Resposta simulada para: Meu boleto foi pago? #2
+Usuário: Há algum DDA registrado para mim? #3
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #3
+Usuário: Posso agendar pagamento de fatura? #4
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #4
+Usuário: Como vejo a fatura do meu cartão? #5
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #5
+Usuário: Quais faturas estão em aberto? #6
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #6
+Usuário: Meu boleto foi pago? #7
+Assistente: Resposta simulada para: Meu boleto foi pago? #7
+Usuário: Há algum DDA registrado para mim? #8
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #8
+Usuário: Posso agendar pagamento de fatura? #9
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #9
+Usuário: Como vejo a fatura do meu cartão? #10
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #10
+Usuário: Quais faturas estão em aberto? #11
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #11
+Usuário: Meu boleto foi pago? #12
+Assistente: Resposta simulada para: Meu boleto foi pago? #12
+Usuário: Há algum DDA registrado para mim? #13
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #13
+Usuário: Posso agendar pagamento de fatura? #14
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #14
+Usuário: Como vejo a fatura do meu cartão? #15
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #15
+Usuário: Quais faturas estão em aberto? #16
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #16
+Usuário: Meu boleto foi pago? #17
+Assistente: Resposta simulada para: Meu boleto foi pago? #17
+Usuário: Há algum DDA registrado para mim? #18
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #18
+Usuário: Posso agendar pagamento de fatura? #19
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #19
+Usuário: Como vejo a fatura do meu cartão? #20
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #20
+Usuário: Quais faturas estão em aberto? #21
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #21
+Usuário: Meu boleto foi pago? #22
+Assistente: Resposta simulada para: Meu boleto foi pago? #22
+Usuário: Há algum DDA registrado para mim? #23
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #23
+Usuário: Posso agendar pagamento de fatura? #24
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #24
+Usuário: Como vejo a fatura do meu cartão? #25
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #25
+Usuário: Quais faturas estão em aberto? #26
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #26
+Usuário: Meu boleto foi pago? #27
+Assistente: Resposta simulada para: Meu boleto foi pago? #27
+Usuário: Há algum DDA registrado para mim? #28
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #28
+Usuário: Posso agendar pagamento de fatura? #29
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #29
+Usuário: Como vejo a fatura do meu cartão? #30
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #30
+Usuário: Quais faturas estão em aberto? #31
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #31
+Usuário: Meu boleto foi pago? #32
+Assistente: Resposta simulada para: Meu boleto foi pago? #32
+Usuário: Há algum DDA registrado para mim? #33
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #33
+Usuário: Posso agendar pagamento de fatura? #34
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #34
+Usuário: Como vejo a fatura do meu cartão? #35
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #35
+Usuário: Quais faturas estão em aberto? #36
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #36
+Usuário: Meu boleto foi pago? #37
+Assistente: Resposta simulada para: Meu boleto foi pago? #37
+Usuário: Há algum DDA registrado para mim? #38
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #38
+Usuário: Posso agendar pagamento de fatura? #39
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #39
+Usuário: Como vejo a fatura do meu cartão? #40
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #40
+Usuário: Quais faturas estão em aberto? #41
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #41
+Usuário: Meu boleto foi pago? #42
+Assistente: Resposta simulada para: Meu boleto foi pago? #42
+Usuário: Há algum DDA registrado para mim? #43
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #43
+Usuário: Posso agendar pagamento de fatura? #44
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #44
+Usuário: Como vejo a fatura do meu cartão? #45
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #45
+Usuário: Quais faturas estão em aberto? #46
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #46
+Usuário: Meu boleto foi pago? #47
+Assistente: Resposta simulada para: Meu boleto foi pago? #47
+Usuário: Há algum DDA registrado para mim? #48
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #48
+Usuário: Posso agendar pagamento de fatura? #49
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #49
+Usuário: Como vejo a fatura do meu cartão? #50
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #50
+Usuário: Quais faturas estão em aberto? #51
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #51
+Usuário: Meu boleto foi pago? #52
+Assistente: Resposta simulada para: Meu boleto foi pago? #52
+Usuário: Há algum DDA registrado para mim? #53
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #53
+Usuário: Posso agendar pagamento de fatura? #54
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #54
+Usuário: Como vejo a fatura do meu cartão? #55
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #55
+Usuário: Quais faturas estão em aberto? #56
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #56
+Usuário: Meu boleto foi pago? #57
+Assistente: Resposta simulada para: Meu boleto foi pago? #57
+Usuário: Há algum DDA registrado para mim? #58
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #58
+Usuário: Posso agendar pagamento de fatura? #59
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #59
+Usuário: Como vejo a fatura do meu cartão? #60
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #60
+Usuário: Quais faturas estão em aberto? #61
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #61
+Usuário: Meu boleto foi pago? #62
+Assistente: Resposta simulada para: Meu boleto foi pago? #62
+Usuário: Há algum DDA registrado para mim? #63
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #63
+Usuário: Posso agendar pagamento de fatura? #64
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #64
+Usuário: Como vejo a fatura do meu cartão? #65
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #65
+Usuário: Quais faturas estão em aberto? #66
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #66
+Usuário: Meu boleto foi pago? #67
+Assistente: Resposta simulada para: Meu boleto foi pago? #67
+Usuário: Há algum DDA registrado para mim? #68
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #68
+Usuário: Posso agendar pagamento de fatura? #69
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #69
+Usuário: Como vejo a fatura do meu cartão? #70
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #70
+Usuário: Quais faturas estão em aberto? #71
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #71
+Usuário: Meu boleto foi pago? #72
+Assistente: Resposta simulada para: Meu boleto foi pago? #72
+Usuário: Há algum DDA registrado para mim? #73
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #73
+Usuário: Posso agendar pagamento de fatura? #74
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #74
+Usuário: Como vejo a fatura do meu cartão? #75
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #75
+Usuário: Quais faturas estão em aberto? #76
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #76
+Usuário: Meu boleto foi pago? #77
+Assistente: Resposta simulada para: Meu boleto foi pago? #77
+Usuário: Há algum DDA registrado para mim? #78
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #78
+Usuário: Posso agendar pagamento de fatura? #79
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #79
+Usuário: Como vejo a fatura do meu cartão? #80
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #80
+Usuário: Quais faturas estão em aberto? #81
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #81
+Usuário: Meu boleto foi pago? #82
+Assistente: Resposta simulada para: Meu boleto foi pago? #82
+Usuário: Há algum DDA registrado para mim? #83
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #83
+Usuário: Posso agendar pagamento de fatura? #84
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #84
+Usuário: Como vejo a fatura do meu cartão? #85
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #85
+Usuário: Quais faturas estão em aberto? #86
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #86
+Usuário: Meu boleto foi pago? #87
+Assistente: Resposta simulada para: Meu boleto foi pago? #87
+Usuário: Há algum DDA registrado para mim? #88
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #88
+Usuário: Posso agendar pagamento de fatura? #89
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #89
+Usuário: Como vejo a fatura do meu cartão? #90
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #90
+Usuário: Quais faturas estão em aberto? #91
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #91
+Usuário: Meu boleto foi pago? #92
+Assistente: Resposta simulada para: Meu boleto foi pago? #92
+Usuário: Há algum DDA registrado para mim? #93
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #93
+Usuário: Posso agendar pagamento de fatura? #94
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #94
+Usuário: Como vejo a fatura do meu cartão? #95
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #95
+Usuário: Quais faturas estão em aberto? #96
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #96
+Usuário: Meu boleto foi pago? #97
+Assistente: Resposta simulada para: Meu boleto foi pago? #97
+Usuário: Há algum DDA registrado para mim? #98
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #98
+Usuário: Posso agendar pagamento de fatura? #99
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #99
+Usuário: Como vejo a fatura do meu cartão? #100
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #100
+Usuário: Quais faturas estão em aberto? #101
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #101
+Usuário: Meu boleto foi pago? #102
+Assistente: Resposta simulada para: Meu boleto foi pago? #102
+Usuário: Há algum DDA registrado para mim? #103
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #103
+Usuário: Posso agendar pagamento de fatura? #104
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #104
+Usuário: Como vejo a fatura do meu cartão? #105
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #105
+Usuário: Quais faturas estão em aberto? #106
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #106
+Usuário: Meu boleto foi pago? #107
+Assistente: Resposta simulada para: Meu boleto foi pago? #107
+Usuário: Há algum DDA registrado para mim? #108
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #108
+Usuário: Posso agendar pagamento de fatura? #109
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #109
+Usuário: Como vejo a fatura do meu cartão? #110
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #110
+Usuário: Quais faturas estão em aberto? #111
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #111
+Usuário: Meu boleto foi pago? #112
+Assistente: Resposta simulada para: Meu boleto foi pago? #112
+Usuário: Há algum DDA registrado para mim? #113
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #113
+Usuário: Posso agendar pagamento de fatura? #114
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #114
+Usuário: Como vejo a fatura do meu cartão? #115
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #115
+Usuário: Quais faturas estão em aberto? #116
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #116
+Usuário: Meu boleto foi pago? #117
+Assistente: Resposta simulada para: Meu boleto foi pago? #117
+Usuário: Há algum DDA registrado para mim? #118
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #118
+Usuário: Posso agendar pagamento de fatura? #119
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #119
+Usuário: Como vejo a fatura do meu cartão? #120
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #120
+Usuário: Quais faturas estão em aberto? #121
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #121
+Usuário: Meu boleto foi pago? #122
+Assistente: Resposta simulada para: Meu boleto foi pago? #122
+Usuário: Há algum DDA registrado para mim? #123
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #123
+Usuário: Posso agendar pagamento de fatura? #124
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #124
+Usuário: Como vejo a fatura do meu cartão? #125
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #125
+Usuário: Quais faturas estão em aberto? #126
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #126
+Usuário: Meu boleto foi pago? #127
+Assistente: Resposta simulada para: Meu boleto foi pago? #127
+Usuário: Há algum DDA registrado para mim? #128
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #128
+Usuário: Posso agendar pagamento de fatura? #129
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #129
+Usuário: Como vejo a fatura do meu cartão? #130
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #130
+Usuário: Quais faturas estão em aberto? #131
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #131
+Usuário: Meu boleto foi pago? #132
+Assistente: Resposta simulada para: Meu boleto foi pago? #132
+Usuário: Há algum DDA registrado para mim? #133
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #133
+Usuário: Posso agendar pagamento de fatura? #134
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #134
+Usuário: Como vejo a fatura do meu cartão? #135
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #135
+Usuário: Quais faturas estão em aberto? #136
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #136
+Usuário: Meu boleto foi pago? #137
+Assistente: Resposta simulada para: Meu boleto foi pago? #137
+Usuário: Há algum DDA registrado para mim? #138
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #138
+Usuário: Posso agendar pagamento de fatura? #139
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #139
+Usuário: Como vejo a fatura do meu cartão? #140
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #140
+Usuário: Quais faturas estão em aberto? #141
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #141
+Usuário: Meu boleto foi pago? #142
+Assistente: Resposta simulada para: Meu boleto foi pago? #142
+Usuário: Há algum DDA registrado para mim? #143
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #143
+Usuário: Posso agendar pagamento de fatura? #144
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #144
+Usuário: Como vejo a fatura do meu cartão? #145
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #145
+Usuário: Quais faturas estão em aberto? #146
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #146
+Usuário: Meu boleto foi pago? #147
+Assistente: Resposta simulada para: Meu boleto foi pago? #147
+Usuário: Há algum DDA registrado para mim? #148
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #148
+Usuário: Posso agendar pagamento de fatura? #149
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #149
+Usuário: Como vejo a fatura do meu cartão? #150
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #150
+Usuário: Quais faturas estão em aberto? #151
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #151
+Usuário: Meu boleto foi pago? #152
+Assistente: Resposta simulada para: Meu boleto foi pago? #152
+Usuário: Há algum DDA registrado para mim? #153
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #153
+Usuário: Posso agendar pagamento de fatura? #154
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #154
+Usuário: Como vejo a fatura do meu cartão? #155
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #155
+Usuário: Quais faturas estão em aberto? #156
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #156
+Usuário: Meu boleto foi pago? #157
+Assistente: Resposta simulada para: Meu boleto foi pago? #157
+Usuário: Há algum DDA registrado para mim? #158
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #158
+Usuário: Posso agendar pagamento de fatura? #159
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #159
+Usuário: Como vejo a fatura do meu cartão? #160
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #160
+Usuário: Quais faturas estão em aberto? #161
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #161
+Usuário: Meu boleto foi pago? #162
+Assistente: Resposta simulada para: Meu boleto foi pago? #162
+Usuário: Há algum DDA registrado para mim? #163
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #163
+Usuário: Posso agendar pagamento de fatura? #164
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #164
+Usuário: Como vejo a fatura do meu cartão? #165
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #165
+Usuário: Quais faturas estão em aberto? #166
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #166
+Usuário: Meu boleto foi pago? #167
+Assistente: Resposta simulada para: Meu boleto foi pago? #167
+Usuário: Há algum DDA registrado para mim? #168
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #168
+Usuário: Posso agendar pagamento de fatura? #169
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #169
+Usuário: Como vejo a fatura do meu cartão? #170
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #170
+Usuário: Quais faturas estão em aberto? #171
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #171
+Usuário: Meu boleto foi pago? #172
+Assistente: Resposta simulada para: Meu boleto foi pago? #172
+Usuário: Há algum DDA registrado para mim? #173
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #173
+Usuário: Posso agendar pagamento de fatura? #174
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #174
+Usuário: Como vejo a fatura do meu cartão? #175
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #175
+Usuário: Quais faturas estão em aberto? #176
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #176
+Usuário: Meu boleto foi pago? #177
+Assistente: Resposta simulada para: Meu boleto foi pago? #177
+Usuário: Há algum DDA registrado para mim? #178
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #178
+Usuário: Posso agendar pagamento de fatura? #179
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #179
+Usuário: Como vejo a fatura do meu cartão? #180
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #180
+Usuário: Quais faturas estão em aberto? #181
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #181
+Usuário: Meu boleto foi pago? #182
+Assistente: Resposta simulada para: Meu boleto foi pago? #182
+Usuário: Há algum DDA registrado para mim? #183
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #183
+Usuário: Posso agendar pagamento de fatura? #184
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #184
+Usuário: Como vejo a fatura do meu cartão? #185
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #185
+Usuário: Quais faturas estão em aberto? #186
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #186
+Usuário: Meu boleto foi pago? #187
+Assistente: Resposta simulada para: Meu boleto foi pago? #187
+Usuário: Há algum DDA registrado para mim? #188
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #188
+Usuário: Posso agendar pagamento de fatura? #189
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #189
+Usuário: Como vejo a fatura do meu cartão? #190
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #190
+Usuário: Quais faturas estão em aberto? #191
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #191
+Usuário: Meu boleto foi pago? #192
+Assistente: Resposta simulada para: Meu boleto foi pago? #192
+Usuário: Há algum DDA registrado para mim? #193
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #193
+Usuário: Posso agendar pagamento de fatura? #194
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #194
+Usuário: Como vejo a fatura do meu cartão? #195
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #195
+Usuário: Quais faturas estão em aberto? #196
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #196
+Usuário: Meu boleto foi pago? #197
+Assistente: Resposta simulada para: Meu boleto foi pago? #197
+Usuário: Há algum DDA registrado para mim? #198
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #198
+Usuário: Posso agendar pagamento de fatura? #199
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #199
+Usuário: Como vejo a fatura do meu cartão? #200
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #200
+Usuário: Quais faturas estão em aberto? #201
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #201
+Usuário: Meu boleto foi pago? #202
+Assistente: Resposta simulada para: Meu boleto foi pago? #202
+Usuário: Há algum DDA registrado para mim? #203
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #203
+Usuário: Posso agendar pagamento de fatura? #204
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #204
+Usuário: Como vejo a fatura do meu cartão? #205
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #205
+Usuário: Quais faturas estão em aberto? #206
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #206
+Usuário: Meu boleto foi pago? #207
+Assistente: Resposta simulada para: Meu boleto foi pago? #207
+Usuário: Há algum DDA registrado para mim? #208
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #208
+Usuário: Posso agendar pagamento de fatura? #209
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #209
+Usuário: Como vejo a fatura do meu cartão? #210
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #210
+Usuário: Quais faturas estão em aberto? #211
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #211
+Usuário: Meu boleto foi pago? #212
+Assistente: Resposta simulada para: Meu boleto foi pago? #212
+Usuário: Há algum DDA registrado para mim? #213
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #213
+Usuário: Posso agendar pagamento de fatura? #214
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #214
+Usuário: Como vejo a fatura do meu cartão? #215
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #215
+Usuário: Quais faturas estão em aberto? #216
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #216
+Usuário: Meu boleto foi pago? #217
+Assistente: Resposta simulada para: Meu boleto foi pago? #217
+Usuário: Há algum DDA registrado para mim? #218
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #218
+Usuário: Posso agendar pagamento de fatura? #219
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #219
+Usuário: Como vejo a fatura do meu cartão? #220
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #220
+Usuário: Quais faturas estão em aberto? #221
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #221
+Usuário: Meu boleto foi pago? #222
+Assistente: Resposta simulada para: Meu boleto foi pago? #222
+Usuário: Há algum DDA registrado para mim? #223
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #223
+Usuário: Posso agendar pagamento de fatura? #224
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #224
+Usuário: Como vejo a fatura do meu cartão? #225
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #225
+Usuário: Quais faturas estão em aberto? #226
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #226
+Usuário: Meu boleto foi pago? #227
+Assistente: Resposta simulada para: Meu boleto foi pago? #227
+Usuário: Há algum DDA registrado para mim? #228
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #228
+Usuário: Posso agendar pagamento de fatura? #229
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #229
+Usuário: Como vejo a fatura do meu cartão? #230
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #230
+Usuário: Quais faturas estão em aberto? #231
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #231
+Usuário: Meu boleto foi pago? #232
+Assistente: Resposta simulada para: Meu boleto foi pago? #232
+Usuário: Há algum DDA registrado para mim? #233
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #233
+Usuário: Posso agendar pagamento de fatura? #234
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #234
+Usuário: Como vejo a fatura do meu cartão? #235
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #235
+Usuário: Quais faturas estão em aberto? #236
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #236
+Usuário: Meu boleto foi pago? #237
+Assistente: Resposta simulada para: Meu boleto foi pago? #237
+Usuário: Há algum DDA registrado para mim? #238
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #238
+Usuário: Posso agendar pagamento de fatura? #239
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #239
+Usuário: Como vejo a fatura do meu cartão? #240
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #240
+Usuário: Quais faturas estão em aberto? #241
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #241
+Usuário: Meu boleto foi pago? #242
+Assistente: Resposta simulada para: Meu boleto foi pago? #242
+Usuário: Há algum DDA registrado para mim? #243
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #243
+Usuário: Posso agendar pagamento de fatura? #244
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #244
+Usuário: Como vejo a fatura do meu cartão? #245
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #245
+Usuário: Quais faturas estão em aberto? #246
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #246
+Usuário: Meu boleto foi pago? #247
+Assistente: Resposta simulada para: Meu boleto foi pago? #247
+Usuário: Há algum DDA registrado para mim? #248
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #248
+Usuário: Posso agendar pagamento de fatura? #249
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #249
+Usuário: Como vejo a fatura do meu cartão? #250
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #250
+Usuário: Quais faturas estão em aberto? #251
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #251
+Usuário: Meu boleto foi pago? #252
+Assistente: Resposta simulada para: Meu boleto foi pago? #252
+Usuário: Há algum DDA registrado para mim? #253
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #253
+Usuário: Posso agendar pagamento de fatura? #254
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #254
+Usuário: Como vejo a fatura do meu cartão? #255
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #255
+Usuário: Quais faturas estão em aberto? #256
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #256
+Usuário: Meu boleto foi pago? #257
+Assistente: Resposta simulada para: Meu boleto foi pago? #257
+Usuário: Há algum DDA registrado para mim? #258
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #258
+Usuário: Posso agendar pagamento de fatura? #259
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #259
+Usuário: Como vejo a fatura do meu cartão? #260
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #260
+Usuário: Quais faturas estão em aberto? #261
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #261
+Usuário: Meu boleto foi pago? #262
+Assistente: Resposta simulada para: Meu boleto foi pago? #262
+Usuário: Há algum DDA registrado para mim? #263
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #263
+Usuário: Posso agendar pagamento de fatura? #264
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #264
+Usuário: Como vejo a fatura do meu cartão? #265
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #265
+Usuário: Quais faturas estão em aberto? #266
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #266
+Usuário: Meu boleto foi pago? #267
+Assistente: Resposta simulada para: Meu boleto foi pago? #267
+Usuário: Há algum DDA registrado para mim? #268
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #268
+Usuário: Posso agendar pagamento de fatura? #269
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #269
+Usuário: Como vejo a fatura do meu cartão? #270
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #270
+Usuário: Quais faturas estão em aberto? #271
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #271
+Usuário: Meu boleto foi pago? #272
+Assistente: Resposta simulada para: Meu boleto foi pago? #272
+Usuário: Há algum DDA registrado para mim? #273
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #273
+Usuário: Posso agendar pagamento de fatura? #274
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #274
+Usuário: Como vejo a fatura do meu cartão? #275
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #275
+Usuário: Quais faturas estão em aberto? #276
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #276
+Usuário: Meu boleto foi pago? #277
+Assistente: Resposta simulada para: Meu boleto foi pago? #277
+Usuário: Há algum DDA registrado para mim? #278
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #278
+Usuário: Posso agendar pagamento de fatura? #279
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #279
+Usuário: Como vejo a fatura do meu cartão? #280
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #280
+Usuário: Quais faturas estão em aberto? #281
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #281
+Usuário: Meu boleto foi pago? #282
+Assistente: Resposta simulada para: Meu boleto foi pago? #282
+Usuário: Há algum DDA registrado para mim? #283
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #283
+Usuário: Posso agendar pagamento de fatura? #284
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #284
+Usuário: Como vejo a fatura do meu cartão? #285
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #285
+Usuário: Quais faturas estão em aberto? #286
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #286
+Usuário: Meu boleto foi pago? #287
+Assistente: Resposta simulada para: Meu boleto foi pago? #287
+Usuário: Há algum DDA registrado para mim? #288
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #288
+Usuário: Posso agendar pagamento de fatura? #289
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #289
+Usuário: Como vejo a fatura do meu cartão? #290
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #290
+Usuário: Quais faturas estão em aberto? #291
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #291
+Usuário: Meu boleto foi pago? #292
+Assistente: Resposta simulada para: Meu boleto foi pago? #292
+Usuário: Há algum DDA registrado para mim? #293
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #293
+Usuário: Posso agendar pagamento de fatura? #294
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #294
+Usuário: Como vejo a fatura do meu cartão? #295
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #295
+Usuário: Quais faturas estão em aberto? #296
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #296
+Usuário: Meu boleto foi pago? #297
+Assistente: Resposta simulada para: Meu boleto foi pago? #297
+Usuário: Há algum DDA registrado para mim? #298
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #298
+Usuário: Posso agendar pagamento de fatura? #299
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #299
+Usuário: Como vejo a fatura do meu cartão? #300
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #300
+Usuário: Quais faturas estão em aberto? #301
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #301
+Usuário: Meu boleto foi pago? #302
+Assistente: Resposta simulada para: Meu boleto foi pago? #302
+Usuário: Há algum DDA registrado para mim? #303
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #303
+Usuário: Posso agendar pagamento de fatura? #304
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #304
+Usuário: Como vejo a fatura do meu cartão? #305
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #305
+Usuário: Quais faturas estão em aberto? #306
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #306
+Usuário: Meu boleto foi pago? #307
+Assistente: Resposta simulada para: Meu boleto foi pago? #307
+Usuário: Há algum DDA registrado para mim? #308
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #308
+Usuário: Posso agendar pagamento de fatura? #309
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #309
+Usuário: Como vejo a fatura do meu cartão? #310
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #310
+Usuário: Quais faturas estão em aberto? #311
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #311
+Usuário: Meu boleto foi pago? #312
+Assistente: Resposta simulada para: Meu boleto foi pago? #312
+Usuário: Há algum DDA registrado para mim? #313
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #313
+Usuário: Posso agendar pagamento de fatura? #314
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #314
+Usuário: Como vejo a fatura do meu cartão? #315
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #315
+Usuário: Quais faturas estão em aberto? #316
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #316
+Usuário: Meu boleto foi pago? #317
+Assistente: Resposta simulada para: Meu boleto foi pago? #317
+Usuário: Há algum DDA registrado para mim? #318
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #318
+Usuário: Posso agendar pagamento de fatura? #319
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #319
+Usuário: Como vejo a fatura do meu cartão? #320
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #320
+Usuário: Quais faturas estão em aberto? #321
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #321
+Usuário: Meu boleto foi pago? #322
+Assistente: Resposta simulada para: Meu boleto foi pago? #322
+Usuário: Há algum DDA registrado para mim? #323
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #323
+Usuário: Posso agendar pagamento de fatura? #324
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #324
+Usuário: Como vejo a fatura do meu cartão? #325
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #325
+Usuário: Quais faturas estão em aberto? #326
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #326
+Usuário: Meu boleto foi pago? #327
+Assistente: Resposta simulada para: Meu boleto foi pago? #327
+Usuário: Há algum DDA registrado para mim? #328
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #328
+Usuário: Posso agendar pagamento de fatura? #329
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #329
+Usuário: Como vejo a fatura do meu cartão? #330
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #330
+Usuário: Quais faturas estão em aberto? #331
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #331
+Usuário: Meu boleto foi pago? #332
+Assistente: Resposta simulada para: Meu boleto foi pago? #332
+Usuário: Há algum DDA registrado para mim? #333
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #333
+Usuário: Posso agendar pagamento de fatura? #334
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #334
+Usuário: Como vejo a fatura do meu cartão? #335
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #335
+Usuário: Quais faturas estão em aberto? #336
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #336
+Usuário: Meu boleto foi pago? #337
+Assistente: Resposta simulada para: Meu boleto foi pago? #337
+Usuário: Há algum DDA registrado para mim? #338
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #338
+Usuário: Posso agendar pagamento de fatura? #339
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #339
+Usuário: Como vejo a fatura do meu cartão? #340
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #340
+Usuário: Quais faturas estão em aberto? #341
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #341
+Usuário: Meu boleto foi pago? #342
+Assistente: Resposta simulada para: Meu boleto foi pago? #342
+Usuário: Há algum DDA registrado para mim? #343
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #343
+Usuário: Posso agendar pagamento de fatura? #344
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #344
+Usuário: Como vejo a fatura do meu cartão? #345
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #345
+Usuário: Quais faturas estão em aberto? #346
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #346
+Usuário: Meu boleto foi pago? #347
+Assistente: Resposta simulada para: Meu boleto foi pago? #347
+Usuário: Há algum DDA registrado para mim? #348
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #348
+Usuário: Posso agendar pagamento de fatura? #349
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #349
+Usuário: Como vejo a fatura do meu cartão? #350
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #350
+Usuário: Quais faturas estão em aberto? #351
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #351
+Usuário: Meu boleto foi pago? #352
+Assistente: Resposta simulada para: Meu boleto foi pago? #352
+Usuário: Há algum DDA registrado para mim? #353
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #353
+Usuário: Posso agendar pagamento de fatura? #354
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #354
+Usuário: Como vejo a fatura do meu cartão? #355
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #355
+Usuário: Quais faturas estão em aberto? #356
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #356
+Usuário: Meu boleto foi pago? #357
+Assistente: Resposta simulada para: Meu boleto foi pago? #357
+Usuário: Há algum DDA registrado para mim? #358
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #358
+Usuário: Posso agendar pagamento de fatura? #359
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #359
+Usuário: Como vejo a fatura do meu cartão? #360
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #360
+Usuário: Quais faturas estão em aberto? #361
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #361
+Usuário: Meu boleto foi pago? #362
+Assistente: Resposta simulada para: Meu boleto foi pago? #362
+Usuário: Há algum DDA registrado para mim? #363
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #363
+Usuário: Posso agendar pagamento de fatura? #364
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #364
+Usuário: Como vejo a fatura do meu cartão? #365
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #365
+Usuário: Quais faturas estão em aberto? #366
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #366
+Usuário: Meu boleto foi pago? #367
+Assistente: Resposta simulada para: Meu boleto foi pago? #367
+Usuário: Há algum DDA registrado para mim? #368
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #368
+Usuário: Posso agendar pagamento de fatura? #369
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #369
+Usuário: Como vejo a fatura do meu cartão? #370
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #370
+Usuário: Quais faturas estão em aberto? #371
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #371
+Usuário: Meu boleto foi pago? #372
+Assistente: Resposta simulada para: Meu boleto foi pago? #372
+Usuário: Há algum DDA registrado para mim? #373
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #373
+Usuário: Posso agendar pagamento de fatura? #374
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #374
+Usuário: Como vejo a fatura do meu cartão? #375
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #375
+Usuário: Quais faturas estão em aberto? #376
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #376
+Usuário: Meu boleto foi pago? #377
+Assistente: Resposta simulada para: Meu boleto foi pago? #377
+Usuário: Há algum DDA registrado para mim? #378
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #378
+Usuário: Posso agendar pagamento de fatura? #379
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #379
+Usuário: Como vejo a fatura do meu cartão? #380
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #380
+Usuário: Quais faturas estão em aberto? #381
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #381
+Usuário: Meu boleto foi pago? #382
+Assistente: Resposta simulada para: Meu boleto foi pago? #382
+Usuário: Há algum DDA registrado para mim? #383
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #383
+Usuário: Posso agendar pagamento de fatura? #384
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #384
+Usuário: Como vejo a fatura do meu cartão? #385
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #385
+Usuário: Quais faturas estão em aberto? #386
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #386
+Usuário: Meu boleto foi pago? #387
+Assistente: Resposta simulada para: Meu boleto foi pago? #387
+Usuário: Há algum DDA registrado para mim? #388
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #388
+Usuário: Posso agendar pagamento de fatura? #389
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #389
+Usuário: Como vejo a fatura do meu cartão? #390
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #390
+Usuário: Quais faturas estão em aberto? #391
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #391
+Usuário: Meu boleto foi pago? #392
+Assistente: Resposta simulada para: Meu boleto foi pago? #392
+Usuário: Há algum DDA registrado para mim? #393
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #393
+Usuário: Posso agendar pagamento de fatura? #394
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #394
+Usuário: Como vejo a fatura do meu cartão? #395
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #395
+Usuário: Quais faturas estão em aberto? #396
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #396
+Usuário: Meu boleto foi pago? #397
+Assistente: Resposta simulada para: Meu boleto foi pago? #397
+Usuário: Há algum DDA registrado para mim? #398
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #398
+Usuário: Posso agendar pagamento de fatura? #399
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #399
+Usuário: Como vejo a fatura do meu cartão? #400
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #400
+Usuário: Quais faturas estão em aberto? #401
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #401
+Usuário: Meu boleto foi pago? #402
+Assistente: Resposta simulada para: Meu boleto foi pago? #402
+Usuário: Há algum DDA registrado para mim? #403
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #403
+Usuário: Posso agendar pagamento de fatura? #404
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #404
+Usuário: Como vejo a fatura do meu cartão? #405
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #405
+Usuário: Quais faturas estão em aberto? #406
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #406
+Usuário: Meu boleto foi pago? #407
+Assistente: Resposta simulada para: Meu boleto foi pago? #407
+Usuário: Há algum DDA registrado para mim? #408
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #408
+Usuário: Posso agendar pagamento de fatura? #409
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #409
+Usuário: Como vejo a fatura do meu cartão? #410
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #410
+Usuário: Quais faturas estão em aberto? #411
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #411
+Usuário: Meu boleto foi pago? #412
+Assistente: Resposta simulada para: Meu boleto foi pago? #412
+Usuário: Há algum DDA registrado para mim? #413
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #413
+Usuário: Posso agendar pagamento de fatura? #414
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #414
+Usuário: Como vejo a fatura do meu cartão? #415
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #415
+Usuário: Quais faturas estão em aberto? #416
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #416
+Usuário: Meu boleto foi pago? #417
+Assistente: Resposta simulada para: Meu boleto foi pago? #417
+Usuário: Há algum DDA registrado para mim? #418
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #418
+Usuário: Posso agendar pagamento de fatura? #419
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #419
+Usuário: Como vejo a fatura do meu cartão? #420
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #420
+Usuário: Quais faturas estão em aberto? #421
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #421
+Usuário: Meu boleto foi pago? #422
+Assistente: Resposta simulada para: Meu boleto foi pago? #422
+Usuário: Há algum DDA registrado para mim? #423
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #423
+Usuário: Posso agendar pagamento de fatura? #424
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #424
+Usuário: Como vejo a fatura do meu cartão? #425
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #425
+Usuário: Quais faturas estão em aberto? #426
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #426
+Usuário: Meu boleto foi pago? #427
+Assistente: Resposta simulada para: Meu boleto foi pago? #427
+Usuário: Há algum DDA registrado para mim? #428
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #428
+Usuário: Posso agendar pagamento de fatura? #429
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #429
+Usuário: Como vejo a fatura do meu cartão? #430
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #430
+Usuário: Quais faturas estão em aberto? #431
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #431
+Usuário: Meu boleto foi pago? #432
+Assistente: Resposta simulada para: Meu boleto foi pago? #432
+Usuário: Há algum DDA registrado para mim? #433
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #433
+Usuário: Posso agendar pagamento de fatura? #434
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #434
+Usuário: Como vejo a fatura do meu cartão? #435
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #435
+Usuário: Quais faturas estão em aberto? #436
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #436
+Usuário: Meu boleto foi pago? #437
+Assistente: Resposta simulada para: Meu boleto foi pago? #437
+Usuário: Há algum DDA registrado para mim? #438
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #438
+Usuário: Posso agendar pagamento de fatura? #439
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #439
+Usuário: Como vejo a fatura do meu cartão? #440
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #440
+Usuário: Quais faturas estão em aberto? #441
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #441
+Usuário: Meu boleto foi pago? #442
+Assistente: Resposta simulada para: Meu boleto foi pago? #442
+Usuário: Há algum DDA registrado para mim? #443
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #443
+Usuário: Posso agendar pagamento de fatura? #444
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #444
+Usuário: Como vejo a fatura do meu cartão? #445
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #445
+Usuário: Quais faturas estão em aberto? #446
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #446
+Usuário: Meu boleto foi pago? #447
+Assistente: Resposta simulada para: Meu boleto foi pago? #447
+Usuário: Há algum DDA registrado para mim? #448
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #448
+Usuário: Posso agendar pagamento de fatura? #449
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #449
+Usuário: Como vejo a fatura do meu cartão? #450
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #450
+Usuário: Quais faturas estão em aberto? #451
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #451
+Usuário: Meu boleto foi pago? #452
+Assistente: Resposta simulada para: Meu boleto foi pago? #452
+Usuário: Há algum DDA registrado para mim? #453
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #453
+Usuário: Posso agendar pagamento de fatura? #454
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #454
+Usuário: Como vejo a fatura do meu cartão? #455
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #455
+Usuário: Quais faturas estão em aberto? #456
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #456
+Usuário: Meu boleto foi pago? #457
+Assistente: Resposta simulada para: Meu boleto foi pago? #457
+Usuário: Há algum DDA registrado para mim? #458
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #458
+Usuário: Posso agendar pagamento de fatura? #459
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #459
+Usuário: Como vejo a fatura do meu cartão? #460
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #460
+Usuário: Quais faturas estão em aberto? #461
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #461
+Usuário: Meu boleto foi pago? #462
+Assistente: Resposta simulada para: Meu boleto foi pago? #462
+Usuário: Há algum DDA registrado para mim? #463
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #463
+Usuário: Posso agendar pagamento de fatura? #464
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #464
+Usuário: Como vejo a fatura do meu cartão? #465
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #465
+Usuário: Quais faturas estão em aberto? #466
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #466
+Usuário: Meu boleto foi pago? #467
+Assistente: Resposta simulada para: Meu boleto foi pago? #467
+Usuário: Há algum DDA registrado para mim? #468
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #468
+Usuário: Posso agendar pagamento de fatura? #469
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #469
+Usuário: Como vejo a fatura do meu cartão? #470
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #470
+Usuário: Quais faturas estão em aberto? #471
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #471
+Usuário: Meu boleto foi pago? #472
+Assistente: Resposta simulada para: Meu boleto foi pago? #472
+Usuário: Há algum DDA registrado para mim? #473
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #473
+Usuário: Posso agendar pagamento de fatura? #474
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #474
+Usuário: Como vejo a fatura do meu cartão? #475
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #475
+Usuário: Quais faturas estão em aberto? #476
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #476
+Usuário: Meu boleto foi pago? #477
+Assistente: Resposta simulada para: Meu boleto foi pago? #477
+Usuário: Há algum DDA registrado para mim? #478
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #478
+Usuário: Posso agendar pagamento de fatura? #479
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #479
+Usuário: Como vejo a fatura do meu cartão? #480
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #480
+Usuário: Quais faturas estão em aberto? #481
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #481
+Usuário: Meu boleto foi pago? #482
+Assistente: Resposta simulada para: Meu boleto foi pago? #482
+Usuário: Há algum DDA registrado para mim? #483
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #483
+Usuário: Posso agendar pagamento de fatura? #484
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #484
+Usuário: Como vejo a fatura do meu cartão? #485
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #485
+Usuário: Quais faturas estão em aberto? #486
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #486
+Usuário: Meu boleto foi pago? #487
+Assistente: Resposta simulada para: Meu boleto foi pago? #487
+Usuário: Há algum DDA registrado para mim? #488
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #488
+Usuário: Posso agendar pagamento de fatura? #489
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #489
+Usuário: Como vejo a fatura do meu cartão? #490
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #490
+Usuário: Quais faturas estão em aberto? #491
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #491
+Usuário: Meu boleto foi pago? #492
+Assistente: Resposta simulada para: Meu boleto foi pago? #492
+Usuário: Há algum DDA registrado para mim? #493
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #493
+Usuário: Posso agendar pagamento de fatura? #494
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #494
+Usuário: Como vejo a fatura do meu cartão? #495
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #495
+Usuário: Quais faturas estão em aberto? #496
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #496
+Usuário: Meu boleto foi pago? #497
+Assistente: Resposta simulada para: Meu boleto foi pago? #497
+Usuário: Há algum DDA registrado para mim? #498
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #498
+Usuário: Posso agendar pagamento de fatura? #499
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #499
+Usuário: Como vejo a fatura do meu cartão? #500
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #500
+Usuário: Quais faturas estão em aberto? #501
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #501
+Usuário: Meu boleto foi pago? #502
+Assistente: Resposta simulada para: Meu boleto foi pago? #502
+Usuário: Há algum DDA registrado para mim? #503
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #503
+Usuário: Posso agendar pagamento de fatura? #504
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #504
+Usuário: Como vejo a fatura do meu cartão? #505
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #505
+Usuário: Quais faturas estão em aberto? #506
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #506
+Usuário: Meu boleto foi pago? #507
+Assistente: Resposta simulada para: Meu boleto foi pago? #507
+Usuário: Há algum DDA registrado para mim? #508
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #508
+Usuário: Posso agendar pagamento de fatura? #509
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #509
+Usuário: Como vejo a fatura do meu cartão? #510
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #510
+Usuário: Quais faturas estão em aberto? #511
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #511
+Usuário: Meu boleto foi pago? #512
+Assistente: Resposta simulada para: Meu boleto foi pago? #512
+Usuário: Há algum DDA registrado para mim? #513
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #513
+Usuário: Posso agendar pagamento de fatura? #514
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #514
+Usuário: Como vejo a fatura do meu cartão? #515
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #515
+Usuário: Quais faturas estão em aberto? #516
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #516
+Usuário: Meu boleto foi pago? #517
+Assistente: Resposta simulada para: Meu boleto foi pago? #517
+Usuário: Há algum DDA registrado para mim? #518
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #518
+Usuário: Posso agendar pagamento de fatura? #519
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #519
+Usuário: Como vejo a fatura do meu cartão? #520
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #520
+Usuário: Quais faturas estão em aberto? #521
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #521
+Usuário: Meu boleto foi pago? #522
+Assistente: Resposta simulada para: Meu boleto foi pago? #522
+Usuário: Há algum DDA registrado para mim? #523
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #523
+Usuário: Posso agendar pagamento de fatura? #524
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #524
+Usuário: Como vejo a fatura do meu cartão? #525
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #525
+Usuário: Quais faturas estão em aberto? #526
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #526
+Usuário: Meu boleto foi pago? #527
+Assistente: Resposta simulada para: Meu boleto foi pago? #527
+Usuário: Há algum DDA registrado para mim? #528
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #528
+Usuário: Posso agendar pagamento de fatura? #529
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #529
+Usuário: Como vejo a fatura do meu cartão? #530
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #530
+Usuário: Quais faturas estão em aberto? #531
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #531
+Usuário: Meu boleto foi pago? #532
+Assistente: Resposta simulada para: Meu boleto foi pago? #532
+Usuário: Há algum DDA registrado para mim? #533
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #533
+Usuário: Posso agendar pagamento de fatura? #534
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #534
+Usuário: Como vejo a fatura do meu cartão? #535
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #535
+Usuário: Quais faturas estão em aberto? #536
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #536
+Usuário: Meu boleto foi pago? #537
+Assistente: Resposta simulada para: Meu boleto foi pago? #537
+Usuário: Há algum DDA registrado para mim? #538
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #538
+Usuário: Posso agendar pagamento de fatura? #539
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #539
+Usuário: Como vejo a fatura do meu cartão? #540
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #540
+Usuário: Quais faturas estão em aberto? #541
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #541
+Usuário: Meu boleto foi pago? #542
+Assistente: Resposta simulada para: Meu boleto foi pago? #542
+Usuário: Há algum DDA registrado para mim? #543
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #543
+Usuário: Posso agendar pagamento de fatura? #544
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #544
+Usuário: Como vejo a fatura do meu cartão? #545
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #545
+Usuário: Quais faturas estão em aberto? #546
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #546
+Usuário: Meu boleto foi pago? #547
+Assistente: Resposta simulada para: Meu boleto foi pago? #547
+Usuário: Há algum DDA registrado para mim? #548
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #548
+Usuário: Posso agendar pagamento de fatura? #549
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #549
+Usuário: Como vejo a fatura do meu cartão? #550
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #550
+Usuário: Quais faturas estão em aberto? #551
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #551
+Usuário: Meu boleto foi pago? #552
+Assistente: Resposta simulada para: Meu boleto foi pago? #552
+Usuário: Há algum DDA registrado para mim? #553
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #553
+Usuário: Posso agendar pagamento de fatura? #554
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #554
+Usuário: Como vejo a fatura do meu cartão? #555
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #555
+Usuário: Quais faturas estão em aberto? #556
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #556
+Usuário: Meu boleto foi pago? #557
+Assistente: Resposta simulada para: Meu boleto foi pago? #557
+Usuário: Há algum DDA registrado para mim? #558
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #558
+Usuário: Posso agendar pagamento de fatura? #559
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #559
+Usuário: Como vejo a fatura do meu cartão? #560
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #560
+Usuário: Quais faturas estão em aberto? #561
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #561
+Usuário: Meu boleto foi pago? #562
+Assistente: Resposta simulada para: Meu boleto foi pago? #562
+Usuário: Há algum DDA registrado para mim? #563
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #563
+Usuário: Posso agendar pagamento de fatura? #564
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #564
+Usuário: Como vejo a fatura do meu cartão? #565
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #565
+Usuário: Quais faturas estão em aberto? #566
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #566
+Usuário: Meu boleto foi pago? #567
+Assistente: Resposta simulada para: Meu boleto foi pago? #567
+Usuário: Há algum DDA registrado para mim? #568
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #568
+Usuário: Posso agendar pagamento de fatura? #569
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #569
+Usuário: Como vejo a fatura do meu cartão? #570
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #570
+Usuário: Quais faturas estão em aberto? #571
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #571
+Usuário: Meu boleto foi pago? #572
+Assistente: Resposta simulada para: Meu boleto foi pago? #572
+Usuário: Há algum DDA registrado para mim? #573
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #573
+Usuário: Posso agendar pagamento de fatura? #574
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #574
+Usuário: Como vejo a fatura do meu cartão? #575
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #575
+Usuário: Quais faturas estão em aberto? #576
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #576
+Usuário: Meu boleto foi pago? #577
+Assistente: Resposta simulada para: Meu boleto foi pago? #577
+Usuário: Há algum DDA registrado para mim? #578
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #578
+Usuário: Posso agendar pagamento de fatura? #579
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #579
+Usuário: Como vejo a fatura do meu cartão? #580
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #580
+Usuário: Quais faturas estão em aberto? #581
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #581
+Usuário: Meu boleto foi pago? #582
+Assistente: Resposta simulada para: Meu boleto foi pago? #582
+Usuário: Há algum DDA registrado para mim? #583
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #583
+Usuário: Posso agendar pagamento de fatura? #584
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #584
+Usuário: Como vejo a fatura do meu cartão? #585
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #585
+Usuário: Quais faturas estão em aberto? #586
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #586
+Usuário: Meu boleto foi pago? #587
+Assistente: Resposta simulada para: Meu boleto foi pago? #587
+Usuário: Há algum DDA registrado para mim? #588
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #588
+Usuário: Posso agendar pagamento de fatura? #589
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #589
+Usuário: Como vejo a fatura do meu cartão? #590
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #590
+Usuário: Quais faturas estão em aberto? #591
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #591
+Usuário: Meu boleto foi pago? #592
+Assistente: Resposta simulada para: Meu boleto foi pago? #592
+Usuário: Há algum DDA registrado para mim? #593
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #593
+Usuário: Posso agendar pagamento de fatura? #594
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #594
+Usuário: Como vejo a fatura do meu cartão? #595
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #595
+Usuário: Quais faturas estão em aberto? #596
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #596
+Usuário: Meu boleto foi pago? #597
+Assistente: Resposta simulada para: Meu boleto foi pago? #597
+Usuário: Há algum DDA registrado para mim? #598
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #598
+Usuário: Posso agendar pagamento de fatura? #599
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #599
+Usuário: Como vejo a fatura do meu cartão? #600
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #600
+Usuário: Quais faturas estão em aberto? #601
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #601
+Usuário: Meu boleto foi pago? #602
+Assistente: Resposta simulada para: Meu boleto foi pago? #602
+Usuário: Há algum DDA registrado para mim? #603
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #603
+Usuário: Posso agendar pagamento de fatura? #604
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #604
+Usuário: Como vejo a fatura do meu cartão? #605
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #605
+Usuário: Quais faturas estão em aberto? #606
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #606
+Usuário: Meu boleto foi pago? #607
+Assistente: Resposta simulada para: Meu boleto foi pago? #607
+Usuário: Há algum DDA registrado para mim? #608
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #608
+Usuário: Posso agendar pagamento de fatura? #609
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #609
+Usuário: Como vejo a fatura do meu cartão? #610
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #610
+Usuário: Quais faturas estão em aberto? #611
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #611
+Usuário: Meu boleto foi pago? #612
+Assistente: Resposta simulada para: Meu boleto foi pago? #612
+Usuário: Há algum DDA registrado para mim? #613
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #613
+Usuário: Posso agendar pagamento de fatura? #614
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #614
+Usuário: Como vejo a fatura do meu cartão? #615
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #615
+Usuário: Quais faturas estão em aberto? #616
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #616
+Usuário: Meu boleto foi pago? #617
+Assistente: Resposta simulada para: Meu boleto foi pago? #617
+Usuário: Há algum DDA registrado para mim? #618
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #618
+Usuário: Posso agendar pagamento de fatura? #619
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #619
+Usuário: Como vejo a fatura do meu cartão? #620
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #620
+Usuário: Quais faturas estão em aberto? #621
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #621
+Usuário: Meu boleto foi pago? #622
+Assistente: Resposta simulada para: Meu boleto foi pago? #622
+Usuário: Há algum DDA registrado para mim? #623
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #623
+Usuário: Posso agendar pagamento de fatura? #624
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #624
+Usuário: Como vejo a fatura do meu cartão? #625
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #625
+Usuário: Quais faturas estão em aberto? #626
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #626
+Usuário: Meu boleto foi pago? #627
+Assistente: Resposta simulada para: Meu boleto foi pago? #627
+Usuário: Há algum DDA registrado para mim? #628
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #628
+Usuário: Posso agendar pagamento de fatura? #629
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #629
+Usuário: Como vejo a fatura do meu cartão? #630
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #630
+Usuário: Quais faturas estão em aberto? #631
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #631
+Usuário: Meu boleto foi pago? #632
+Assistente: Resposta simulada para: Meu boleto foi pago? #632
+Usuário: Há algum DDA registrado para mim? #633
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #633
+Usuário: Posso agendar pagamento de fatura? #634
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #634
+Usuário: Como vejo a fatura do meu cartão? #635
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #635
+Usuário: Quais faturas estão em aberto? #636
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #636
+Usuário: Meu boleto foi pago? #637
+Assistente: Resposta simulada para: Meu boleto foi pago? #637
+Usuário: Há algum DDA registrado para mim? #638
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #638
+Usuário: Posso agendar pagamento de fatura? #639
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #639
+Usuário: Como vejo a fatura do meu cartão? #640
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #640
+Usuário: Quais faturas estão em aberto? #641
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #641
+Usuário: Meu boleto foi pago? #642
+Assistente: Resposta simulada para: Meu boleto foi pago? #642
+Usuário: Há algum DDA registrado para mim? #643
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #643
+Usuário: Posso agendar pagamento de fatura? #644
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #644
+Usuário: Como vejo a fatura do meu cartão? #645
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #645
+Usuário: Quais faturas estão em aberto? #646
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #646
+Usuário: Meu boleto foi pago? #647
+Assistente: Resposta simulada para: Meu boleto foi pago? #647
+Usuário: Há algum DDA registrado para mim? #648
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #648
+Usuário: Posso agendar pagamento de fatura? #649
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #649
+Usuário: Como vejo a fatura do meu cartão? #650
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #650
+Usuário: Quais faturas estão em aberto? #651
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #651
+Usuário: Meu boleto foi pago? #652
+Assistente: Resposta simulada para: Meu boleto foi pago? #652
+Usuário: Há algum DDA registrado para mim? #653
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #653
+Usuário: Posso agendar pagamento de fatura? #654
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #654
+Usuário: Como vejo a fatura do meu cartão? #655
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #655
+Usuário: Quais faturas estão em aberto? #656
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #656
+Usuário: Meu boleto foi pago? #657
+Assistente: Resposta simulada para: Meu boleto foi pago? #657
+Usuário: Há algum DDA registrado para mim? #658
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #658
+Usuário: Posso agendar pagamento de fatura? #659
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #659
+Usuário: Como vejo a fatura do meu cartão? #660
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #660
+Usuário: Quais faturas estão em aberto? #661
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #661
+Usuário: Meu boleto foi pago? #662
+Assistente: Resposta simulada para: Meu boleto foi pago? #662
+Usuário: Há algum DDA registrado para mim? #663
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #663
+Usuário: Posso agendar pagamento de fatura? #664
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #664
+Usuário: Como vejo a fatura do meu cartão? #665
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #665
+Usuário: Quais faturas estão em aberto? #666
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #666
+Usuário: Meu boleto foi pago? #667
+Assistente: Resposta simulada para: Meu boleto foi pago? #667
+Usuário: Há algum DDA registrado para mim? #668
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #668
+Usuário: Posso agendar pagamento de fatura? #669
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #669
+Usuário: Como vejo a fatura do meu cartão? #670
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #670
+Usuário: Quais faturas estão em aberto? #671
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #671
+Usuário: Meu boleto foi pago? #672
+Assistente: Resposta simulada para: Meu boleto foi pago? #672
+Usuário: Há algum DDA registrado para mim? #673
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #673
+Usuário: Posso agendar pagamento de fatura? #674
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #674
+Usuário: Como vejo a fatura do meu cartão? #675
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #675
+Usuário: Quais faturas estão em aberto? #676
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #676
+Usuário: Meu boleto foi pago? #677
+Assistente: Resposta simulada para: Meu boleto foi pago? #677
+Usuário: Há algum DDA registrado para mim? #678
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #678
+Usuário: Posso agendar pagamento de fatura? #679
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #679
+Usuário: Como vejo a fatura do meu cartão? #680
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #680
+Usuário: Quais faturas estão em aberto? #681
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #681
+Usuário: Meu boleto foi pago? #682
+Assistente: Resposta simulada para: Meu boleto foi pago? #682
+Usuário: Há algum DDA registrado para mim? #683
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #683
+Usuário: Posso agendar pagamento de fatura? #684
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #684
+Usuário: Como vejo a fatura do meu cartão? #685
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #685
+Usuário: Quais faturas estão em aberto? #686
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #686
+Usuário: Meu boleto foi pago? #687
+Assistente: Resposta simulada para: Meu boleto foi pago? #687
+Usuário: Há algum DDA registrado para mim? #688
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #688
+Usuário: Posso agendar pagamento de fatura? #689
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #689
+Usuário: Como vejo a fatura do meu cartão? #690
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #690
+Usuário: Quais faturas estão em aberto? #691
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #691
+Usuário: Meu boleto foi pago? #692
+Assistente: Resposta simulada para: Meu boleto foi pago? #692
+Usuário: Há algum DDA registrado para mim? #693
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #693
+Usuário: Posso agendar pagamento de fatura? #694
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #694
+Usuário: Como vejo a fatura do meu cartão? #695
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #695
+Usuário: Quais faturas estão em aberto? #696
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #696
+Usuário: Meu boleto foi pago? #697
+Assistente: Resposta simulada para: Meu boleto foi pago? #697
+Usuário: Há algum DDA registrado para mim? #698
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #698
+Usuário: Posso agendar pagamento de fatura? #699
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #699
+Usuário: Como vejo a fatura do meu cartão? #700
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #700
+Usuário: Quais faturas estão em aberto? #701
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #701
+Usuário: Meu boleto foi pago? #702
+Assistente: Resposta simulada para: Meu boleto foi pago? #702
+Usuário: Há algum DDA registrado para mim? #703
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #703
+Usuário: Posso agendar pagamento de fatura? #704
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #704
+Usuário: Como vejo a fatura do meu cartão? #705
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #705
+Usuário: Quais faturas estão em aberto? #706
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #706
+Usuário: Meu boleto foi pago? #707
+Assistente: Resposta simulada para: Meu boleto foi pago? #707
+Usuário: Há algum DDA registrado para mim? #708
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #708
+Usuário: Posso agendar pagamento de fatura? #709
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #709
+Usuário: Como vejo a fatura do meu cartão? #710
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #710
+Usuário: Quais faturas estão em aberto? #711
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #711
+Usuário: Meu boleto foi pago? #712
+Assistente: Resposta simulada para: Meu boleto foi pago? #712
+Usuário: Há algum DDA registrado para mim? #713
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #713
+Usuário: Posso agendar pagamento de fatura? #714
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #714
+Usuário: Como vejo a fatura do meu cartão? #715
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #715
+Usuário: Quais faturas estão em aberto? #716
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #716
+Usuário: Meu boleto foi pago? #717
+Assistente: Resposta simulada para: Meu boleto foi pago? #717
+Usuário: Há algum DDA registrado para mim? #718
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #718
+Usuário: Posso agendar pagamento de fatura? #719
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #719
+Usuário: Como vejo a fatura do meu cartão? #720
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #720
+Usuário: Quais faturas estão em aberto? #721
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #721
+Usuário: Meu boleto foi pago? #722
+Assistente: Resposta simulada para: Meu boleto foi pago? #722
+Usuário: Há algum DDA registrado para mim? #723
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #723
+Usuário: Posso agendar pagamento de fatura? #724
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #724
+Usuário: Como vejo a fatura do meu cartão? #725
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #725
+Usuário: Quais faturas estão em aberto? #726
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #726
+Usuário: Meu boleto foi pago? #727
+Assistente: Resposta simulada para: Meu boleto foi pago? #727
+Usuário: Há algum DDA registrado para mim? #728
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #728
+Usuário: Posso agendar pagamento de fatura? #729
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #729
+Usuário: Como vejo a fatura do meu cartão? #730
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #730
+Usuário: Quais faturas estão em aberto? #731
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #731
+Usuário: Meu boleto foi pago? #732
+Assistente: Resposta simulada para: Meu boleto foi pago? #732
+Usuário: Há algum DDA registrado para mim? #733
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #733
+Usuário: Posso agendar pagamento de fatura? #734
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #734
+Usuário: Como vejo a fatura do meu cartão? #735
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #735
+Usuário: Quais faturas estão em aberto? #736
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #736
+Usuário: Meu boleto foi pago? #737
+Assistente: Resposta simulada para: Meu boleto foi pago? #737
+Usuário: Há algum DDA registrado para mim? #738
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #738
+Usuário: Posso agendar pagamento de fatura? #739
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #739
+Usuário: Como vejo a fatura do meu cartão? #740
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #740
+Usuário: Quais faturas estão em aberto? #741
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #741
+Usuário: Meu boleto foi pago? #742
+Assistente: Resposta simulada para: Meu boleto foi pago? #742
+Usuário: Há algum DDA registrado para mim? #743
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #743
+Usuário: Posso agendar pagamento de fatura? #744
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #744
+Usuário: Como vejo a fatura do meu cartão? #745
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #745
+Usuário: Quais faturas estão em aberto? #746
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #746
+Usuário: Meu boleto foi pago? #747
+Assistente: Resposta simulada para: Meu boleto foi pago? #747
+Usuário: Há algum DDA registrado para mim? #748
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #748
+Usuário: Posso agendar pagamento de fatura? #749
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #749
+Usuário: Como vejo a fatura do meu cartão? #750
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #750
+Usuário: Quais faturas estão em aberto? #751
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #751
+Usuário: Meu boleto foi pago? #752
+Assistente: Resposta simulada para: Meu boleto foi pago? #752
+Usuário: Há algum DDA registrado para mim? #753
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #753
+Usuário: Posso agendar pagamento de fatura? #754
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #754
+Usuário: Como vejo a fatura do meu cartão? #755
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #755
+Usuário: Quais faturas estão em aberto? #756
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #756
+Usuário: Meu boleto foi pago? #757
+Assistente: Resposta simulada para: Meu boleto foi pago? #757
+Usuário: Há algum DDA registrado para mim? #758
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #758
+Usuário: Posso agendar pagamento de fatura? #759
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #759
+Usuário: Como vejo a fatura do meu cartão? #760
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #760
+Usuário: Quais faturas estão em aberto? #761
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #761
+Usuário: Meu boleto foi pago? #762
+Assistente: Resposta simulada para: Meu boleto foi pago? #762
+Usuário: Há algum DDA registrado para mim? #763
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #763
+Usuário: Posso agendar pagamento de fatura? #764
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #764
+Usuário: Como vejo a fatura do meu cartão? #765
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #765
+Usuário: Quais faturas estão em aberto? #766
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #766
+Usuário: Meu boleto foi pago? #767
+Assistente: Resposta simulada para: Meu boleto foi pago? #767
+Usuário: Há algum DDA registrado para mim? #768
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #768
+Usuário: Posso agendar pagamento de fatura? #769
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #769
+Usuário: Como vejo a fatura do meu cartão? #770
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #770
+Usuário: Quais faturas estão em aberto? #771
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #771
+Usuário: Meu boleto foi pago? #772
+Assistente: Resposta simulada para: Meu boleto foi pago? #772
+Usuário: Há algum DDA registrado para mim? #773
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #773
+Usuário: Posso agendar pagamento de fatura? #774
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #774
+Usuário: Como vejo a fatura do meu cartão? #775
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #775
+Usuário: Quais faturas estão em aberto? #776
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #776
+Usuário: Meu boleto foi pago? #777
+Assistente: Resposta simulada para: Meu boleto foi pago? #777
+Usuário: Há algum DDA registrado para mim? #778
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #778
+Usuário: Posso agendar pagamento de fatura? #779
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #779
+Usuário: Como vejo a fatura do meu cartão? #780
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #780
+Usuário: Quais faturas estão em aberto? #781
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #781
+Usuário: Meu boleto foi pago? #782
+Assistente: Resposta simulada para: Meu boleto foi pago? #782
+Usuário: Há algum DDA registrado para mim? #783
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #783
+Usuário: Posso agendar pagamento de fatura? #784
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #784
+Usuário: Como vejo a fatura do meu cartão? #785
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #785
+Usuário: Quais faturas estão em aberto? #786
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #786
+Usuário: Meu boleto foi pago? #787
+Assistente: Resposta simulada para: Meu boleto foi pago? #787
+Usuário: Há algum DDA registrado para mim? #788
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #788
+Usuário: Posso agendar pagamento de fatura? #789
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #789
+Usuário: Como vejo a fatura do meu cartão? #790
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #790
+Usuário: Quais faturas estão em aberto? #791
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #791
+Usuário: Meu boleto foi pago? #792
+Assistente: Resposta simulada para: Meu boleto foi pago? #792
+Usuário: Há algum DDA registrado para mim? #793
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #793
+Usuário: Posso agendar pagamento de fatura? #794
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #794
+Usuário: Como vejo a fatura do meu cartão? #795
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #795
+Usuário: Quais faturas estão em aberto? #796
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #796
+Usuário: Meu boleto foi pago? #797
+Assistente: Resposta simulada para: Meu boleto foi pago? #797
+Usuário: Há algum DDA registrado para mim? #798
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #798
+Usuário: Posso agendar pagamento de fatura? #799
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #799
+Usuário: Como vejo a fatura do meu cartão? #800
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #800
+Usuário: Quais faturas estão em aberto? #801
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #801
+Usuário: Meu boleto foi pago? #802
+Assistente: Resposta simulada para: Meu boleto foi pago? #802
+Usuário: Há algum DDA registrado para mim? #803
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #803
+Usuário: Posso agendar pagamento de fatura? #804
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #804
+Usuário: Como vejo a fatura do meu cartão? #805
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #805
+Usuário: Quais faturas estão em aberto? #806
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #806
+Usuário: Meu boleto foi pago? #807
+Assistente: Resposta simulada para: Meu boleto foi pago? #807
+Usuário: Há algum DDA registrado para mim? #808
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #808
+Usuário: Posso agendar pagamento de fatura? #809
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #809
+Usuário: Como vejo a fatura do meu cartão? #810
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #810
+Usuário: Quais faturas estão em aberto? #811
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #811
+Usuário: Meu boleto foi pago? #812
+Assistente: Resposta simulada para: Meu boleto foi pago? #812
+Usuário: Há algum DDA registrado para mim? #813
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #813
+Usuário: Posso agendar pagamento de fatura? #814
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #814
+Usuário: Como vejo a fatura do meu cartão? #815
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #815
+Usuário: Quais faturas estão em aberto? #816
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #816
+Usuário: Meu boleto foi pago? #817
+Assistente: Resposta simulada para: Meu boleto foi pago? #817
+Usuário: Há algum DDA registrado para mim? #818
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #818
+Usuário: Posso agendar pagamento de fatura? #819
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #819
+Usuário: Como vejo a fatura do meu cartão? #820
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #820
+Usuário: Quais faturas estão em aberto? #821
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #821
+Usuário: Meu boleto foi pago? #822
+Assistente: Resposta simulada para: Meu boleto foi pago? #822
+Usuário: Há algum DDA registrado para mim? #823
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #823
+Usuário: Posso agendar pagamento de fatura? #824
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #824
+Usuário: Como vejo a fatura do meu cartão? #825
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #825
+Usuário: Quais faturas estão em aberto? #826
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #826
+Usuário: Meu boleto foi pago? #827
+Assistente: Resposta simulada para: Meu boleto foi pago? #827
+Usuário: Há algum DDA registrado para mim? #828
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #828
+Usuário: Posso agendar pagamento de fatura? #829
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #829
+Usuário: Como vejo a fatura do meu cartão? #830
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #830
+Usuário: Quais faturas estão em aberto? #831
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #831
+Usuário: Meu boleto foi pago? #832
+Assistente: Resposta simulada para: Meu boleto foi pago? #832
+Usuário: Há algum DDA registrado para mim? #833
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #833
+Usuário: Posso agendar pagamento de fatura? #834
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #834
+Usuário: Como vejo a fatura do meu cartão? #835
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #835
+Usuário: Quais faturas estão em aberto? #836
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #836
+Usuário: Meu boleto foi pago? #837
+Assistente: Resposta simulada para: Meu boleto foi pago? #837
+Usuário: Há algum DDA registrado para mim? #838
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #838
+Usuário: Posso agendar pagamento de fatura? #839
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #839
+Usuário: Como vejo a fatura do meu cartão? #840
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #840
+Usuário: Quais faturas estão em aberto? #841
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #841
+Usuário: Meu boleto foi pago? #842
+Assistente: Resposta simulada para: Meu boleto foi pago? #842
+Usuário: Há algum DDA registrado para mim? #843
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #843
+Usuário: Posso agendar pagamento de fatura? #844
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #844
+Usuário: Como vejo a fatura do meu cartão? #845
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #845
+Usuário: Quais faturas estão em aberto? #846
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #846
+Usuário: Meu boleto foi pago? #847
+Assistente: Resposta simulada para: Meu boleto foi pago? #847
+Usuário: Há algum DDA registrado para mim? #848
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #848
+Usuário: Posso agendar pagamento de fatura? #849
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #849
+Usuário: Como vejo a fatura do meu cartão? #850
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #850
+Usuário: Quais faturas estão em aberto? #851
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #851
+Usuário: Meu boleto foi pago? #852
+Assistente: Resposta simulada para: Meu boleto foi pago? #852
+Usuário: Há algum DDA registrado para mim? #853
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #853
+Usuário: Posso agendar pagamento de fatura? #854
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #854
+Usuário: Como vejo a fatura do meu cartão? #855
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #855
+Usuário: Quais faturas estão em aberto? #856
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #856
+Usuário: Meu boleto foi pago? #857
+Assistente: Resposta simulada para: Meu boleto foi pago? #857
+Usuário: Há algum DDA registrado para mim? #858
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #858
+Usuário: Posso agendar pagamento de fatura? #859
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #859
+Usuário: Como vejo a fatura do meu cartão? #860
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #860
+Usuário: Quais faturas estão em aberto? #861
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #861
+Usuário: Meu boleto foi pago? #862
+Assistente: Resposta simulada para: Meu boleto foi pago? #862
+Usuário: Há algum DDA registrado para mim? #863
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #863
+Usuário: Posso agendar pagamento de fatura? #864
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #864
+Usuário: Como vejo a fatura do meu cartão? #865
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #865
+Usuário: Quais faturas estão em aberto? #866
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #866
+Usuário: Meu boleto foi pago? #867
+Assistente: Resposta simulada para: Meu boleto foi pago? #867
+Usuário: Há algum DDA registrado para mim? #868
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #868
+Usuário: Posso agendar pagamento de fatura? #869
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #869
+Usuário: Como vejo a fatura do meu cartão? #870
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #870
+Usuário: Quais faturas estão em aberto? #871
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #871
+Usuário: Meu boleto foi pago? #872
+Assistente: Resposta simulada para: Meu boleto foi pago? #872
+Usuário: Há algum DDA registrado para mim? #873
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #873
+Usuário: Posso agendar pagamento de fatura? #874
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #874
+Usuário: Como vejo a fatura do meu cartão? #875
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #875
+Usuário: Quais faturas estão em aberto? #876
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #876
+Usuário: Meu boleto foi pago? #877
+Assistente: Resposta simulada para: Meu boleto foi pago? #877
+Usuário: Há algum DDA registrado para mim? #878
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #878
+Usuário: Posso agendar pagamento de fatura? #879
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #879
+Usuário: Como vejo a fatura do meu cartão? #880
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #880
+Usuário: Quais faturas estão em aberto? #881
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #881
+Usuário: Meu boleto foi pago? #882
+Assistente: Resposta simulada para: Meu boleto foi pago? #882
+Usuário: Há algum DDA registrado para mim? #883
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #883
+Usuário: Posso agendar pagamento de fatura? #884
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #884
+Usuário: Como vejo a fatura do meu cartão? #885
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #885
+Usuário: Quais faturas estão em aberto? #886
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #886
+Usuário: Meu boleto foi pago? #887
+Assistente: Resposta simulada para: Meu boleto foi pago? #887
+Usuário: Há algum DDA registrado para mim? #888
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #888
+Usuário: Posso agendar pagamento de fatura? #889
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #889
+Usuário: Como vejo a fatura do meu cartão? #890
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #890
+Usuário: Quais faturas estão em aberto? #891
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #891
+Usuário: Meu boleto foi pago? #892
+Assistente: Resposta simulada para: Meu boleto foi pago? #892
+Usuário: Há algum DDA registrado para mim? #893
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #893
+Usuário: Posso agendar pagamento de fatura? #894
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #894
+Usuário: Como vejo a fatura do meu cartão? #895
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #895
+Usuário: Quais faturas estão em aberto? #896
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #896
+Usuário: Meu boleto foi pago? #897
+Assistente: Resposta simulada para: Meu boleto foi pago? #897
+Usuário: Há algum DDA registrado para mim? #898
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #898
+Usuário: Posso agendar pagamento de fatura? #899
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #899
+Usuário: Como vejo a fatura do meu cartão? #900
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #900
+Usuário: Quais faturas estão em aberto? #901
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #901
+Usuário: Meu boleto foi pago? #902
+Assistente: Resposta simulada para: Meu boleto foi pago? #902
+Usuário: Há algum DDA registrado para mim? #903
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #903
+Usuário: Posso agendar pagamento de fatura? #904
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #904
+Usuário: Como vejo a fatura do meu cartão? #905
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #905
+Usuário: Quais faturas estão em aberto? #906
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #906
+Usuário: Meu boleto foi pago? #907
+Assistente: Resposta simulada para: Meu boleto foi pago? #907
+Usuário: Há algum DDA registrado para mim? #908
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #908
+Usuário: Posso agendar pagamento de fatura? #909
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #909
+Usuário: Como vejo a fatura do meu cartão? #910
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #910
+Usuário: Quais faturas estão em aberto? #911
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #911
+Usuário: Meu boleto foi pago? #912
+Assistente: Resposta simulada para: Meu boleto foi pago? #912
+Usuário: Há algum DDA registrado para mim? #913
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #913
+Usuário: Posso agendar pagamento de fatura? #914
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #914
+Usuário: Como vejo a fatura do meu cartão? #915
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #915
+Usuário: Quais faturas estão em aberto? #916
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #916
+Usuário: Meu boleto foi pago? #917
+Assistente: Resposta simulada para: Meu boleto foi pago? #917
+Usuário: Há algum DDA registrado para mim? #918
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #918
+Usuário: Posso agendar pagamento de fatura? #919
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #919
+Usuário: Como vejo a fatura do meu cartão? #920
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #920
+Usuário: Quais faturas estão em aberto? #921
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #921
+Usuário: Meu boleto foi pago? #922
+Assistente: Resposta simulada para: Meu boleto foi pago? #922
+Usuário: Há algum DDA registrado para mim? #923
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #923
+Usuário: Posso agendar pagamento de fatura? #924
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #924
+Usuário: Como vejo a fatura do meu cartão? #925
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #925
+Usuário: Quais faturas estão em aberto? #926
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #926
+Usuário: Meu boleto foi pago? #927
+Assistente: Resposta simulada para: Meu boleto foi pago? #927
+Usuário: Há algum DDA registrado para mim? #928
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #928
+Usuário: Posso agendar pagamento de fatura? #929
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #929
+Usuário: Como vejo a fatura do meu cartão? #930
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #930
+Usuário: Quais faturas estão em aberto? #931
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #931
+Usuário: Meu boleto foi pago? #932
+Assistente: Resposta simulada para: Meu boleto foi pago? #932
+Usuário: Há algum DDA registrado para mim? #933
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #933
+Usuário: Posso agendar pagamento de fatura? #934
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #934
+Usuário: Como vejo a fatura do meu cartão? #935
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #935
+Usuário: Quais faturas estão em aberto? #936
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #936
+Usuário: Meu boleto foi pago? #937
+Assistente: Resposta simulada para: Meu boleto foi pago? #937
+Usuário: Há algum DDA registrado para mim? #938
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #938
+Usuário: Posso agendar pagamento de fatura? #939
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #939
+Usuário: Como vejo a fatura do meu cartão? #940
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #940
+Usuário: Quais faturas estão em aberto? #941
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #941
+Usuário: Meu boleto foi pago? #942
+Assistente: Resposta simulada para: Meu boleto foi pago? #942
+Usuário: Há algum DDA registrado para mim? #943
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #943
+Usuário: Posso agendar pagamento de fatura? #944
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #944
+Usuário: Como vejo a fatura do meu cartão? #945
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #945
+Usuário: Quais faturas estão em aberto? #946
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #946
+Usuário: Meu boleto foi pago? #947
+Assistente: Resposta simulada para: Meu boleto foi pago? #947
+Usuário: Há algum DDA registrado para mim? #948
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #948
+Usuário: Posso agendar pagamento de fatura? #949
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #949
+Usuário: Como vejo a fatura do meu cartão? #950
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #950
+Usuário: Quais faturas estão em aberto? #951
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #951
+Usuário: Meu boleto foi pago? #952
+Assistente: Resposta simulada para: Meu boleto foi pago? #952
+Usuário: Há algum DDA registrado para mim? #953
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #953
+Usuário: Posso agendar pagamento de fatura? #954
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #954
+Usuário: Como vejo a fatura do meu cartão? #955
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #955
+Usuário: Quais faturas estão em aberto? #956
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #956
+Usuário: Meu boleto foi pago? #957
+Assistente: Resposta simulada para: Meu boleto foi pago? #957
+Usuário: Há algum DDA registrado para mim? #958
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #958
+Usuário: Posso agendar pagamento de fatura? #959
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #959
+Usuário: Como vejo a fatura do meu cartão? #960
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #960
+Usuário: Quais faturas estão em aberto? #961
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #961
+Usuário: Meu boleto foi pago? #962
+Assistente: Resposta simulada para: Meu boleto foi pago? #962
+Usuário: Há algum DDA registrado para mim? #963
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #963
+Usuário: Posso agendar pagamento de fatura? #964
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #964
+Usuário: Como vejo a fatura do meu cartão? #965
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #965
+Usuário: Quais faturas estão em aberto? #966
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #966
+Usuário: Meu boleto foi pago? #967
+Assistente: Resposta simulada para: Meu boleto foi pago? #967
+Usuário: Há algum DDA registrado para mim? #968
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #968
+Usuário: Posso agendar pagamento de fatura? #969
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #969
+Usuário: Como vejo a fatura do meu cartão? #970
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #970
+Usuário: Quais faturas estão em aberto? #971
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #971
+Usuário: Meu boleto foi pago? #972
+Assistente: Resposta simulada para: Meu boleto foi pago? #972
+Usuário: Há algum DDA registrado para mim? #973
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #973
+Usuário: Posso agendar pagamento de fatura? #974
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #974
+Usuário: Como vejo a fatura do meu cartão? #975
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #975
+Usuário: Quais faturas estão em aberto? #976
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #976
+Usuário: Meu boleto foi pago? #977
+Assistente: Resposta simulada para: Meu boleto foi pago? #977
+Usuário: Há algum DDA registrado para mim? #978
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #978
+Usuário: Posso agendar pagamento de fatura? #979
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #979
+Usuário: Como vejo a fatura do meu cartão? #980
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #980
+Usuário: Quais faturas estão em aberto? #981
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #981
+Usuário: Meu boleto foi pago? #982
+Assistente: Resposta simulada para: Meu boleto foi pago? #982
+Usuário: Há algum DDA registrado para mim? #983
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #983
+Usuário: Posso agendar pagamento de fatura? #984
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #984
+Usuário: Como vejo a fatura do meu cartão? #985
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #985
+Usuário: Quais faturas estão em aberto? #986
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #986
+Usuário: Meu boleto foi pago? #987
+Assistente: Resposta simulada para: Meu boleto foi pago? #987
+Usuário: Há algum DDA registrado para mim? #988
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #988
+Usuário: Posso agendar pagamento de fatura? #989
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #989
+Usuário: Como vejo a fatura do meu cartão? #990
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #990
+Usuário: Quais faturas estão em aberto? #991
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #991
+Usuário: Meu boleto foi pago? #992
+Assistente: Resposta simulada para: Meu boleto foi pago? #992
+Usuário: Há algum DDA registrado para mim? #993
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #993
+Usuário: Posso agendar pagamento de fatura? #994
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #994
+Usuário: Como vejo a fatura do meu cartão? #995
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #995
+Usuário: Quais faturas estão em aberto? #996
+Assistente: Resposta simulada para: Quais faturas estão em aberto? #996
+Usuário: Meu boleto foi pago? #997
+Assistente: Resposta simulada para: Meu boleto foi pago? #997
+Usuário: Há algum DDA registrado para mim? #998
+Assistente: Resposta simulada para: Há algum DDA registrado para mim? #998
+Usuário: Posso agendar pagamento de fatura? #999
+Assistente: Resposta simulada para: Posso agendar pagamento de fatura? #999
+Usuário: Como vejo a fatura do meu cartão? #1000
+Assistente: Resposta simulada para: Como vejo a fatura do meu cartão? #1000
