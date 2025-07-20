@@ -134,6 +134,18 @@ async def chat_handler(input: ChatInput):
     docs = searcher.search(clean_text, top_k=3)
     context = "\n\n".join([d["text"] for d in docs])
 
+    # Se o RAG não retornar nenhum contexto, a pergunta provavelmente está fora do escopo.
+    if not context.strip():
+        return {
+            "response": f"Como um especialista no tema '{theme}', não tenho informações sobre esse assunto. Por favor, faça perguntas dentro do meu escopo.",
+            "intent_name": "out_of_scope",
+            "intent_confidence": 1.0,
+            "emotion_label": "neutral",
+            "rag_source": []
+        }
+
+    # print(f"Context: {context}")
+
     # 6. Memória + contexto
     history = memory.get_history(session_id)
     history_text = "\n".join([f"{m['role']}: {m['message']}" for m in history[-5:]])
@@ -169,10 +181,13 @@ async def chat_handler(input: ChatInput):
     memory.add_message(session_id, "assistant", response_text)
 
     # 11. Formata a resposta final para o frontend
-    return {
+    final_response = {
         "response": response_text,
         "intent_name": intent.get('intent', 'unknown'),
         "intent_confidence": intent.get('confidence', 0.0),
         "emotion_label": emotion.get('emotions', [{'label': 'unknown'}])[0].get('label', 'unknown'),
         "rag_source": [d.get("source", "N/A") for d in docs] # Simplifica a fonte do RAG
     }
+
+    # print(f"Final Response: {final_response}")
+    return final_response

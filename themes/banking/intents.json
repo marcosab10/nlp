@@ -2,25 +2,88 @@
   {
     "name": "consultar_saldo",
     "examples": [
-      "Qual meu saldo?",
-      "Quanto tenho na conta?",
-      "Mostrar saldo da minha conta"
+      "Qual o meu saldo?",
+      "Tenho algo na conta?",
+      "Me mostra meu saldo bancário",
+      "Quero saber quanto tenho disponível",
+      "Saldo bancário atual",
+      "Confere pra mim meu saldo",
+      "Quero ver o saldo da conta",
+      "Quanto tenho de saldo bancário?",
+      "Quanto eu tenho na minha conta?",
+      "Mostre meu saldo bancário"
     ]
   },
   {
     "name": "consultar_fatura",
     "examples": [
       "Qual o valor da minha fatura?",
-      "Fatura do meu cartão",
-      "Me mostra a fatura do mês"
+      "Mostrar fatura do cartão",
+      "Ver fatura do mês",
+      "Quanto eu tenho que pagar do cartão?",
+      "Saldo da fatura",
+      "Me diga quanto falta pagar no cartão",
+      "Tenho algo a pagar esse mês?",
+      "Mostre-me o extrato deste mês"
+    ]
+  },
+  {
+    "name": "consultar_extrato",
+    "examples": [
+      "Quero ver meu extrato",
+      "Me mostra os lançamentos recentes",
+      "Quais foram minhas últimas transações?",
+      "Ver extrato bancário",
+      "Extrato da conta corrente",
+      "Extrato da conta poupança",
+      "Últimas movimentações da conta"
+    ]
+  },
+  {
+    "name": "consultar_limite",
+    "examples": [
+      "Qual o limite do meu cartão?",
+      "Tenho crédito disponível?",
+      "Quanto posso gastar ainda?",
+      "Qual meu limite de crédito?",
+      "Quero saber o limite disponível"
     ]
   },
   {
     "name": "abrir_conta",
     "examples": [
       "Quero abrir uma conta",
-      "Como faço para abrir uma conta?",
-      "Abrir conta corrente"
+      "Como faço para abrir conta?",
+      "Desejo abrir uma conta corrente",
+      "Abrir nova conta bancária",
+      "Eu quero abrir uma conta"
+    ]
+  },
+  {
+    "name": "reclamar_cobranca",
+    "examples": [
+      "Recebi uma cobrança errada",
+      "Tem uma compra que não reconheço",
+      "Estão me cobrando errado",
+      "Preciso contestar uma cobrança"
+    ]
+  },
+  {
+    "name": "falar_com_atendente",
+    "examples": [
+      "Quero falar com alguém",
+      "Tem atendimento humano?",
+      "Me transfere pra um atendente",
+      "Preciso de ajuda de um atendente"
+    ]
+  },
+  {
+    "name": "encerrar_conta",
+    "examples": [
+      "Quero encerrar minha conta",
+      "Fechar minha conta bancária",
+      "Cancelar conta digital",
+      "Como encerro minha conta?"
     ]
   }
 ]

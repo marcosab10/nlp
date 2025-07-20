@@ -3,24 +3,24 @@
     "name": "analisar_personagem",
     "examples": [
       "Quem foi Capitu?",
-      "Me fale sobre a personalidade de Iracema",
-      "Qual a importância de Bentinho na história?"
+      "Fale-me sobre a personalidade de Iracema",
+      "Qual é a importância de Bentinho na história?"
     ]
   },
   {
     "name": "resumir_obra",
     "examples": [
       "Qual é a história de Dom Casmurro?",
-      "Faça um resumo de Iracema",
-      "Sobre o que fala o livro?"
+      "Dê-me um resumo de Iracema",
+      "Sobre o que é este livro?"
     ]
   },
   {
     "name": "identificar_tema_central",
     "examples": [
-      "Qual o tema principal da obra?",
+      "Qual é o tema principal da obra?",
       "O livro fala sobre ciúmes?",
-      "Qual a mensagem que o autor quis passar?"
+      "Que mensagem o autor quis transmitir?"
     ]
   }
 ]

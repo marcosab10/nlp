@@ -20,12 +20,14 @@ body {
     height: 100vh;
     margin: 0;
     font-size: 16px; /* Base font-size for consistency */
+    overflow: hidden; /* Evita barras de rolagem */
 }
 
 #chat-container {
-    width: 800px; /* Defina uma largura máxima */
-    height: 600px; /* Defina uma altura máxima */
-    max-width: 95%; /* Garante que não ultrapasse a largura da tela */
+    width: 1200px; /* Defina uma largura máxima */
+    height: 900px; /* Defina uma altura máxima */
+    max-width: 90vw; /* Limita a largura a 90% da viewport */
+    max-height: 90vh; /* Limita a altura a 90% da viewport */
     background: rgba(16, 16, 48, 0.85); /* Dark blue, semi-transparent */
     border: 1px solid #ff00ff; /* Sharp magenta border */
     border-radius: 0;
@@ -33,6 +35,7 @@ body {
     backdrop-filter: blur(3px); /* Subtle glassmorphism */
     display: flex;
     flex-direction: column;
+    transform: scale(1); /* Garante escala 1:1 */
 }
 
 #chat-header {

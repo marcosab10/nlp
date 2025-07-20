@@ -1,34 +1,39 @@
 # 🤖 Assistente Inteligente Multitemático
 
-Solução de assistente conversacional com NLP + RAG + LLM, agora com suporte a múltiplos domínios (temas de agente) e múltiplos temas visuais para o frontend. O sistema carrega dinamicamente a base de conhecimento, intenções e personalidade do agente, e permite que o usuário personalize a aparência da interface de chat.
+Uma solução de assistente conversacional que integra Processamento de Linguagem Natural (NLP), Retrieval-Augmented Generation (RAG) e Grandes Modelos de Linguagem (LLMs). A plataforma se destaca por seu suporte a múltiplos domínios (temas de agente) e múltiplos temas visuais para o frontend. O sistema carrega dinamicamente a base de conhecimento, intenções e a personalidade do agente, permitindo que o usuário personalize tanto a especialidade do assistente quanto a aparência da interface de chat.
 
 ## 🚀 Funcionalidades
 
-- **Interface Web Interativa:** Frontend completo com HTML, CSS e JavaScript.
-- **Seleção de Agente:** Escolha com qual "personalidade" de agente você quer conversar (ex: Bancário, Especialista em IA, etc.).
-- **Seleção de Tema Visual:** Personalize a aparência do chat com temas como Padrão, Matrix ou Exterminador do Futuro.
-- **Suporte Dinâmico a Múltiplos Temas de Agente:** Configure diferentes assistentes, cada um com sua própria base de conhecimento, intenções e prompt de sistema.
-- Compreensão de linguagem natural com detecção de intenções (específica por tema).
-- Análise de sentimentos e emoções.
-- Extração de entidades.
-- Busca semântica com RAG (FAISS + SBERT) na base de conhecimento do tema.
-- Geração de respostas personalizadas com OpenAI.
-- Escalonamento para atendimento humano (via N8N).
+- **Interface Web Interativa:** Frontend completo construído com HTML, CSS e JavaScript puro.
+- **Seleção Dinâmica de Agente:** Permite ao usuário escolher com qual "personalidade" de agente deseja interagir (ex: Especialista em IA, Consultor Financeiro, Crítico Literário, etc.).
+- **Seleção de Tema Visual:** Personalize a aparência do chat com temas como Padrão, Matrix, Cyberpunk e Exterminador do Futuro.
+- **Arquitetura Multitemática:** Configure múltiplos assistentes, cada um com sua própria base de conhecimento (`knowledge`), conjunto de intenções (`intents.json`) e persona (`prompt.txt`).
+- **Pipeline de NLP:**
+    - Compreensão de linguagem natural com detecção de intenções (específica por tema).
+    - Análise de sentimentos e emoções.
+    - Extração de Entidades Nomeadas (NER).
+- **Busca Semântica (RAG):** Utiliza FAISS e SentenceTransformers para buscar informações relevantes na base de conhecimento do tema selecionado.
+- **Geração de Respostas com LLM:** Integra-se com a API da OpenAI para gerar respostas contextuais e personalizadas.
+- **Memória Conversacional:** Mantém o histórico da conversa por sessão.
+- **Escalonamento para Atendimento Humano:** Lógica de decisão para escalonamento, com integração via webhook para plataformas como N8N.
+- **Containerização:** Suporte completo para execução com Docker e Docker Compose.
 
 ## 🧱 Arquitetura
 
-- **Backend:** FastAPI + Python
+- **Backend:** FastAPI (Python)
 - **Frontend:** HTML, CSS, JavaScript (sem frameworks)
 - **LLM:** OpenAI (gpt-3.5-turbo, gpt-4, etc.)
-- **Busca Semântica:** FAISS + SentenceTransformers
-- **Orquestração:** N8N (via HTTP Webhook)
+- **Busca Semântica (RAG):** FAISS + SentenceTransformers
+- **NLP:** spaCy, Transformers, SentenceTransformers
+- **Orquestração/Workflow:** N8N (via Webhook)
+- **Serviços Adicionais (via Docker):** Redis, PostgreSQL
 
 ## 📁 Estrutura do Projeto
 
-A estrutura foi atualizada para separar claramente o backend, o frontend e os temas de agente.
+A estrutura foi organizada para separar claramente o backend, o frontend, os temas dos agentes e a configuração de containerização.
 
 ```txt
-assistente-bancario/
+nlp/
 ├── backend/
 │   ├── main.py
 │   ├── agent/
@@ -40,25 +45,47 @@ assistente-bancario/
 │   └── css/
 │       ├── default.css
 │       ├── matrix.css
+│       ├── cyberpunk.css
 │       └── terminator.css
+├── n8n-fluxos/
+│   └── ChatBot.json
 ├── themes/
+│   ├── ai_specialist/
 │   ├── banking/
-│   │   ├── knowledge/
-│   │   │   └── *.txt, *.pdf
-│   │   ├── intents.json
-│   │   └── prompt.txt
-│   └── ... (outros temas de agente)
+│   ├── fuzzy_logic_expert/
+│   └── literature/
+│       ├── knowledge/
+│       │   └── *.txt, *.pdf
+│       ├── intents.json
+│       └── prompt.txt
 ├── build_all_themes.py
 ├── requirements.txt
+├── Dockerfile
+├── docker-compose.yml
 └── README.md
 ```
 
+## ⚙️ Como Funciona
+
+1.  **Frontend:** O usuário seleciona um tema de agente (ex: "Banking") e um tema visual (ex: "Cyberpunk") e envia uma mensagem.
+2.  **Backend (FastAPI):** A `main.py` recebe a requisição.
+3.  **Carregamento Dinâmico:** O sistema carrega os componentes do agente selecionado (buscador RAG, detector de intenção, prompt do sistema) com base no tema escolhido.
+4.  **Pipeline NLP:** A mensagem do usuário é processada para extrair a intenção, entidades, sentimento e emoções.
+5.  **Decisão de Escalonamento:** O `agent/decision.py` avalia se a conversa deve ser escalada para um atendente humano.
+6.  **Busca RAG:** Se não for escalonado, o `rag/search.py` busca na base de conhecimento vetorial (índice FAISS) por informações relevantes para a consulta.
+7.  **Geração com LLM:** O prompt do sistema, o histórico da conversa, a pergunta do usuário e o contexto recuperado pelo RAG são enviados para a API da OpenAI.
+8.  **Resposta:** A resposta gerada pelo LLM é enviada de volta para o frontend e exibida ao usuário.
+
 ## 📦 Instalação e Execução
+
+Existem duas maneiras de executar o projeto: localmente com um ambiente Python ou usando Docker.
+
+### Opção 1: Execução Local
 
 **1. Clone o repositório e instale as dependências:**
 
 ```bash
-git clone https://github.com/seu-usuario/assistente-bancario.git
+# git clone https://github.com/seu-usuario/assistente-bancario.git
 cd assistente-bancario
 python -m venv venv
 # No Windows
@@ -84,71 +111,67 @@ OPENAI_API_KEY="sk-..."
 
 **4. Construa os Índices de Conhecimento:**
 
-Antes de rodar a aplicação, gere os índices de busca para cada tema de agente.
+Antes de rodar a aplicação, gere os índices de busca para cada tema de agente. Este script irá processar os arquivos em `themes/*/knowledge/` e criar um índice FAISS (`faiss_index`) e um arquivo de passagens (`passages.pkl`) em cada diretório de tema.
 
 ```bash
+source activate_env.sh
+
 python build_all_themes.py
 ```
 
-Este comando irá ler os arquivos em `themes/*/knowledge/` e criar um índice FAISS (`faiss_index.pkl`) e um arquivo de passagens (`passages.pkl`) dentro de cada diretório de tema.
-
 **5. Inicie o Servidor Backend:**
+
+Execute o servidor a partir da raiz do projeto. O Uvicorn irá servir tanto a API quanto o frontend.
 
 ```bash
 cd backend
-uvicorn main:app --reload
+
+python -m uvicorn main:app --reload
 ```
 
-A API estará disponível em `http://localhost:8000`.
+**6. Acesse a Aplicação:**
 
-**6. Use a Interface Web:**
+Abra seu navegador e acesse `http://127.0.0.1:8000`.
 
-Após iniciar o servidor, **abra o arquivo `frontend/index.html` diretamente no seu navegador**.
+### Opção 2: Execução com Docker (Recomendado)
 
-A interface permitirá que você escolha:
-- **Agente:** O especialista com quem você quer conversar.
-- **Visual:** A aparência da janela de chat.
+O `docker-compose` orquestra todos os serviços necessários, incluindo o backend, Redis e Postgres.
 
-## ✨ Como Adicionar Novos Temas
+**1. Pré-requisitos:**
+   - Docker instalado e em execução.
+   - Docker Compose instalado.
 
-### Adicionando um Novo Agente
+**2. Configure a Chave da API:**
+   - Crie o arquivo `.env` na raiz do projeto, como descrito na execução local.
 
-1.  **Crie a Estrutura:** Adicione uma nova pasta dentro de `themes/`. Por exemplo, `themes/legal_expert/`.
-2.  **Adicione os Arquivos:** Dentro da nova pasta, crie:
-    *   Uma pasta `knowledge/` com os arquivos de base de conhecimento (`.txt`, `.pdf`).
-    *   Um arquivo `intents.json` com as intenções e exemplos para o novo domínio.
-    *   Um arquivo `prompt.txt` com o prompt de sistema que define a personalidade do novo agente.
-3.  **Construa o Índice:** Execute novamente o script para indexar o novo tema.
-    ```bash
-    python build_all_themes.py
-    ```
-4.  **Pronto!** Reinicie o servidor e atualize o `frontend/index.html`. O novo agente aparecerá automaticamente no seletor "Agente".
+**3. Construa e Inicie os Containers:**
 
-### Adicionando um Novo Tema Visual
+Execute o seguinte comando na raiz do projeto:
 
-1.  **Crie o CSS:** Adicione um novo arquivo CSS na pasta `frontend/css/`, por exemplo, `cyberpunk.css`.
-2.  **Estilize os Elementos:** Use os arquivos `default.css` ou `matrix.css` como base para garantir que todos os seletores CSS necessários (`#chat-container`, `.message`, etc.) sejam estilizados.
-3.  **Atualize o HTML:**
-    *   Adicione um link para seu novo CSS no `<head>` do `index.html`:
-        ```html
-        <link id="theme-cyberpunk" rel="stylesheet" href="css/cyberpunk.css" disabled>
-        ```
-    *   Adicione a nova opção ao seletor de tema visual:
-        ```html
-        <select id="ui-theme-selector">
-            <option value="default">Padrão</option>
-            <option value="matrix">Matrix</option>
-            <option value="terminator">Exterminador</option>
-            <option value="cyberpunk">Cyberpunk</option> <!-- Nova opção -->
-        </select>
-        ```
-    *   Adicione o novo tema ao objeto JavaScript `themeStylesheets` no `index.html`:
-        ```javascript
-        const themeStylesheets = {
-            'default': document.getElementById('theme-default'),
-            'matrix': document.getElementById('theme-matrix'),
-            'terminator': document.getElementById('theme-terminator'),
-            'cyberpunk': document.getElementById('theme-cyberpunk') // Novo tema
-        };
-        ```
-4.  **Pronto!** Abra o `index.html` no navegador e seu novo tema visual estará disponível para seleção.
+```bash
+docker-compose up --build
+```
+
+Este comando irá:
+- Construir a imagem do Python com todas as dependências.
+- Baixar o modelo do spaCy.
+- Iniciar os serviços de Redis e Postgres.
+- Iniciar a aplicação Python, que por sua vez irá construir os índices dos temas e iniciar o servidor.
+
+**4. Acesse a Aplicação:**
+
+Abra seu navegador e acesse `http://localhost:8000`.
+
+## 🎨 Temas (Agentes)
+
+Para adicionar um novo agente, basta criar uma nova pasta dentro do diretório `themes/`. Por exemplo, para um agente "historiador":
+
+1.  Crie a pasta `themes/historian/`.
+2.  Adicione uma pasta `knowledge/` dentro de `historian/` com seus arquivos `.txt` ou `.pdf`.
+3.  Crie um arquivo `intents.json` com as intenções e exemplos específicos para história.
+4.  Crie um arquivo `prompt.txt` definindo a persona e as regras do agente historiador.
+
+Depois de adicionar o novo tema, execute novamente o script `build_all_themes.py` (se estiver rodando localmente) ou reinicie os containers do Docker para que o novo índice seja criado. O novo agente aparecerá automaticamente no seletor do frontend.
+
+### Video tutorial
+Video demostrando como executar o projeto localmente via Docker pode ser encontrado [aqui](https://youtu.be/ZA3UBZt1Y9U).
