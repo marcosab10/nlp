@@ -172,3 +172,6 @@ Para adicionar um novo agente, basta criar uma nova pasta dentro do diretório `
 4.  Crie um arquivo `prompt.txt` definindo a persona e as regras do agente historiador.
 
 Depois de adicionar o novo tema, execute novamente o script `build_all_themes.py` (se estiver rodando localmente) ou reinicie os containers do Docker para que o novo índice seja criado. O novo agente aparecerá automaticamente no seletor do frontend.
+
+### Video tutorial
+Video demostrando como executar o projeto localmente via Docker pode ser encontrado [aqui](https://youtu.be/ZA3UBZt1Y9U).

@@ -10,10 +10,10 @@
       "type": "n8n-nodes-base.webhook",
       "typeVersion": 2,
       "position": [
-        -300,
-        390
+        -1328,
+        432
       ],
-      "id": "316d26a3-0db3-4a1d-a2d0-167638ec8152",
+      "id": "168fd7a5-f055-470c-938c-155e4fb9a1a7",
       "name": "Webhook",
       "webhookId": "84360156-8594-4957-8c87-6afd2c5dd916"
     },
@@ -29,14 +29,14 @@
       "type": "n8n-nodes-waha.WAHA",
       "typeVersion": 202411,
       "position": [
-        1240,
-        400.5
+        240,
+        448
       ],
-      "id": "e95c9965-e17e-4ae5-b2fb-b6771bf968fe",
+      "id": "9424575c-6ede-49fa-8dff-c465a3dfe7da",
       "name": "Opção 2",
       "credentials": {
         "wahaApi": {
-          "id": "3U0dXIm78wJSUKgi",
+          "id": "5LqEFFy4OI1h70FO",
           "name": "WAHA account"
         }
       }
@@ -53,14 +53,14 @@
       "type": "n8n-nodes-waha.WAHA",
       "typeVersion": 202411,
       "position": [
-        1240,
-        200.5
+        240,
+        256
       ],
-      "id": "c9559f87-acd5-4d6d-b202-d795d4f7650a",
+      "id": "5f8ca39a-77e1-4d58-ada3-ca6ed727d2f9",
       "name": "Opção 1",
       "credentials": {
         "wahaApi": {
-          "id": "3U0dXIm78wJSUKgi",
+          "id": "5LqEFFy4OI1h70FO",
           "name": "WAHA account"
         }
       }
@@ -77,14 +77,14 @@
       "type": "n8n-nodes-waha.WAHA",
       "typeVersion": 202411,
       "position": [
-        1240,
-        600.5
+        240,
+        640
       ],
-      "id": "aae986ca-b052-4bc0-a614-12c44eec6f01",
+      "id": "6efe8458-38b3-4e8b-8d9a-1d1683f7c131",
       "name": "Opção 3",
       "credentials": {
         "wahaApi": {
-          "id": "3U0dXIm78wJSUKgi",
+          "id": "5LqEFFy4OI1h70FO",
           "name": "WAHA account"
         }
       }
@@ -142,10 +142,10 @@
       "type": "n8n-nodes-base.set",
       "typeVersion": 3.4,
       "position": [
-        -80,
-        390
+        -1104,
+        432
       ],
-      "id": "ade4834d-da7c-41d0-9449-5e460f94a5eb",
+      "id": "2e3084be-c037-4459-9fef-dfcc21d43ac2",
       "name": "Filtrando Campos"
     },
     {
@@ -159,14 +159,14 @@
       "type": "n8n-nodes-base.redis",
       "typeVersion": 1,
       "position": [
-        140,
-        390
+        -880,
+        432
       ],
-      "id": "ca02218c-456e-4cbb-975a-420e3f11cbcb",
+      "id": "810f307b-dfe1-477c-8518-abd4d11a213b",
       "name": "Buscando conversar",
       "credentials": {
         "redis": {
-          "id": "0TE1fpszyLC4nMyL",
+          "id": "trp8AiUEpGIDD7Zk",
           "name": "Redis account"
         }
       }
@@ -199,10 +199,10 @@
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.2,
       "position": [
-        360,
-        390
+        -656,
+        432
       ],
-      "id": "4fb3f602-1ff7-4093-9cef-e712c2efeef4",
+      "id": "a3248dc6-0f3f-4661-8285-d7057ce34ad8",
       "name": "Conversar Existe?"
     },
     {
@@ -217,14 +217,14 @@
       "type": "n8n-nodes-waha.WAHA",
       "typeVersion": 202411,
       "position": [
-        1240,
-        -10
+        240,
+        48
       ],
-      "id": "5192038c-fa23-48f7-a08f-b5eef05c8543",
+      "id": "b39b95c8-d6a8-4a54-ada0-e58b134b1b36",
       "name": "Mune do Chat",
       "credentials": {
         "wahaApi": {
-          "id": "3U0dXIm78wJSUKgi",
+          "id": "5LqEFFy4OI1h70FO",
           "name": "WAHA account"
         }
       }
@@ -238,14 +238,14 @@
       "type": "n8n-nodes-base.redis",
       "typeVersion": 1,
       "position": [
-        1460,
-        -10
+        464,
+        48
       ],
-      "id": "66bcf133-16cd-44c1-a57c-ea3a677e1302",
+      "id": "44ff55c4-470e-4f1b-b823-e868055f7164",
       "name": "Salva Status 'aguardando_input_menu'",
       "credentials": {
         "redis": {
-          "id": "0TE1fpszyLC4nMyL",
+          "id": "trp8AiUEpGIDD7Zk",
           "name": "Redis account"
         }
       }
@@ -259,14 +259,14 @@
       "type": "n8n-nodes-base.redis",
       "typeVersion": 1,
       "position": [
-        1460,
-        200.5
+        464,
+        256
       ],
-      "id": "4b1acae2-5d85-4562-9dc3-963454e1189a",
+      "id": "d970ff11-19c2-4509-bf14-38adf983eef6",
       "name": "Salva Status 'aguardando_ia_literatura'",
       "credentials": {
         "redis": {
-          "id": "0TE1fpszyLC4nMyL",
+          "id": "trp8AiUEpGIDD7Zk",
           "name": "Redis account"
         }
       }
@@ -280,14 +280,14 @@
       "type": "n8n-nodes-base.redis",
       "typeVersion": 1,
       "position": [
-        1460,
-        400.5
+        464,
+        448
       ],
-      "id": "e386c5e5-b0be-431b-8aca-bd21c494c325",
+      "id": "016e5582-7d81-4e7e-b8b2-a63a6d5a8662",
       "name": "Salva Status 'aguardando_ia_banco'",
       "credentials": {
         "redis": {
-          "id": "0TE1fpszyLC4nMyL",
+          "id": "trp8AiUEpGIDD7Zk",
           "name": "Redis account"
         }
       }
@@ -300,14 +300,14 @@
       "type": "n8n-nodes-base.redis",
       "typeVersion": 1,
       "position": [
-        1460,
-        600.5
+        464,
+        640
       ],
-      "id": "51ca94eb-8046-4410-9cd0-b8a97d3d643c",
+      "id": "71238663-b560-4643-886e-1bea200e782b",
       "name": "Limpa Status",
       "credentials": {
         "redis": {
-          "id": "0TE1fpszyLC4nMyL",
+          "id": "trp8AiUEpGIDD7Zk",
           "name": "Redis account"
         }
       }
@@ -414,10 +414,10 @@
       "type": "n8n-nodes-base.switch",
       "typeVersion": 3.2,
       "position": [
-        1020,
-        279.5
+        16,
+        320
       ],
-      "id": "922c995f-675e-41f1-bdc7-d9f8155eed8b",
+      "id": "521064a7-9e6e-4d15-bf5c-284f62e5f8ec",
       "name": "Opção Selecionada"
     },
     {
@@ -458,10 +458,10 @@
       "type": "n8n-nodes-base.if",
       "typeVersion": 2.2,
       "position": [
-        580,
-        500.5
+        -432,
+        544
       ],
-      "id": "9b6761fc-ef3b-447f-bfe6-ede5533784ea",
+      "id": "880dff37-879e-4ef3-ba67-4467f87203a0",
       "name": "If"
     },
     {
@@ -543,10 +543,10 @@
       "type": "n8n-nodes-base.switch",
       "typeVersion": 3.2,
       "position": [
-        1020,
-        800.5
+        16,
+        816
       ],
-      "id": "f94bb871-9269-4d0f-ae5a-c5ee74e1cee8",
+      "id": "13af5f59-bd70-4c32-a839-c48bb98f2304",
       "name": "Opção Selecionada1"
     },
     {
@@ -561,14 +561,14 @@
       "type": "n8n-nodes-waha.WAHA",
       "typeVersion": 202411,
       "position": [
-        800,
-        300.5
+        -208,
+        352
       ],
-      "id": "4db46a57-bb59-411c-bb7a-174c7ddecd38",
+      "id": "3a4781be-2bb4-4128-9027-fb544e7e4617",
       "name": "Visualizado 3",
       "credentials": {
         "wahaApi": {
-          "id": "3U0dXIm78wJSUKgi",
+          "id": "5LqEFFy4OI1h70FO",
           "name": "WAHA account"
         }
       }
@@ -585,14 +585,14 @@
       "type": "n8n-nodes-waha.WAHA",
       "typeVersion": 202411,
       "position": [
-        1020,
-        -60
+        16,
+        0
       ],
-      "id": "28ff3c3d-7b79-4fe8-bc89-f7ee900085e4",
+      "id": "22274e93-7ee4-4277-9873-a5777cc0373b",
       "name": "Visualizado ",
       "credentials": {
         "wahaApi": {
-          "id": "3U0dXIm78wJSUKgi",
+          "id": "5LqEFFy4OI1h70FO",
           "name": "WAHA account"
         }
       }
@@ -609,14 +609,14 @@
       "type": "n8n-nodes-waha.WAHA",
       "typeVersion": 202411,
       "position": [
-        800,
-        800.5
+        -208,
+        832
       ],
-      "id": "1b203790-af31-446b-97cb-39586d003b47",
+      "id": "89c1dcee-ee96-44a7-876b-dae93dd1698e",
       "name": "Visualizado 4",
       "credentials": {
         "wahaApi": {
-          "id": "3U0dXIm78wJSUKgi",
+          "id": "5LqEFFy4OI1h70FO",
           "name": "WAHA account"
         }
       }
@@ -633,28 +633,10 @@
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
       "position": [
-        1240,
-        800.5
+        240,
+        1024
       ],
-      "id": "2a6ddac2-e290-45d4-9fae-21c1f25fdb7a",
-      "name": "Chamar AI de Literatura1"
-    },
-    {
-      "parameters": {
-        "method": "POST",
-        "url": "http://python-app:8000/chat",
-        "sendBody": true,
-        "specifyBody": "json",
-        "jsonBody": "={\n  \"session_id\": \"{{ $('Filtrando Campos').item.json.chatid }}\",\n  \"message\": \"{{ $('Filtrando Campos').item.json.messege }}\",\n  \"theme\": \"banking\"\n}",
-        "options": {}
-      },
-      "type": "n8n-nodes-base.httpRequest",
-      "typeVersion": 4.2,
-      "position": [
-        1240,
-        1000.5
-      ],
-      "id": "47271f26-4724-4215-b4e6-7f26bfa5d10a",
+      "id": "d02357e6-ea6f-44e2-9928-4c2721528496",
       "name": "Chamar AI de Banco"
     },
     {
@@ -669,17 +651,59 @@
       "type": "n8n-nodes-waha.WAHA",
       "typeVersion": 202411,
       "position": [
-        1460,
-        1000.5
+        464,
+        1024
       ],
-      "id": "93fd0b6f-2c64-46db-a64b-53e87cc00f45",
+      "id": "08ac4d1c-5b45-455e-824b-01d93f2b93a4",
       "name": "Responder com IA Banco",
       "credentials": {
         "wahaApi": {
-          "id": "3U0dXIm78wJSUKgi",
+          "id": "5LqEFFy4OI1h70FO",
           "name": "WAHA account"
         }
       }
+    },
+    {
+      "parameters": {
+        "resource": "Chatting",
+        "operation": "Send Text",
+        "session": "={{ $('Filtrando Campos').item.json.session }}",
+        "chatId": "={{ $('Filtrando Campos').item.json.chatid }}",
+        "text": "={{ $json.response }}",
+        "requestOptions": {}
+      },
+      "type": "n8n-nodes-waha.WAHA",
+      "typeVersion": 202411,
+      "position": [
+        464,
+        832
+      ],
+      "id": "23a9ceda-2f13-4420-b1d0-c45ef380cd0d",
+      "name": "Responder com IA Leitura",
+      "credentials": {
+        "wahaApi": {
+          "id": "5LqEFFy4OI1h70FO",
+          "name": "WAHA account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://python-app:8000/chat",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"session_id\": \"{{ $('Filtrando Campos').item.json.chatid }}\",\n  \"message\": \"{{ $('Filtrando Campos').item.json.messege }}\",\n  \"theme\": \"literature\"\n}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        240,
+        832
+      ],
+      "id": "30a6e5f4-ea6f-42ef-b47b-044d20619822",
+      "name": "Chamar AI de Literatura"
     }
   ],
   "pinData": {},
@@ -873,7 +897,7 @@
         ],
         [
           {
-            "node": "Chamar AI de Literatura1",
+            "node": "Chamar AI de Literatura",
             "type": "main",
             "index": 0
           }
@@ -897,17 +921,28 @@
           }
         ]
       ]
+    },
+    "Chamar AI de Literatura": {
+      "main": [
+        [
+          {
+            "node": "Responder com IA Leitura",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
     }
   },
   "active": true,
   "settings": {
     "executionOrder": "v1"
   },
-  "versionId": "6a786ceb-64b0-421a-ab17-f21b140da13a",
+  "versionId": "287738d2-4570-4673-89f6-3426880a94f6",
   "meta": {
     "templateCredsSetupCompleted": true,
-    "instanceId": "2086e74bc990378fac4fdbb5eed2feb390a5c67b8d7769fff04bcc4854addd3d"
+    "instanceId": "41eb8158f2fce6c93cf8269da783a794e08578b10cbd4f4afaa5b19a4ee88893"
   },
-  "id": "iWBhJUfsaGHDVdmL",
+  "id": "ZTbajBmLuA7uMwzp",
   "tags": []
 }
